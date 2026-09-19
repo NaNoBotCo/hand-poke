@@ -699,10 +699,10 @@ def front(lang: str) -> str:
     ]))
     b.append(band("legs", "The finding" if en else "ข้อค้นพบ",
                   "The tattoo is clothing" if en else "รอยสักคือเครื่องนุ่งห่ม",
-                  ("Burmese, Lanna, Spanish, Samoan and Ilocano sources reach for the same "
+                  ("Burmese, Northern Thai, Spanish and Samoan sources reach for the same "
                    "comparison, and none of them had read the others."
                    if en else
-                   "แหล่งข้อมูลพม่า ล้านนา สเปน ซามัว และอีโลกาโน เลือกคำเปรียบเดียวกัน โดยไม่ได้อ่านของกันและกัน"),
+                   "แหล่งข้อมูลพม่า ล้านนา สเปน และซามัว เลือกคำเปรียบเดียวกัน โดยไม่ได้อ่านของกันและกัน"),
                   lang, big=str(len(CH["clothing"])),
                   big_label="traditions say so" if en else "ธรรมเนียมที่พูดแบบนี้",
                   href=f"{r}clothing/", cta="Read the quotes" if en else "อ่านคำที่ยกมา"))

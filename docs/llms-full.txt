@@ -2,10 +2,10 @@
 
 > 28 traditions of marking skin by hand — who is marked, who does the marking, and where on the body
 
-130 records, bilingual English and Thai, every claim tiered and sourced. Built 2026-09-19 20:52. A companion page sits on wichaa.net.
+130 records, bilingual English and Thai, every claim tiered and sourced. Built 2026-09-19 20:54. A companion page sits on wichaa.net.
 
 ## Findings
-- **The tattoo is clothing.** 6 traditions on this site have a source that compares the finished work to a garment, in five languages across three centuries: Burmese thigh work as "a skin-tight pair of caleçons" (1882), Lanna work as "black trousers", Visayan work as "a kind of handsome armor", and untattooed Samoan and Cordilleran men as naked, in the ordinary word. Printed with each quote at /clothing/.
+- **The tattoo is clothing.** 5 traditions on this site have a source that compares the finished work to a garment, in five languages across three centuries: Burmese thigh work as "a skin-tight pair of caleçons" (1882), Lanna work as "black trousers", Visayan work as "a kind of handsome armor", and untattooed Samoan and Cordilleran men as naked, in the ordinary word. Printed with each quote at /clothing/.
 - **The leg-tattoo zone crosses modern Thailand rather than stopping at its border.** Burma, the Shan States and Lanna tattooed men from the waist down; Milne's 1910 line that "the Siamese tattoo themselves very slightly, or not at all" is a statement about central Siam, not about Lanna, which was a tributary kingdom until 1899. Drawn at /legs/.
 - **13 of 28 traditions have a Wikipedia article about the tattooing itself**; for the other 15 it is a section inside an article about the people. Counted in language editions at /coverage/.
 - **In 4,710 transcribed pages of the wichaa.net manuscript corpus, สักขาลาย — the Lanna leg tattoo — appears on 1.** Counted at /legs/.
@@ -2986,7 +2986,7 @@ Sources: s:wp-chin-people, s:wp-tattooing-in-myanmar
 
 ## The tattoo is clothing (story/clothing)
 ### what
-Independent sources in Burmese, Lanna, Spanish, Samoan and Ilocano reach for the same comparison: the tattoo is not on the body, it is what the body wears.
+Sources in Burmese, Northern Thai, Spanish and Samoan — and a Cordilleran rule recorded in English — reach for the same comparison: the tattoo is not on the body, it is what the body wears.
 ### story
 Shway Yoe, Burma, 1882, on the finished *htoe kwin*: the effect is "not so much of a marking of the cuticle as of **a skin-tight pair of caleçons**, fitting better than the best glove ever made."
 
