@@ -615,6 +615,17 @@ text.taxl.dark{fill:var(--ink)}
 svg.tl{min-width:50rem}
 .tlab{font:500 11px/1 var(--body);fill:var(--ink)}
 .ttrad{fill:var(--jade);opacity:.55}
+
+/* ---- fixed fills
+   A text box paints its fill the way a band paints its photograph: as a background the
+   page moves over, anchored to the window rather than to the box. The colours are the
+   ones already set above; only where they sit changes. Off for coarse pointers and for
+   reduced motion, the same places the bands drop theirs. */
+.card,figure.shot,.hero-shot,.strip figure,figure.map,details,.sharebar,.result,
+.slab,.band .cred{background-attachment:fixed}
+@media (pointer:coarse),(prefers-reduced-motion:reduce){
+ .card,figure.shot,.hero-shot,.strip figure,figure.map,details,.sharebar,.result,
+ .slab,.band .cred{background-attachment:scroll}}
 </style>
 <script type="application/ld+json">[{"@context": "https://schema.org", "@type": "Article", "headline": "Wat Phumin", "inLanguage": "en", "url": "https://nanobotco.github.io/hand-poke/place/wat-phumin/", "author": {"@type": "Person", "name": "NaN", "url": "https://wichaa.net"}, "creator": {"@type": "Organization", "name": "wichaa.net", "url": "https://wichaa.net/", "description": "A manuscript corpus and knowledge hub in Chiang Mai"}, "license": "https://creativecommons.org/licenses/by/4.0/", "dateModified": "2026-09-19"}]</script>
 <script defer src="/hand-poke/copy.js"></script>
