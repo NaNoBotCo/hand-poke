@@ -17,7 +17,8 @@ licence.
 ## The findings
 
 **The tattoo is clothing.** 6 traditions here have a source that compares
-the finished work to a garment, in five languages across three centuries: Burmese thigh work
+the finished work to a garment, in four languages across three centuries — and a
+Cordilleran rule recorded in English: Burmese thigh work
 as "a skin-tight pair of caleçons" (Shway Yoe, 1882), Lanna work as "black trousers", Visayan
 work as "a kind of handsome armor", and untattooed Samoan and Cordilleran men as naked — in
 the ordinary word, not as a figure of speech. Every quote is printed with its source at

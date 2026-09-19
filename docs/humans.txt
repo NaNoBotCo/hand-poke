@@ -8,7 +8,7 @@ OpenStreetMap contributors · Wikidata · Wikipedia (English and Thai) · Wikime
 
 /* SITE */
 Records: 130
-Built: 2026-09-19 20:54
+Built: 2026-09-19 21:04
 Standards: HTML5, CSS, no framework, no tracker, no web font
 
 #

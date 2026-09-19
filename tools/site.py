@@ -1572,8 +1572,9 @@ def llms_txt() -> str:
              f"sourced. Built {COV['built']}. A companion page sits on wichaa.net.", "",
              "## Findings",
              f"- **The tattoo is clothing.** {len(CH['clothing'])} traditions on this site "
-             f"have a source that compares the finished work to a garment, in five "
-             f"languages across three centuries: Burmese thigh work as \"a skin-tight pair "
+             f"have a source that compares the finished work to a garment, in four "
+             f"languages across three centuries, plus a Cordilleran rule recorded in "
+             f"English: Burmese thigh work as \"a skin-tight pair "
              f"of caleçons\" (1882), Lanna work as \"black trousers\", Visayan work as "
              f"\"a kind of handsome armor\", and untattooed Samoan and Cordilleran men as "
              f"naked, in the ordinary word. Printed with each quote at /clothing/.",
