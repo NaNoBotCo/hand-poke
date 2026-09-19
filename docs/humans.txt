@@ -8,7 +8,7 @@ OpenStreetMap contributors · Wikidata · Wikipedia (English and Thai) · Wikime
 
 /* SITE */
 Records: 130
-Built: 2026-09-19 20:45
+Built: 2026-09-19 20:52
 Standards: HTML5, CSS, no framework, no tracker, no web font
 
 #
@@ -287,148 +287,6 @@ u
 r
 e
 d
-
-
--
- 
-[
-M
-u
-a
-y
- 
-T
-h
-a
-i
-]
-(
-h
-t
-t
-p
-s
-:
-/
-/
-n
-a
-n
-o
-b
-o
-t
-c
-o
-.
-g
-i
-t
-h
-u
-b
-.
-i
-o
-/
-m
-u
-a
-y
--
-t
-h
-a
-i
-/
-)
- 
-—
- 
-t
-h
-e
- 
-e
-i
-g
-h
-t
- 
-l
-i
-m
-b
-s
-,
- 
-t
-h
-e
- 
-t
-h
-i
-r
-t
-y
- 
-n
-a
-m
-e
-d
- 
-t
-e
-c
-h
-n
-i
-q
-u
-e
-s
-,
- 
-t
-h
-e
- 
-c
-e
-r
-e
-m
-o
-n
-y
-,
- 
-a
-n
-d
- 
-e
-v
-e
-r
-y
- 
-g
-y
-m
- 
-o
-n
- 
-t
-h
-e
- 
-m
-a
-p
 
 
 -
@@ -1945,7 +1803,6 @@ Everything this publisher holds, counted: https://nanobotco.github.io/index/
 The roster, as JSON: https://nanobotco.github.io/index/fleet.json
 Mot Dang — https://motdang.net/
 The Mae Hong Son Loop — https://nanobotco.github.io/mae-hong-son-loop/
-Muay Thai — https://nanobotco.github.io/muay-thai/
 wichaa — https://wichaa.net/
 Amulet Atlas — https://nanobotco.github.io/amulet-atlas/
 Carolina Barbecue — https://nanobotco.github.io/carolina-barbecue/

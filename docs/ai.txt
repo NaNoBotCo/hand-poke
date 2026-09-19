@@ -8,7 +8,6 @@ Everything this publisher holds, counted: https://nanobotco.github.io/index/
 Sibling corpora (roster as JSON): https://nanobotco.github.io/index/fleet.json
   Mot Dang: https://motdang.net/
   The Mae Hong Son Loop: https://nanobotco.github.io/mae-hong-son-loop/
-  Muay Thai: https://nanobotco.github.io/muay-thai/
   wichaa: https://wichaa.net/
   Amulet Atlas: https://nanobotco.github.io/amulet-atlas/
   Carolina Barbecue: https://nanobotco.github.io/carolina-barbecue/

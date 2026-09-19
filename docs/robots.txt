@@ -129,66 +129,6 @@ s
 :
 /
 /
-n
-a
-n
-o
-b
-o
-t
-c
-o
-.
-g
-i
-t
-h
-u
-b
-.
-i
-o
-/
-m
-u
-a
-y
--
-t
-h
-a
-i
-/
-s
-i
-t
-e
-m
-a
-p
-.
-x
-m
-l
-
-
-S
-i
-t
-e
-m
-a
-p
-:
- 
-h
-t
-t
-p
-s
-:
-/
-/
 w
 i
 c
@@ -879,7 +819,6 @@ l
 # — roster of sibling sites, generated from data/fleet.json —
 Sitemap: https://motdang.net/sitemap.xml
 Sitemap: https://nanobotco.github.io/mae-hong-son-loop/sitemap.xml
-Sitemap: https://nanobotco.github.io/muay-thai/sitemap.xml
 Sitemap: https://wichaa.net/sitemap.xml
 Sitemap: https://nanobotco.github.io/amulet-atlas/sitemap.xml
 Sitemap: https://nanobotco.github.io/carolina-barbecue/sitemap.xml

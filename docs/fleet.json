@@ -26,16 +26,6 @@
       "sitemap": "https://nanobotco.github.io/mae-hong-son-loop/sitemap.xml"
     },
     {
-      "id": "muay-thai",
-      "name": "Muay Thai",
-      "th": "มวยไทย",
-      "url": "https://nanobotco.github.io/muay-thai/",
-      "note": "the eight limbs, the thirty named techniques, the ceremony, and every gym on the map",
-      "lane": "directory",
-      "audience": "th",
-      "sitemap": "https://nanobotco.github.io/muay-thai/sitemap.xml"
-    },
-    {
       "id": "wichaa",
       "name": "wichaa",
       "th": "วิชา",
@@ -44,6 +34,16 @@
       "lane": "directory",
       "audience": "th",
       "sitemap": "https://wichaa.net/sitemap.xml"
+    },
+    {
+      "id": "hand-poke",
+      "name": "Hand Poke",
+      "th": "สักด้วยมือ",
+      "url": "https://nanobotco.github.io/hand-poke/",
+      "note": "28 traditions of marking skin by hand — the leg-tattoo zone of Burma, the Shan States and Lanna, counted",
+      "lane": "directory",
+      "audience": "th",
+      "sitemap": "https://nanobotco.github.io/hand-poke/sitemap.xml"
     },
     {
       "id": "amulet-atlas",
