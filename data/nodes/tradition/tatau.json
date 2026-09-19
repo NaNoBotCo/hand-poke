@@ -1,0 +1,152 @@
+{
+ "schema": 1,
+ "id": "tatau",
+ "type": "tradition",
+ "names": {
+  "name": "Tatau",
+  "local": "tatau",
+  "local_lang": "Samoan",
+  "aliases": [
+   "pe'a",
+   "malu"
+  ],
+  "said": "The word English borrowed, by way of Cook's crew"
+ },
+ "region": [
+  "oceania"
+ ],
+ "facets": {
+  "family": "tap",
+  "status": "living"
+ },
+ "when": {
+  "from": -1000,
+  "to": 2026,
+  "circa": true,
+  "label": "Unbroken: the two tufuga families hold the titles still"
+ },
+ "practice": {
+  "method": "tap",
+  "tool": "au",
+  "ink": "soot-water",
+  "placement": [
+   "waist-to-knee",
+   "back",
+   "thighs"
+  ],
+  "marked": "both",
+  "marks": "kin",
+  "status": "living",
+  "countries": [
+   "WS",
+   "AS",
+   "TO",
+   "FJ"
+  ],
+  "first_record": 1787,
+  "sessions": "days, in several sittings, with assistants stretching the skin",
+  "note": "The pe'a covers a man from mid-back to the knees; the malu is the women's."
+ },
+ "text": {
+  "what": "Samoa: a comb of bone and turtle shell, struck with a mallet, covering a man from the middle of the back to the knees.",
+  "story": "The English word *tattoo* comes from this word. The *tufuga tā tatau* works with two assistants, the *'au toso*, who stretch the skin and wipe; the titles are hereditary in two families, the Sa Su'a of Savai'i and the Sa Tulou'ena of Upolu, and Samoan masters tattooed Tongan and Fijian chiefly families too.\n\nThe clothing logic is explicit here as well: an untattooed Samoan man is *telefua* or *telenoa* — naked. A man who starts the *pe'a* and cannot finish carries *pe'a mutu*, an unfinished tattoo, and that is a mark of shame that the finished work is designed to prevent.\n\nSamoa credits Fiji with the origin, in a song about twin sisters who swam across with a basket of tools, singing that only women should be tattooed — and arrived singing the opposite."
+ },
+ "text_th": {
+  "what": "ซามัว หวีกระดูกและกระดองเต่าตอกด้วยค้อน คลุมชายตั้งแต่กลางหลังถึงเข่า"
+ },
+ "kin": [
+  {
+   "to": "au",
+   "as": "The comb.",
+   "rel": "tool"
+  },
+  {
+   "to": "veiqia",
+   "as": "Fiji, where Samoa says it came from — and where only women were marked.",
+   "rel": "tradition"
+  },
+  {
+   "to": "clothing",
+   "as": "An untattooed man is called naked. In the language, not in a metaphor.",
+   "rel": "finding"
+  },
+  {
+   "to": "cook-1769",
+   "as": "How the word got into English.",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Pe'a",
+   "url": "https://en.wikipedia.org/wiki/Pe%CA%BBa"
+  }
+ ],
+ "sources": [
+  "s:wp-pe-a",
+  "s:turner-samoa"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-pe-a"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "start-here",
+  "initiation"
+ ],
+ "images": [
+  {
+   "file": "tatau/tatau-back-view-samoan-male-tatau-photo-thomas-andrew-1890s.jpg",
+   "source": "commons",
+   "title": "File:Back view Samoan male tatau - photo Thomas Andrew - 1890s.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Back_view_Samoan_male_tatau_-_photo_Thomas_Andrew_-_1890s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ABack_view_Samoan_male_tatau_-_photo_Thomas_Andrew_-_1890s.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Thomas Andrew (1855 - 1939)",
+   "credit": "National Library of New Zealand",
+   "alt": "Back view of Samoan male with traditional tattoo (tatau, pe'a).",
+   "date": "circa 1890sdate QS:P,+1890-00-00T00:00:0",
+   "primary": true,
+   "sha256": "c9309b2095a7d0092d3962b210dfcde2df69d6143b4a97920cd35c369b72c83d"
+  },
+  {
+   "file": "tatau/tatau-samoan-malu.jpg",
+   "source": "commons",
+   "title": "File:Samoan Malu.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Samoan_Malu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ASamoan_Malu.jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "author": "RunningToddler",
+   "credit": "Bits &amp; Bytes",
+   "alt": "Самоанская женщина с традиционной малу",
+   "date": "2005-11-26 18:23",
+   "primary": false,
+   "sha256": "4b6ef2734088b84b16eafb171afee2c777459884068ff840fd3efbe67a65012c"
+  }
+ ],
+ "x_clothing": {
+  "quote": "Untattooed Samoan males are colloquially referred to as telefua or telenoa, literally \"naked\".",
+  "lang": "Samoan",
+  "source": "s:wp-pe-a",
+  "year": 2020,
+  "garment": "clothes"
+ },
+ "geo": {
+  "lat": -13.8,
+  "lon": -172.1,
+  "precision": "region",
+  "source": "s:commons"
+ },
+ "updated": "2026-09-19"
+}

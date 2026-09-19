@@ -1,0 +1,75 @@
+{
+ "note": "Broad regions, for grouping records a reader arrives at sideways. A record may carry more than one.",
+ "entries": [
+  {
+   "key": "mainland-southeast-asia",
+   "name": "Mainland Southeast Asia",
+   "th": "เอเชียตะวันออกเฉียงใต้ภาคพื้นทวีป"
+  },
+  {
+   "key": "lanna",
+   "name": "Lanna and the Shan States",
+   "th": "ล้านนาและรัฐฉาน"
+  },
+  {
+   "key": "island-southeast-asia",
+   "name": "Island Southeast Asia",
+   "th": "เอเชียตะวันออกเฉียงใต้ภาคพื้นสมุทร"
+  },
+  {
+   "key": "east-asia",
+   "name": "East Asia",
+   "th": "เอเชียตะวันออก"
+  },
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "th": "เอเชียใต้"
+  },
+  {
+   "key": "oceania",
+   "name": "Oceania",
+   "th": "โอเชียเนีย"
+  },
+  {
+   "key": "arctic",
+   "name": "The Arctic",
+   "th": "อาร์กติก"
+  },
+  {
+   "key": "the-americas",
+   "name": "The Americas",
+   "th": "ทวีปอเมริกา"
+  },
+  {
+   "key": "europe",
+   "name": "Europe",
+   "th": "ยุโรป"
+  },
+  {
+   "key": "west-asia",
+   "name": "West Asia",
+   "th": "เอเชียตะวันตก"
+  },
+  {
+   "key": "north-africa",
+   "name": "North Africa",
+   "th": "แอฟริกาเหนือ"
+  },
+  {
+   "key": "africa",
+   "name": "Africa",
+   "th": "แอฟริกา"
+  },
+  {
+   "key": "siberia",
+   "name": "Siberia and Central Asia",
+   "th": "ไซบีเรียและเอเชียกลาง"
+  },
+  {
+   "key": "worldwide",
+   "name": "Everywhere",
+   "th": "ทั่วโลก"
+  }
+ ]
+}

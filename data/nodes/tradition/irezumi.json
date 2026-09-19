@@ -1,0 +1,147 @@
+{
+ "schema": 1,
+ "id": "irezumi",
+ "type": "tradition",
+ "names": {
+  "name": "Irezumi",
+  "local": "入れ墨",
+  "local_lang": "Japanese",
+  "aliases": [
+   "tebori",
+   "horimono"
+  ],
+  "said": "ire-zumi — inserting ink"
+ },
+ "region": [
+  "east-asia"
+ ],
+ "facets": {
+  "family": "poke",
+  "status": "living"
+ },
+ "when": {
+  "from": 1700,
+  "to": 2026,
+  "label": "Outlawed in the Meiji period, legalised in 1948, still marked as criminal"
+ },
+ "practice": {
+  "method": "poke",
+  "tool": "nomi",
+  "ink": "nara-ink",
+  "placement": [
+   "back",
+   "chest",
+   "arms",
+   "legs",
+   "whole-body"
+  ],
+  "marked": "both",
+  "marks": "specialist",
+  "status": "living",
+  "countries": [
+   "JP"
+  ],
+  "first_record": 1700,
+  "suppressed_by": "outlawed at the opening of the Meiji period; legalised by the occupation in 1948",
+  "sessions": "years of weekly sittings for a full suit",
+  "note": "Needles bound to a wooden handle with silk thread, pushed by hand at an angle."
+ },
+ "text": {
+  "what": "Japan: needles bound with silk to a wooden rod, worked by hand — *tebori*, carving by hand — over years, in a design that covers the body like a garment.",
+  "story": "The word says the method: *irezumi*, inserting ink. Nara ink goes grey-blue under the skin. A full back piece is not a session but a relationship, and the shape it takes — shoulders, chest panels, a gap down the sternum — is a suit of clothes that can be closed over.\n\nThe Meiji government outlawed it while courting foreign opinion, and foreigners promptly came to Japan to be tattooed. The occupation legalised it in 1948. Japanese law then held for decades that tattooing needed a medical licence, until a 2020 decision ended that. The criminal association it acquired under the ban has outlived the ban by seventy years."
+ },
+ "text_th": {
+  "what": "ญี่ปุ่น เข็มมัดด้วยไหมติดด้ามไม้ ทำด้วยมือ — *เทโบริ* — ต่อเนื่องหลายปี จนลายคลุมตัวเหมือนเสื้อผ้า"
+ },
+ "kin": [
+  {
+   "to": "nomi",
+   "as": "The tool.",
+   "rel": "tool"
+  },
+  {
+   "to": "meiji-ban",
+   "as": "The ban that made it criminal.",
+   "rel": "story"
+  },
+  {
+   "to": "ainu-anchi-piri",
+   "as": "The other tradition in the same islands, which the word also covers.",
+   "rel": "tradition"
+  }
+ ],
+ "links": [
+  {
+   "label": "Irezumi",
+   "url": "https://en.wikipedia.org/wiki/Irezumi"
+  }
+ ],
+ "sources": [
+  "s:wp-irezumi",
+  "s:wp-horimono",
+  "s:wp-yakuza"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-irezumi"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "ban",
+  "start-here"
+ ],
+ "images": [
+  {
+   "file": "irezumi/irezumi-roshi-ensei-lifting-a-heavy-beam.jpg",
+   "source": "commons",
+   "title": "File:Roshi Ensei lifting a heavy beam.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Roshi_Ensei_lifting_a_heavy_beam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ARoshi_Ensei_lifting_a_heavy_beam.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Utagawa Kuniyoshi",
+   "credit": "http://visipix.com/search/search.php?userid=1616934267&amp;q=%272aAuthors/K/Kuniyoshi%201797-1861%2C%20Utagawa%2C%20Japan%27&amp;s=23&amp;l=en&amp;u=2&amp;ub=1&amp;k=1tm",
+   "alt": "This print illustrates a wrestling match where Yan Qing the Graceful (Roshi Ensei) with all his body tattooed is lifting a heavy beam.",
+   "date": "before 1861date QS:P,+1861-00-00T00:00:0",
+   "primary": true,
+   "sha256": "c0ff5177d5012fb98a84dc3b979f3f9918a6b1164a204847b9788b67ce748f19"
+  },
+  {
+   "file": "irezumi/irezumi-senkaji-chao-wringing-out-hin-loincloth.jpg",
+   "source": "commons",
+   "title": "File:Senkaji Chao wringing out hin loincloth.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Senkaji_Chao_wringing_out_hin_loincloth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ASenkaji_Chao_wringing_out_hin_loincloth.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "",
+   "credit": "",
+   "alt": "Senkaji Chao wringing out hin loincloth.jpg",
+   "date": "",
+   "primary": false,
+   "sha256": "6cfdc131ebb09e127fe84b43be2b1c6ad2f9dd6e36a392f5bebd268c909207dc"
+  }
+ ],
+ "x_clothing": {
+  "quote": "A full suit: shoulders, chest panels, and a gap down the sternum that closes under an open shirt.",
+  "lang": "English, of Japanese work",
+  "source": "s:wp-irezumi",
+  "year": 2020,
+  "garment": "suit"
+ },
+ "geo": {
+  "lat": 35.68,
+  "lon": 139.69,
+  "precision": "region",
+  "source": "s:commons"
+ },
+ "updated": "2026-09-19"
+}

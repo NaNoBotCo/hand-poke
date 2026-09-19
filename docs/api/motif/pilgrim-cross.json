@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "id": "pilgrim-cross",
+ "type": "motif",
+ "names": {
+  "name": "The pilgrim's cross"
+ },
+ "region": [
+  "west-asia"
+ ],
+ "facets": {
+  "does": "belonging"
+ },
+ "mark": {
+  "does": "A small cross on the inside of the wrist, printed from a carved block and then marked in.",
+  "where": [
+   "hands",
+   "arms"
+  ],
+  "earned": false
+ },
+ "text": {
+  "what": "A small cross on the inside of the wrist, printed from a carved block and then marked in.",
+  "story": "Some of the Razzouk family's blocks are three centuries old, which makes the design older than most of the tattoo machines that now apply it."
+ },
+ "text_th": {
+  "what": "ไม้กางเขนเล็กๆ บนข้อมือด้านใน ประทับจากแม่พิมพ์แกะไม้แล้วจึงลงเข็ม"
+ },
+ "kin": [
+  {
+   "to": "coptic-pilgrim",
+   "as": "The tradition it belongs to.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:wp-razzouk-tattoo"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-razzouk-tattoo"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [],
+ "updated": "2026-09-19",
+ "kin_in": []
+}

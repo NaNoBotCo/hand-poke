@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "id": "saya-chein",
+ "type": "person",
+ "names": {
+  "name": "Saya Chein",
+  "said": "Fifteen figures in a little over half an hour"
+ },
+ "region": [
+  "mainland-southeast-asia"
+ ],
+ "facets": {
+  "role": "practitioner"
+ },
+ "when": {
+  "from": 1870,
+  "to": 1890,
+  "circa": true,
+  "label": "Working when Shway Yoe was writing"
+ },
+ "text": {
+  "what": "A Burmese tattooist named in passing in 1882 — the only working *saya* of the period this site can put a name to.",
+  "story": "Shway Yoe: \"I have had fifteen figures done in little over half an hour. But then Saya Chein is a celebrated man.\"\n\nThat is the whole of the record. A rate, a reputation, a name, and nothing else — no dates, no village, no line of teachers. *Inference —* set that beside the Chiang Mai operation that publishes seventeen masters with their teachers, their temples and their years in the robe, and the difference is not that one tradition kept records. It is that one of them is still alive to keep them."
+ },
+ "text_th": {
+  "what": "ช่างสักพม่าที่ถูกเอ่ยชื่อผ่านๆ ในปี 1882 และเป็นช่างในยุคนั้นคนเดียวที่เว็บนี้เรียกชื่อได้"
+ },
+ "kin": [
+  {
+   "to": "htoe-kwin",
+   "as": "His work.",
+   "rel": "tradition"
+  },
+  {
+   "to": "sak-yant-chiang-mai",
+   "as": "What a recorded lineage looks like when the tradition is still running.",
+   "rel": "org"
+  }
+ ],
+ "sources": [
+  "s:shway-yoe"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:shway-yoe"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "colonial-record"
+ ],
+ "updated": "2026-09-19",
+ "kin_in": []
+}

@@ -1,0 +1,89 @@
+{
+ "schema": 1,
+ "id": "marquesan-patutiki",
+ "type": "tradition",
+ "names": {
+  "name": "Patutiki",
+  "local": "patu tiki",
+  "local_lang": "Marquesan",
+  "said": "To strike the image"
+ },
+ "region": [
+  "oceania"
+ ],
+ "facets": {
+  "family": "tap",
+  "status": "revived"
+ },
+ "when": {
+  "from": 1500,
+  "to": 2026,
+  "circa": true,
+  "label": "Suppressed by mission and administration; documented by Handy in 1922, revived since the 1980s"
+ },
+ "practice": {
+  "method": "tap",
+  "ink": "soot-water",
+  "placement": [
+   "whole-body",
+   "face",
+   "legs",
+   "hands"
+  ],
+  "marked": "both",
+  "marks": "specialist",
+  "status": "revived",
+  "countries": [
+   "PF"
+  ],
+  "first_record": 1922,
+  "break": [
+   1900,
+   1980
+  ],
+  "revived": 1980,
+  "suppressed_by": "French administration and Catholic mission",
+  "note": "The densest body coverage recorded anywhere in the Pacific."
+ },
+ "text": {
+  "what": "The Marquesas: coverage so complete that Willowdean Handy's 1922 survey had to be drawn panel by panel to record it.",
+  "story": "Handy's *Tattooing in the Marquesas* is a Bishop Museum bulletin, out of copyright, and it is a catalogue of motifs recorded when very few marked people were left. The name says the method: *patu tiki*, to strike the image."
+ },
+ "text_th": {
+  "what": "หมู่เกาะมาร์เคซัส ลายคลุมตัวหนาแน่นที่สุดเท่าที่บันทึกไว้ในแปซิฟิก"
+ },
+ "links": [
+  {
+   "label": "Marquesas Islands",
+   "url": "https://en.wikipedia.org/wiki/Marquesas_Islands"
+  }
+ ],
+ "sources": [
+  "s:handy-marquesas",
+  "s:wp-marquesas-islands"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:handy-marquesas"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "revival",
+  "colonial-record"
+ ],
+ "geo": {
+  "lat": -9.8,
+  "lon": -139.05,
+  "precision": "region",
+  "source": "s:commons"
+ },
+ "updated": "2026-09-19"
+}

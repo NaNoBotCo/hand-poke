@@ -1,0 +1,156 @@
+{
+ "schema": 1,
+ "id": "sicanje",
+ "type": "tradition",
+ "names": {
+  "name": "Sicanje",
+  "local": "sicanje",
+  "local_lang": "Croatian",
+  "aliases": [
+   "bocanje",
+   "bockanje"
+  ],
+  "said": "sicanje — pricking; crosses and circles on the forearms and chest"
+ },
+ "region": [
+  "europe"
+ ],
+ "facets": {
+  "family": "poke",
+  "status": "dormant"
+ },
+ "when": {
+  "from": 1500,
+  "to": 1945,
+  "circa": true,
+  "label": "Died out after the Second World War; the designs are being used again by machine"
+ },
+ "practice": {
+  "method": "poke",
+  "ink": "soot-honey",
+  "placement": [
+   "arms",
+   "hands",
+   "chest"
+  ],
+  "marked": "women",
+  "marks": "women",
+  "status": "dormant",
+  "countries": [
+   "BA",
+   "HR"
+  ],
+  "first_record": 1894,
+  "first_record_note": "Leopold Glück's 1894 paper in Vienna; Ćiro Truhelka illustrated the designs in the same decade",
+  "break": [
+   1945,
+   2026
+  ],
+  "note": "Catholic Croats in central Bosnia; the marks went on girls, and sometimes boys, around puberty."
+ },
+ "text": {
+  "what": "Bosnia: Catholic girls' forearms and hands marked with crosses, circles and fences, pricked with soot and honey.",
+  "story": "Two nineteenth-century observers recorded it — the archaeologist Ćiro Truhelka, who drew the designs, and a doctor, Leopold Glück, who published a paper in Vienna in 1894 titled *The Tattooing of Skin Among the Catholics of Bosnia and Herzegovina*.\n\nThe custom went out after the Second World War. What survives is the design vocabulary, now being applied by machine by tattooists in Croatia and Bosnia — a revival of the pattern without the practice, which is a distinct thing and this site counts it separately."
+ },
+ "text_th": {
+  "what": "บอสเนีย เด็กหญิงคาทอลิกถูกสักไม้กางเขนและวงกลมที่แขนและมือ ด้วยเขม่าผสมน้ำผึ้ง"
+ },
+ "kin": [
+  {
+   "to": "coptic-pilgrim",
+   "as": "The other Christian hand-poke tradition on this site.",
+   "rel": "tradition"
+  },
+  {
+   "to": "who-wrote-it-down",
+   "as": "Recorded by a doctor and an archaeologist, which is the usual pair.",
+   "rel": "issue"
+  }
+ ],
+ "links": [
+  {
+   "label": "Sicanje",
+   "url": "https://en.wikipedia.org/wiki/Sicanje"
+  }
+ ],
+ "sources": [
+  "s:wp-sicanje",
+  "s:wp-croats-of-bosnia-and-herzegovina"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-sicanje"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "women",
+  "colonial-record"
+ ],
+ "images": [
+  {
+   "file": "sicanje/sicanje-bh-croats-tattoo.jpg",
+   "source": "commons",
+   "title": "File:BH Croats, Tattoo.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/BH_Croats%2C_Tattoo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ABH_Croats%2C_Tattoo.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Mostarac",
+   "credit": "https://www.croatianhistory.net/gif/tattoo1.jpg",
+   "alt": "Tattoos of Cross on Croatian women in Bosnia and Herzegovina were defence from Ottoman Turks",
+   "date": "starije od 70 godina / older then 70 yea",
+   "primary": true,
+   "sha256": "d7a6f855b9fa0cf0e5047c0f7c23fe50d46537af5312f343f32901d407ee9b22"
+  },
+  {
+   "file": "sicanje/sicanje-frau-aus-dem-lasvatale.jpg",
+   "source": "commons",
+   "title": "File:Frau aus dem Lasvatale.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Frau_aus_dem_Lasvatale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AFrau_aus_dem_Lasvatale.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "R. Kofzmann",
+   "credit": "III: Band; Mann und Weib in ihren Beziehungen zur Kultur der Gegenwart. page 455.",
+   "alt": "nach \"Mitteilungen aus Bosnien und der Herzegowina\"\nFrau aus dem Lasvatale.",
+   "date": "1910",
+   "primary": false,
+   "sha256": "42fb74b361b6e519212578e01914f94789367bd0440eafad774abe376ce118a0"
+  }
+ ],
+ "geo": {
+  "lat": 44.0,
+  "lon": 17.7,
+  "precision": "region",
+  "source": "s:commons"
+ },
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "coptic-pilgrim",
+   "type": "tradition",
+   "name": "The pilgrim's cross",
+   "as": "Christian marks made by pricking, at the other end of the Mediterranean."
+  },
+  {
+   "from": "soot-honey",
+   "type": "ink",
+   "name": "Soot and honey",
+   "as": "Where it goes."
+  },
+  {
+   "from": "truhelka-gluck",
+   "type": "person",
+   "name": "Truhelka and Glück",
+   "as": "What they recorded."
+  }
+ ]
+}

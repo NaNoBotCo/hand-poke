@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "id": "indigo",
+ "type": "ink",
+ "names": {
+  "name": "Indigo",
+  "th": "คราม",
+  "said": "The plant blue: Ainu mouths, Chin faces"
+ },
+ "region": [
+  "east-asia",
+  "mainland-southeast-asia"
+ ],
+ "facets": {
+  "colour": "blue-black"
+ },
+ "text": {
+  "what": "Pigment from the indigo plant, used by the Ainu and reported for the blue lines on Chin women's faces.",
+  "story": "Ainu and Ryukyuan tattooing both use indigo rather than soot, in islands where indigo dyeing is also the textile tradition. The same plant, the same vats, a different surface."
+ },
+ "text_th": {
+  "what": "สีจากต้นคราม ชาวไอนุใช้ และมีรายงานว่าเส้นสีน้ำเงินบนใบหน้าหญิงชาวชินก็ใช้"
+ },
+ "kin": [
+  {
+   "to": "ainu-anchi-piri",
+   "as": "Where it goes.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:wp-irezumi",
+  "s:wp-ainu-people",
+  "s:wp-indigo-dye",
+  "s:wp-tattooing-in-myanmar"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-irezumi"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-19",
+ "kin_in": []
+}

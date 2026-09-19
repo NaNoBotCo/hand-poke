@@ -1,0 +1,66 @@
+{
+ "schema": 1,
+ "id": "soot-water",
+ "type": "ink",
+ "names": {
+  "name": "Soot and water",
+  "said": "The commonest ink on earth: something burnt, something wet"
+ },
+ "region": [
+  "worldwide"
+ ],
+ "facets": {
+  "colour": "black"
+ },
+ "text": {
+  "what": "Ash or soot from a fire, ground and mixed with water, oil, plant juice or animal bile.",
+  "story": "Across the whole map the base ingredient is carbon and the variable is the liquid. The Philippines: soot or ashes with water, oil, plant extracts like sugarcane juice, or pig bile. Kurdistan: soot with breast milk, reportedly. Bosnia: soot with honey, and sometimes saliva. Ötzi's marks were made from soot or fireplace ash.\n\n*Inference —* carbon is the pigment every human group already had. Any fire makes it, it does not fade, and the particle is large enough to stay where it is put. Nothing else available before industrial chemistry does all three."
+ },
+ "text_th": {
+  "what": "ขี้เถ้าหรือเขม่าจากกองไฟ บดผสมน้ำ น้ำมัน น้ำจากพืช หรือดีสัตว์"
+ },
+ "kin": [
+  {
+   "to": "lampblack",
+   "as": "The refined version.",
+   "rel": "ink"
+  },
+  {
+   "to": "otzi",
+   "as": "The oldest example that has been analysed.",
+   "rel": "find"
+  }
+ ],
+ "sources": [
+  "s:wp-batok",
+  "s:wp-tzi",
+  "s:wp-sicanje",
+  "s:wp-deq-tattoo",
+  "s:wp-carbon-black"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-batok"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "measured"
+ ],
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "otzi",
+   "type": "find",
+   "name": "Ötzi",
+   "as": "What the pigment turned out to be."
+  }
+ ]
+}

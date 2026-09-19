@@ -1,0 +1,458 @@
+{
+ "type": "find",
+ "count": 7,
+ "nodes": [
+  {
+   "schema": 1,
+   "id": "arku-cave",
+   "type": "find",
+   "names": {
+    "name": "The Arku Cave tools",
+    "said": "Cagayan, northern Luzon — hafted tattoo heads from before 1500 BCE"
+   },
+   "region": [
+    "island-southeast-asia"
+   ],
+   "facets": {
+    "era": "prehistory"
+   },
+   "when": {
+    "from": -1500,
+    "to": -1400,
+    "circa": true,
+    "label": "Dated before 1500 BCE"
+   },
+   "text": {
+    "what": "Chisel and serrated heads of probable hafted tattooing instruments, excavated in a burial site in northern Luzon.",
+    "story": "They came up alongside adzes, spindle whorls, barkcloth beaters and lingling-o jade ornaments — the standard Austronesian kit — and they closely resemble the comb-type tattoo chisels found across Polynesia three thousand years later.\n\n*Inference —* a tool type that travelled the whole Pacific is sitting in a cave in Luzon before 1500 BCE. The method on this site with the widest reach is also the oldest one with surviving hardware."
+   },
+   "text_th": {
+    "what": "หัวสิ่วและหัวหยักของเครื่องมือสักแบบติดด้าม ขุดพบในแหล่งฝังศพทางเหนือของลูซอน"
+   },
+   "kin": [
+    {
+     "to": "gisi-pat-ik",
+     "as": "The tool, still in use.",
+     "rel": "tool"
+    },
+    {
+     "to": "tap",
+     "as": "The method.",
+     "rel": "method"
+    }
+   ],
+   "sources": [
+    "s:wp-batok"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-batok"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "archaeology"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "batok",
+     "type": "tradition",
+     "name": "Batok",
+     "as": "The tools, dug up, older than the Roman Empire by a millennium."
+    },
+    {
+     "from": "gisi-pat-ik",
+     "type": "tool",
+     "name": "Gisi and pat-ik",
+     "as": "Where a set of these was dug up."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "chinchorro-man",
+   "type": "find",
+   "names": {
+    "name": "Chinchorro Mo-1 T28 C22",
+    "said": "A dotted line above the upper lip, about 1880 BCE"
+   },
+   "region": [
+    "the-americas"
+   ],
+   "facets": {
+    "era": "prehistory"
+   },
+   "when": {
+    "from": -1980,
+    "to": -1780,
+    "circa": true,
+    "label": "1880 ± 100 BCE"
+   },
+   "text": {
+    "what": "A mummified man from the Chilean coast with a dotted line tattooed above his upper lip — the oldest tattoo yet found in the Americas.",
+    "story": "The Chinchorro were mummifying their dead by about 5050 BCE, across the whole community rather than for an elite. One of the bodies carries the marks."
+   },
+   "text_th": {
+    "what": "ร่างมัมมี่จากชายฝั่งชิลี มีรอยสักเป็นจุดเรียงเหนือริมฝีปากบน เก่าที่สุดเท่าที่พบในทวีปอเมริกา"
+   },
+   "sources": [
+    "s:wp-chinchorro-mummies"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-chinchorro-mummies"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "archaeology"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "cordilleran-mummies",
+   "type": "find",
+   "names": {
+    "name": "The Cordilleran mummies",
+    "said": "Apo Anno and the hanging coffins, from the 13th century"
+   },
+   "region": [
+    "island-southeast-asia"
+   ],
+   "facets": {
+    "era": "ancient"
+   },
+   "when": {
+    "from": 1200,
+    "to": 1500,
+    "circa": true,
+    "label": "Oldest surviving examples from the 13th century"
+   },
+   "text": {
+    "what": "Mummified Cordilleran people in cave and hanging-coffin burials, tattooed, with the designs also carved on the coffins.",
+    "story": "A Kankanaey mummy known as Apo Anno, 700 to 900 years old, is marked even on the soles of the feet and the fingertips. The tattoos are individualised: a woman's arms, a man's whole body.\n\n*Inference —* when the coffin carries the same patterns as the body, the design set is doing more than decorating a person. It identifies them, to whoever opens the coffin."
+   },
+   "text_th": {
+    "what": "ร่างมัมมี่ชาวคอร์ดิลเยราในถ้ำและโลงแขวน มีรอยสัก และลายเดียวกันถูกแกะไว้บนโลง"
+   },
+   "kin": [
+    {
+     "to": "kalinga-cordillera",
+     "as": "The tradition.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:wp-batok"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-batok"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "archaeology"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "gebelein",
+   "type": "find",
+   "names": {
+    "name": "The Gebelein mummies",
+    "said": "Egypt, about 3400–3100 BCE — figurative tattoos on a man and a woman"
+   },
+   "region": [
+    "north-africa"
+   ],
+   "facets": {
+    "era": "prehistory"
+   },
+   "when": {
+    "from": -3400,
+    "to": -3000,
+    "circa": true,
+    "label": "Naqada II; EA 32751 calibrated 3341–3017 BCE"
+   },
+   "text": {
+    "what": "Six naturally mummified bodies from Upper Egypt, dug out of sand graves in 1896, two of them tattooed.",
+    "story": "They were excavated by Wallis Budge for the British Museum and sat there for a century before infrared imaging showed the marks — a wild bull and a Barbary sheep on the man, S-shaped motifs on the woman.\n\n*Inference —* that hundred-year gap is the point. The marks were on the bodies the whole time and nobody could see them, because dark pigment on darkened skin needs infrared. How much else in the world's museum drawers is tattooed and unread is not a question this site can answer."
+   },
+   "text_th": {
+    "what": "ร่างมัมมี่ธรรมชาติหกร่างจากอียิปต์ตอนบน ขุดพบในปี 1896 สองร่างมีรอยสัก"
+   },
+   "kin": [
+    {
+     "to": "timeline",
+     "as": "Contemporary with Ötzi, on another continent.",
+     "rel": "story"
+    }
+   ],
+   "sources": [
+    "s:wp-gebelein-predynastic-mummies",
+    "s:wp-amunet"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-gebelein-predynastic-mummies"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "archaeology",
+    "museum"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "ice-maiden",
+   "type": "find",
+   "names": {
+    "name": "The Ukok woman",
+    "aliases": [
+     "the Siberian Ice Maiden",
+     "the Altai Princess"
+    ],
+    "said": "5th century BCE, tattooed shoulder, frozen"
+   },
+   "region": [
+    "siberia"
+   ],
+   "facets": {
+    "era": "ancient"
+   },
+   "when": {
+    "from": -450,
+    "to": -400,
+    "circa": true,
+    "label": "5th century BCE"
+   },
+   "text": {
+    "what": "A Pazyryk woman buried on the Ukok Plateau, preserved in ice for about 2,400 years, with animal designs on her skin.",
+    "story": "An embalmed man from the same culture, at Pazyryk itself, is covered in animal motifs. The ice did the preserving, and the ice is also why the debate about where her body should now rest is a live political question rather than an academic one.\n\nThis site names the find, dates it, and leaves the reburial argument to the people whose argument it is."
+   },
+   "text_th": {
+    "what": "หญิงวัฒนธรรมปาซีริกที่ฝังบนที่ราบสูงอูก็อก เก็บรักษาในน้ำแข็งราว 2,400 ปี มีลายสัตว์บนผิวหนัง"
+   },
+   "kin": [
+    {
+     "to": "ukok",
+     "as": "The place.",
+     "rel": "place"
+    }
+   ],
+   "sources": [
+    "s:wp-siberian-ice-maiden",
+    "s:wp-pazyryk-culture"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-siberian-ice-maiden"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "archaeology",
+    "women"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "ukok",
+     "type": "place",
+     "name": "The Ukok Plateau",
+     "as": "Who was in it."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "otzi",
+   "type": "find",
+   "names": {
+    "name": "Ötzi",
+    "said": "61 marks, mostly on the legs, about 3300 BCE"
+   },
+   "region": [
+    "europe"
+   ],
+   "facets": {
+    "era": "prehistory"
+   },
+   "when": {
+    "from": -3300,
+    "to": -3100,
+    "circa": true,
+    "label": "Radiocarbon range for the body"
+   },
+   "text": {
+    "what": "The Alpine body with sixty-one tattoos — nineteen groups of black lines, and the greatest concentration on the legs.",
+    "story": "The marks are 1–3 mm wide and 7–40 mm long: groups of parallel lines along the body's long axis and either side of the lumbar spine, a cross behind the right knee, another at the right ankle, parallel lines round the left wrist. Twelve of the nineteen groups are on the legs.\n\nMicroscopy on samples showed the pigment was made from fireplace soot.\n\n*Inference —* the oldest tattooed body in Europe is a set of short lines on the legs and lower back, put there with soot. Five thousand years later, the *htoe kwin* is a leg tattoo made with lamp soot. Nothing connects them and the resemblance is not a lineage; it is what the available tools and the available pigment produce."
+   },
+   "text_th": {
+    "what": "ร่างจากเทือกแอลป์ที่มีรอยสัก 61 รอย เป็นเส้นดำ 19 กลุ่ม กระจุกตัวมากที่สุดที่ขา"
+   },
+   "kin": [
+    {
+     "to": "soot-water",
+     "as": "What the pigment turned out to be.",
+     "rel": "ink"
+    },
+    {
+     "to": "timeline",
+     "as": "The oldest dated point on it.",
+     "rel": "story"
+    }
+   ],
+   "links": [
+    {
+     "label": "Ötzi",
+     "url": "https://en.wikipedia.org/wiki/%C3%96tzi"
+    }
+   ],
+   "sources": [
+    "s:wp-tzi"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-tzi"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "archaeology",
+    "start-here"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "soot-water",
+     "type": "ink",
+     "name": "Soot and water",
+     "as": "The oldest example that has been analysed."
+    },
+    {
+     "from": "timeline",
+     "type": "story",
+     "name": "Five thousand years",
+     "as": "The oldest."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "qilakitsoq",
+   "type": "find",
+   "names": {
+    "name": "The Qilakitsoq women",
+    "said": "Greenland, about 1475 — facial marks under infrared"
+   },
+   "region": [
+    "arctic"
+   ],
+   "facets": {
+    "era": "ancient"
+   },
+   "when": {
+    "from": 1460,
+    "to": 1490,
+    "circa": true,
+    "label": "About 1475"
+   },
+   "text": {
+    "what": "Mummified Inuit women from north-west Greenland, five centuries old, with facial tattoos visible under infrared.",
+    "story": "They are the physical evidence behind a practice that missionaries later ended and that Inuit women have now taken up again. The revival is not reconstructing something imagined; there are faces."
+   },
+   "text_th": {
+    "what": "มัมมี่หญิงชาวอินูอิตจากกรีนแลนด์ตะวันตกเฉียงเหนือ อายุห้าศตวรรษ มีรอยสักบนใบหน้าที่เห็นได้ด้วยอินฟราเรด"
+   },
+   "kin": [
+    {
+     "to": "kakiniit",
+     "as": "The tradition.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:wp-kakiniit",
+    "s:wp-mummy"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "needs_verification": true,
+   "tags": [
+    "archaeology",
+    "women"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "kakiniit",
+     "type": "tradition",
+     "name": "Kakiniit",
+     "as": "The oldest Inuit faces that survive, and they are marked."
+    }
+   ]
+  }
+ ]
+}

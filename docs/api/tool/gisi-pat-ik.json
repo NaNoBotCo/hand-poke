@@ -1,0 +1,73 @@
+{
+ "schema": 1,
+ "id": "gisi-pat-ik",
+ "type": "tool",
+ "names": {
+  "name": "Gisi and pat-ik",
+  "local": "gisi",
+  "local_lang": "Kalinga",
+  "said": "A thorn set in a stick, and the stick that hits it"
+ },
+ "region": [
+  "island-southeast-asia"
+ ],
+ "facets": {
+  "family": "tap"
+ },
+ "instrument": {
+  "material": [
+   "citrus thorn",
+   "bamboo",
+   "water buffalo horn",
+   "wood"
+  ],
+  "points": "one thorn, or a small bundle",
+  "worked": "tapped",
+  "hands": 2,
+  "held_by": "one hand holds the hafted thorn, the other taps"
+ },
+ "text": {
+  "what": "A citrus thorn — or a bundle of them — lashed at a right angle to a short stick, tapped by a second stick.",
+  "story": "The ink is soot and water, carried in a coconut shell or a bowl, and the design is drawn on first with a blade of grass dipped in it. The needles were also made of wood, horn, bone, ivory, metal and bamboo, depending on where you were.\n\nArchaeology backs the tool up: chisel and serrated heads of probable hafted tattoo instruments were excavated at Arku Cave in Cagayan and dated before 1500 BCE — comb-type tattoo chisels, in northern Luzon, three and a half thousand years ago."
+ },
+ "text_th": {
+  "what": "หนามส้มหรือหนามมัดรวม ผูกตั้งฉากกับไม้สั้น แล้วตอกด้วยไม้อีกอัน"
+ },
+ "kin": [
+  {
+   "to": "batok",
+   "as": "What it makes.",
+   "rel": "tradition"
+  },
+  {
+   "to": "arku-cave",
+   "as": "Where a set of these was dug up.",
+   "rel": "find"
+  }
+ ],
+ "sources": [
+  "s:wp-batok"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-batok"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "arku-cave",
+   "type": "find",
+   "name": "The Arku Cave tools",
+   "as": "The tool, still in use."
+  }
+ ]
+}

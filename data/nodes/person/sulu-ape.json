@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "id": "sulu-ape",
+ "type": "person",
+ "names": {
+  "name": "The Sulu'ape line",
+  "local": "Su'a Sulu'ape",
+  "local_lang": "Samoan",
+  "said": "A hereditary title, still held"
+ },
+ "region": [
+  "oceania"
+ ],
+ "facets": {
+  "role": "practitioner"
+ },
+ "text": {
+  "what": "The Samoan master-tattooist titles, held in two families, and carried into the present by name.",
+  "story": "Su'a Sulu'ape Paulo II's work and life were photographed by Mark Adams; his brother Su'a Sulu'ape Petelo works at Faleasi'u on Upolu. The titles are hereditary and the *tufuga* who hold them have tattooed Tongan and Fijian chiefly families as well as Samoan ones."
+ },
+ "text_th": {
+  "what": "ตำแหน่งช่างสักชั้นครูของซามัว สืบทอดในสองตระกูล และยังมีผู้ถือตำแหน่งอยู่"
+ },
+ "kin": [
+  {
+   "to": "tatau",
+   "as": "The practice.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:wp-pe-a"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-pe-a"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-19"
+}

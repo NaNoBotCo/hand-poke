@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "atayal-ptasan",
+ "type": "tradition",
+ "names": {
+  "name": "Atayal ptasan",
+  "local": "ptasan",
+  "local_lang": "Squliq Atayal",
+  "said": "Forehead for both; a man's chin when he fathers a child; a woman's cheeks when she can weave"
+ },
+ "region": [
+  "east-asia"
+ ],
+ "facets": {
+  "family": "poke",
+  "status": "dormant"
+ },
+ "when": {
+  "from": 1600,
+  "to": 1930,
+  "circa": true,
+  "label": "Banned by the Japanese administration in 1930"
+ },
+ "practice": {
+  "method": "poke",
+  "ink": "soot-water",
+  "placement": [
+   "face",
+   "chin"
+  ],
+  "marked": "both",
+  "marks": "specialist",
+  "status": "dormant",
+  "countries": [
+   "TW"
+  ],
+  "first_record": 1900,
+  "break": [
+   1930,
+   2026
+  ],
+  "suppressed_by": "banned by the Japanese colonial administration in 1930, for its link to headhunting",
+  "note": "A qualification, not an ornament: the face says the skill has been demonstrated."
+ },
+ "text": {
+  "what": "Taiwan: a band down the forehead, and a second mark earned — by a man for taking a head, by a woman for mastering the loom.",
+  "story": "The rule was a gate. No face marks, no marriage; no face marks, no crossing to the ancestors at death. A girl learned to weave at ten or twelve and had to master it before her cheeks were marked, which makes the tattoo a certificate of competence held on the most visible surface a person has.\n\nJapan banned it in 1930. Christianity finished the job. The marks are now on elderly faces and on the museum wall."
+ },
+ "text_th": {
+  "what": "ไต้หวัน แถบกลางหน้าผากสำหรับทุกคน และรอยที่สองที่ต้องได้มา ชายด้วยการล่าหัว หญิงด้วยการทอผ้าได้"
+ },
+ "kin": [
+  {
+   "to": "chin-ming",
+   "as": "Another face, another government, thirty years apart.",
+   "rel": "tradition"
+  }
+ ],
+ "links": [
+  {
+   "label": "Atayal people",
+   "url": "https://en.wikipedia.org/wiki/Atayal_people"
+  }
+ ],
+ "sources": [
+  "s:wp-atayal-people",
+  "s:wp-taiwanese-indigenous-peoples"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-atayal-people"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "ban",
+  "women",
+  "initiation"
+ ],
+ "geo": {
+  "lat": 24.2,
+  "lon": 121.2,
+  "precision": "region",
+  "source": "s:commons"
+ },
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "chin-ming",
+   "type": "tradition",
+   "name": "Chin facial tattooing",
+   "as": "And another, banned by another government in another decade."
+  },
+  {
+   "from": "the-timing",
+   "type": "rite",
+   "name": "When it is done",
+   "as": "Stacked with fatherhood and with the loom."
+  },
+  {
+   "from": "meiji-ban",
+   "type": "story",
+   "name": "Japan outlaws it",
+   "as": "And who else again."
+  }
+ ]
+}

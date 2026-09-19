@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "id": "veiqia-word",
+ "type": "term",
+ "names": {
+  "name": "veiqia",
+  "local": "veiqia",
+  "local_lang": "Fijian",
+  "said": "veiqia"
+ },
+ "etymology": {
+  "root": "The practice and the marks, in one word — and a tattooist is a *dauveiqia*, one who does veiqia.",
+  "tier": "cited",
+  "source": "s:wp-veiqia"
+ },
+ "region": [
+  "oceania"
+ ],
+ "facets": {
+  "means": "other"
+ },
+ "text": {
+  "what": "The practice and the marks, in one word — and a tattooist is a *dauveiqia*, one who does veiqia."
+ },
+ "text_th": {
+  "what": "คำเดียวครอบทั้งการปฏิบัติและรอย"
+ },
+ "sources": [
+  "s:wp-veiqia"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-veiqia"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [],
+ "updated": "2026-09-19"
+}

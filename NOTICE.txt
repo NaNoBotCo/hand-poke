@@ -1,0 +1,27 @@
+Hand Poke — what is in this repository, and under what terms.
+
+CODE — tools/, schema/, publish.sh
+    MIT, see LICENSE.
+
+RECORDS AND TEXT — data/nodes/, data/vocab/, data/sources/, README.md
+    CC BY 4.0. Attribute to https://nanobotco.github.io/hand-poke/ .
+
+HARVESTED AND QUOTED MATERIAL
+    Wikipedia, English and Thai — CC BY-SA 4.0. Used as a drafting corpus; the corpus
+        itself is not published in this repository.
+    Books scanned by the Internet Archive — out of copyright. Shway Yoe (Sir James George
+        Scott), The Burman: His Life and Notions, 1882/1910. Leslie Milne, Shans at Home,
+        1910. J. G. Scott and J. P. Hardiman, Gazetteer of Upper Burma and the Shan States,
+        1900–01. Charles Hose and William McDougall, The Pagan Tribes of Borneo, 1912.
+        Willowdean Chatterson Handy, Tattooing in the Marquesas, 1922. George Turner,
+        Samoa, a Hundred Years Ago, 1884.
+    A Lanna volume held in the wichaa.net manuscript corpus (item 6968) — quoted in brief,
+        with the page, under fair dealing. The corpus itself is not published here; the
+        counts run against it are.
+    Wikimedia Commons pictures — each file keeps its own licence, printed beside it on the
+        page and recorded in the record and in a sidecar JSON file.
+    Country outlines — Natural Earth, public domain.
+
+NAMES
+    Practitioners and organisations are named as they name themselves. Sak Yant Chiang Mai
+    is quoted with permission.

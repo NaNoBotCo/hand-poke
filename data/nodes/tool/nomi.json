@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "id": "nomi",
+ "type": "tool",
+ "names": {
+  "name": "Nomi",
+  "local": "のみ",
+  "local_lang": "Japanese",
+  "aliases": [
+   "tebori rods"
+  ],
+  "said": "Needles bound with silk to a wooden rod"
+ },
+ "region": [
+  "east-asia"
+ ],
+ "facets": {
+  "family": "poke"
+ },
+ "instrument": {
+  "material": [
+   "steel",
+   "wood",
+   "silk thread"
+  ],
+  "points": "a group of needles, bound in a flat or round cluster",
+  "worked": "pushed",
+  "hands": 2,
+  "held_by": "the rod rests on one hand and is pushed with the other, at a shallow angle"
+ },
+ "text": {
+  "what": "A wooden rod with a group of needles bound to the end in silk, pushed at a shallow angle rather than straight down.",
+  "story": "*Tebori* means carving by hand. The angle is what separates it from every other poking tool on this site: the needles go in obliquely, which is how the method lays the graded blacks that Japanese work is built on.\n\nA machine can outline faster. Practitioners who keep the rod usually keep it for the shading."
+ },
+ "text_th": {
+  "what": "ก้านไม้ปลายมัดเข็มด้วยไหม แทงเฉียง ไม่ใช่แทงตรง"
+ },
+ "kin": [
+  {
+   "to": "irezumi",
+   "as": "What it makes.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:wp-irezumi",
+  "s:wp-horimono"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-irezumi"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-19"
+}

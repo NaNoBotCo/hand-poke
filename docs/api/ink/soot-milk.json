@@ -1,0 +1,43 @@
+{
+ "schema": 1,
+ "id": "soot-milk",
+ "type": "ink",
+ "names": {
+  "name": "Soot and milk",
+  "said": "Reported for deq: soot with breast milk"
+ },
+ "region": [
+  "west-asia"
+ ],
+ "facets": {
+  "colour": "blue-black"
+ },
+ "text": {
+  "what": "Soot mixed with breast milk, reported as the Kurdish preparation.",
+  "story": "*Inference —* the additive in every one of these recipes is something sticky and mildly antiseptic that the household already has: milk, honey, bile, fat, oil. The carbon does the marking; the liquid decides how it handles."
+ },
+ "kin": [
+  {
+   "to": "deq",
+   "as": "Where it goes.",
+   "rel": "tradition"
+  },
+  {
+   "to": "soot-honey",
+   "as": "The Bosnian equivalent.",
+   "rel": "ink"
+  }
+ ],
+ "sources": [
+  "s:wp-deq-tattoo"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-19",
+ "kin_in": []
+}

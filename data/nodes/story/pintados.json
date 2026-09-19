@@ -1,0 +1,66 @@
+{
+ "schema": 1,
+ "id": "pintados",
+ "type": "story",
+ "names": {
+  "name": "The painted ones",
+  "said": "The Spanish name for the Visayans, and what happened next"
+ },
+ "region": [
+  "island-southeast-asia"
+ ],
+ "facets": {
+  "era": "colonial"
+ },
+ "when": {
+  "from": 1521,
+  "to": 1700,
+  "circa": true,
+  "label": "Conversion, and the loss of the tradition across the lowlands"
+ },
+ "text": {
+  "what": "Spain called the Visayans *Pintados*, the painted ones, described their tattoos in detail, and converted them out of the practice within two centuries.",
+  "story": "The Spanish accounts are careful and admiring. They describe the tattoo as clothing; they record that no tattooing was begun until a brave deed had been performed and that each further panel needed another; they note that men tattooed even their chins and around the eyes so that they appeared masked.\n\nThen the same administration's church ended it. In the lowlands the tradition is gone and the description survives. In the Cordillera, where Spain never held the mountains, the practice survives and the Spanish description does not apply.\n\n*Inference —* on this site that is the clearest natural experiment there is: one people, two zones, the same century, and the difference is entirely whether the coloniser could get there."
+ },
+ "text_th": {
+  "what": "สเปนเรียกชาววิซายันว่า Pintados คนที่ถูกระบายลาย บรรยายรอยสักไว้ละเอียด แล้วเปลี่ยนศาสนาจนธรรมเนียมหายไปในสองศตวรรษ"
+ },
+ "kin": [
+  {
+   "to": "batok",
+   "as": "The tradition.",
+   "rel": "tradition"
+  },
+  {
+   "to": "kalinga-cordillera",
+   "as": "The mountains, where it did not happen.",
+   "rel": "tradition"
+  },
+  {
+   "to": "clothing",
+   "as": "\"Dressed in a kind of handsome armor.\"",
+   "rel": "story"
+  }
+ ],
+ "sources": [
+  "s:wp-batok"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-batok"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "ban",
+  "colonial-record"
+ ],
+ "updated": "2026-09-19"
+}

@@ -1,0 +1,78 @@
+{
+ "schema": 1,
+ "id": "poke",
+ "type": "method",
+ "names": {
+  "name": "Poke",
+  "th": "แทง",
+  "said": "One point, pushed in by the hand that holds it"
+ },
+ "region": [
+  "worldwide"
+ ],
+ "facets": {
+  "family": "poke"
+ },
+ "text": {
+  "what": "A point held in the hand and pushed into the skin, once per mark, with the pigment carried on or into the hole.",
+  "story": "The hand does the work: it provides the force, the depth and the rhythm. A poked line is a row of punctures close enough to read as continuous — Shway Yoe's description of the Burmese method is exactly that, \"a series of punctures close together, forming what afterwards fades into a rough line.\"\n\nThe tool can be a thorn, a fish bone, a sewing needle, a sharpened bamboo splint or a two-foot weighted brass rod. What makes it poking is that nothing strikes the tool and nothing drives it but the hand.",
+  "how": "Depth is the whole skill. Too shallow and the mark leaves with the skin; too deep and the pigment spreads under it and the line thickens with age."
+ },
+ "text_th": {
+  "what": "ปลายแหลมในมือ แทงลงผิวหนังทีละครั้ง โดยมีสีติดไปกับรูที่แทง",
+  "story": "มือเป็นผู้ให้แรง ความลึก และจังหวะ เส้นที่ได้คือรอยแทงถี่ๆ ที่ชิดกันจนอ่านเป็นเส้นเดียว ตรงตามที่เชวโยบรรยายวิธีของพม่าไว้"
+ },
+ "kin": [
+  {
+   "to": "tap",
+   "as": "The one it gets confused with, and the one that does the striking for you.",
+   "rel": "method"
+  },
+  {
+   "to": "what-counts",
+   "as": "Where the line between them stops being clear.",
+   "rel": "issue"
+  }
+ ],
+ "sources": [
+  "s:shway-yoe",
+  "s:wp-stick-and-poke"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:shway-yoe"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "start-here"
+ ],
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "machine",
+   "type": "method",
+   "name": "Machine",
+   "as": "What it replaced, and what it named."
+  },
+  {
+   "from": "tap",
+   "type": "method",
+   "name": "Tap",
+   "as": "The sibling method, and the one this site is named for."
+  },
+  {
+   "from": "what-counts",
+   "type": "issue",
+   "name": "What counts as hand-poked",
+   "as": "One."
+  }
+ ]
+}

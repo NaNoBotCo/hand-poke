@@ -1,0 +1,94 @@
+{
+ "schema": 1,
+ "id": "uhi",
+ "type": "tool",
+ "names": {
+  "name": "Uhi",
+  "local": "uhi",
+  "local_lang": "Māori",
+  "said": "An albatross-bone chisel, struck"
+ },
+ "region": [
+  "oceania"
+ ],
+ "facets": {
+  "family": "cut"
+ },
+ "instrument": {
+  "material": [
+   "albatross bone",
+   "bone"
+  ],
+  "points": "a straight or toothed cutting edge",
+  "worked": "struck",
+  "hands": 2,
+  "held_by": "the tohunga-tā-moko holds the uhi and the mallet"
+ },
+ "text": {
+  "what": "A chisel of albatross bone hafted to a handle and struck with a mallet, cutting a groove that the pigment fills.",
+  "story": "Pigment lived in carved vessels called *oko*, buried between uses and passed down the generations. A feeding funnel, the *kōrere*, was used while a face was healing.\n\nSteel needles replaced the *uhi* in the late nineteenth century: faster, safer, and smooth. In 2007 it was reported back in use by some practitioners."
+ },
+ "text_th": {
+  "what": "สิ่วกระดูกนกอัลบาทรอสติดด้าม ตอกด้วยค้อน กรีดเป็นร่องให้สีลงไปอยู่"
+ },
+ "kin": [
+  {
+   "to": "ta-moko",
+   "as": "What it makes.",
+   "rel": "tradition"
+  },
+  {
+   "to": "cut",
+   "as": "The method.",
+   "rel": "method"
+  }
+ ],
+ "sources": [
+  "s:wp-t-moko"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-t-moko"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "uhi/uhi-tohunga-ta-moko-at-work-gottfried-lindauer.jpg",
+   "source": "commons",
+   "title": "File:Tohunga-ta-moko at Work – Gottfried Lindauer.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Tohunga-ta-moko_at_Work_%E2%80%93_Gottfried_Lindauer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ATohunga-ta-moko_at_Work_%E2%80%93_Gottfried_Lindauer.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Gottfried Lindauer",
+   "credit": "https://www.aucklandartgallery.com/explore-art-and-ideas/artwork/323/the-tohunga-ta-moko-at-work",
+   "alt": "The Tohunga-ta-moko at Work. Painting by Gottfried Lindauer of Māori tattoo (moko) being carved into a man’s face by a skilled tattooist (tohunga-tā-moko).",
+   "date": "Unknown date",
+   "primary": true,
+   "sha256": "f677deb89a4db4b11dd9585f5ee54024649249bda10347be26ce65b58ae368a1"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "ta-moko",
+   "type": "tradition",
+   "name": "Tā moko",
+   "as": "The chisel."
+  },
+  {
+   "from": "cut",
+   "type": "method",
+   "name": "Cut",
+   "as": "The chisel."
+  }
+ ]
+}

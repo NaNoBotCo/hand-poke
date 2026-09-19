@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "id": "the-timing",
+ "type": "rite",
+ "names": {
+  "name": "When it is done",
+  "said": "Before ordination, at twelve, at puberty, when the weaving is mastered"
+ },
+ "region": [
+  "worldwide"
+ ],
+ "facets": {
+  "family": "poke"
+ },
+ "text": {
+  "what": "The date is rarely free. Most traditions on this site fix the work to a passage the person is making anyway.",
+  "story": "Bamar: the waist tattoo is done before or soon after temporary ordination as a monk — two rites of passage stacked on one season. Shan: twelve for the bold, fourteen for most. Chin: fifteen to twenty. Ainu: from five to thirteen, widened until marriage. Kalinga and Cordilleran: after the act that earns it. Atayal: a man's chin after he fathers a child.\n\n*Inference —* a mark made at a moment is a dated document. It is how these traditions record a life without writing anything down."
+ },
+ "text_th": {
+  "what": "วันเวลาไม่ค่อยเป็นอิสระ ธรรมเนียมส่วนใหญ่ผูกการสักไว้กับช่วงเปลี่ยนผ่านที่คนนั้นกำลังก้าวข้ามอยู่แล้ว"
+ },
+ "kin": [
+  {
+   "to": "htoe-kwin",
+   "as": "Stacked with ordination.",
+   "rel": "tradition"
+  },
+  {
+   "to": "atayal-ptasan",
+   "as": "Stacked with fatherhood and with the loom.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:wp-tattooing-in-myanmar",
+  "s:milne-shans",
+  "s:wp-ainu-people",
+  "s:wp-atayal-people"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-tattooing-in-myanmar"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "initiation"
+ ],
+ "updated": "2026-09-19",
+ "kin_in": []
+}

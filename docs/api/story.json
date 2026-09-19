@@ -1,0 +1,1021 @@
+{
+ "type": "story",
+ "count": 13,
+ "nodes": [
+  {
+   "schema": 1,
+   "id": "body",
+   "type": "story",
+   "names": {
+    "name": "Where the marks go",
+    "said": "Counted across every tradition on the site"
+   },
+   "region": [
+    "worldwide"
+   ],
+   "facets": {
+    "era": "now"
+   },
+   "text": {
+    "what": "Each tradition here records which zones of the body it marks. Counted together, the zones sort into two kinds.",
+    "story": "**Zones that can be covered** — thighs, back, chest, waist-to-knee — belong to traditions where the tattoo is a garment and the wearer chooses when it is seen. **Zones that cannot** — face, chin, hands, fingers — belong to traditions where the mark is an identification, and where a state that wanted the practice stopped could enforce the ban by looking at people.\n\n*Inference —* the second group is where the bans land. Chin faces, Atayal faces, Okinawan hands, Ainu mouths, Māori chins. The leg traditions were not banned; they faded. **A mark you cannot hide is easy to police, and a mark under a longyi is not worth the trouble.**",
+    "notes": "Counted from the `placement` field on every tradition record; the chart prints how many records carried the field."
+   },
+   "text_th": {
+    "what": "แต่ละธรรมเนียมบันทึกไว้ว่าลงลายที่ส่วนใดของร่างกาย เมื่อรวมนับแล้ว ส่วนเหล่านั้นแยกได้เป็นสองแบบ",
+    "story": "**ส่วนที่ปิดได้** ต้นขา หลัง อก เอวถึงเข่า เป็นของธรรมเนียมที่รอยสักคือเครื่องนุ่งห่ม เจ้าของเลือกได้ว่าจะให้ใครเห็นเมื่อไร **ส่วนที่ปิดไม่ได้** ใบหน้า คาง มือ นิ้ว เป็นของธรรมเนียมที่รอยคือการระบุตัวตน และรัฐที่อยากให้เลิกก็บังคับได้ด้วยการมองหน้าคน\n\n*อนุมาน —* คำสั่งห้ามลงที่กลุ่มหลังทั้งหมด **รอยที่ซ่อนไม่ได้คุมง่าย ส่วนรอยใต้ผ้าถุงไม่คุ้มจะไปยุ่ง**"
+   },
+   "kin": [
+    {
+     "to": "clothing",
+     "as": "The other half of the same argument.",
+     "rel": "story"
+    },
+    {
+     "to": "hajichi",
+     "as": "The hands, and the 1899 prohibition.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:wp-chin-people",
+    "s:wp-atayal-people",
+    "s:wp-irezumi"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "inference"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "measured"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "clothing",
+     "type": "story",
+     "name": "The tattoo is clothing",
+     "as": "Which is why the body map is the argument, not the decoration."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "chin-ban",
+   "type": "story",
+   "names": {
+    "name": "The Chin ban",
+    "said": "Burma, the 1960s"
+   },
+   "region": [
+    "mainland-southeast-asia"
+   ],
+   "facets": {
+    "era": "c20"
+   },
+   "when": {
+    "from": 1962,
+    "to": 1970,
+    "circa": true,
+    "label": "Banned by the Union Revolutionary Council"
+   },
+   "text": {
+    "what": "Burma's socialist government banned Chin facial tattooing in the 1960s; missionaries had been discouraging it for decades already.",
+    "story": "The practice ended inside a generation. The women who carry it were tattooed as teenagers before the ban and are now in their seventies and eighties, and they are photographed constantly.\n\n*Inference —* a ban works fastest on a mark that is made once, in youth, by a specialist. Stop the specialists for twenty years and there is nobody left who has done it."
+   },
+   "text_th": {
+    "what": "รัฐบาลสังคมนิยมพม่าสั่งห้ามการสักหน้าของชาวชินในทศวรรษ 1960 ก่อนหน้านั้นมิชชันนารีก็กีดกันมานาน"
+   },
+   "kin": [
+    {
+     "to": "chin-ming",
+     "as": "What was banned.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:wp-chin-people",
+    "s:wp-tattooing-in-myanmar"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-chin-people"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "ban",
+    "women"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "clothing",
+   "type": "story",
+   "names": {
+    "name": "The tattoo is clothing",
+    "said": "Three languages, three centuries, three continents, one metaphor"
+   },
+   "region": [
+    "worldwide"
+   ],
+   "facets": {
+    "era": "now"
+   },
+   "text": {
+    "what": "Independent sources in Burmese, Lanna, Spanish, Samoan and Ilocano reach for the same comparison: the tattoo is not on the body, it is what the body wears.",
+    "story": "Shway Yoe, Burma, 1882, on the finished *htoe kwin*: the effect is \"not so much of a marking of the cuticle as of **a skin-tight pair of caleçons**, fitting better than the best glove ever made.\"\n\nA Lanna volume, northern Thailand, describing the same region's work from its own side: men tattooed their bodies **จนดูเหมือนนุ่งกางเกงสีดำ** — \"until it looked as if they wore black trousers\" — and a man with no marks should put on a woman's skirt instead.\n\nA Spanish account of the Visayans: a naked tattooed man \"appears to be **dressed in a kind of handsome armor** engraved with very fine work… their dress at home and in their barrio is their tattoos and a *bahag*.\"\n\nThe Cordillerans: having no tattoos was **equated to being naked**. The Samoans: an untattooed man is **telefua** or **telenoa** — naked, in the ordinary word, not as a figure of speech.\n\n*Inference —* this is the one comparison that survives translation everywhere on this map, and it is doing work. A garment is the thing that makes a person presentable in public; it is put on at a particular age; its absence is shameful rather than merely unusual; and it is the first thing another person reads. Every one of those is also true of the marks. **Where a tradition covers a whole zone of the body, its own sources describe that zone as dressed.**",
+    "notes": "The count of traditions on this site whose sources use the clothing comparison is computed at build time and printed on the page rather than asserted here."
+   },
+   "text_th": {
+    "what": "แหล่งข้อมูลอิสระในภาษาพม่า ล้านนา สเปน ซามัว และอีโลกาโน เลือกคำเปรียบเดียวกัน รอยสักไม่ได้อยู่บนร่างกาย แต่เป็นสิ่งที่ร่างกายสวมอยู่",
+    "story": "เชวโย พม่า ปี 1882 บรรยายลายขาที่เสร็จแล้วว่าไม่ใช่รอยบนหนังกำพร้าเท่ากับ **กางเกงรัดรูปที่เข้ารูปยิ่งกว่าถุงมือ**\n\nหนังสือล้านนาเล่าจากฝั่งของตัวเองว่าชายชาวล้านนาสักจน **ดูเหมือนนุ่งกางเกงสีดำ** และชายที่ไม่มีรอยสักก็ให้ไปนุ่งซิ่นเสีย\n\nบันทึกสเปนเรื่องชาววิซายันว่า ชายเปลือยที่มีรอยสัก \"ดูเหมือน **สวมเกราะงดงาม** ที่สลักลายละเอียด\"\n\nชาวคอร์ดิลเยราถือว่าการไม่มีรอยสักเท่ากับเปลือย ชาวซามัวเรียกชายที่ไม่ได้สักว่า **telefua** หรือ **telenoa** คือเปลือย ด้วยคำธรรมดา ไม่ใช่คำเปรียบ\n\n*อนุมาน —* นี่คือคำเปรียบเดียวที่ข้ามภาษาได้ทั้งแผนที่ และมันทำงานอยู่ เสื้อผ้าคือสิ่งที่ทำให้คนออกสู่ที่สาธารณะได้ สวมเมื่อถึงวัย ไม่มีแล้วน่าอาย และเป็นสิ่งแรกที่คนอื่นอ่าน"
+   },
+   "kin": [
+    {
+     "to": "htoe-kwin",
+     "as": "Caleçons.",
+     "rel": "tradition"
+    },
+    {
+     "to": "sak-kha-lai",
+     "as": "Black trousers.",
+     "rel": "tradition"
+    },
+    {
+     "to": "batok",
+     "as": "Handsome armor.",
+     "rel": "tradition"
+    },
+    {
+     "to": "tatau",
+     "as": "Naked, in the ordinary word.",
+     "rel": "tradition"
+    },
+    {
+     "to": "body",
+     "as": "Which is why the body map is the argument, not the decoration.",
+     "rel": "story"
+    }
+   ],
+   "sources": [
+    "s:shway-yoe",
+    "s:ms6968",
+    "s:wp-batok",
+    "s:wp-pe-a"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:shway-yoe"
+    },
+    "fields": {
+     "text.story": {
+      "tier": "cited",
+      "source": "s:shway-yoe"
+     },
+     "text.what": {
+      "tier": "inference",
+      "note": "this project's reading across the five sources"
+     },
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "measured",
+    "start-here"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "batok",
+     "type": "tradition",
+     "name": "Batok",
+     "as": "\"Dressed in a kind of handsome armor\" — the third of the three."
+    },
+    {
+     "from": "htoe-kwin",
+     "type": "tradition",
+     "name": "Htoe kwin",
+     "as": "\"A skin-tight pair of caleçons\" — one of the three."
+    },
+    {
+     "from": "sak-kha-lai",
+     "type": "tradition",
+     "name": "Sak kha lai",
+     "as": "One of the three traditions whose own sources call the tattoo clothing."
+    },
+    {
+     "from": "tatau",
+     "type": "tradition",
+     "name": "Tatau",
+     "as": "An untattooed man is called naked. In the language, not in a metaphor."
+    },
+    {
+     "from": "body",
+     "type": "story",
+     "name": "Where the marks go",
+     "as": "The other half of the same argument."
+    },
+    {
+     "from": "pintados",
+     "type": "story",
+     "name": "The painted ones",
+     "as": "\"Dressed in a kind of handsome armor.\""
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "cook-1769",
+   "type": "story",
+   "names": {
+    "name": "How the word got in",
+    "said": "Tahiti, 1769 — tatau becomes tattoo"
+   },
+   "region": [
+    "oceania"
+   ],
+   "facets": {
+    "era": "colonial"
+   },
+   "when": {
+    "from": 1769,
+    "to": 1774,
+    "label": "Cook's first voyage, and Mai in London"
+   },
+   "text": {
+    "what": "English had no single word for the practice until Cook's crew brought one back from Polynesia.",
+    "story": "*Tatau* went into English as *tattoo* and swallowed everything else. Every tradition on this site is now described in English with a Samoan word, including the ones that had their own perfectly good nouns: *irezumi*, *godna*, *deq*, *kakiniq*, *sak*.\n\n*Inference —* that is not only a linguistic accident. It is why the English-language record treats Pacific tattooing as the default case and everything else as a variation on it, and it is visible in the coverage count on this site: the traditions with the most language editions written about them are mostly the ones the eighteenth-century voyages reached first."
+   },
+   "text_th": {
+    "what": "ภาษาอังกฤษไม่มีคำเดียวสำหรับสิ่งนี้ จนลูกเรือของคุกนำคำกลับมาจากโพลินีเซีย"
+   },
+   "kin": [
+    {
+     "to": "tatau",
+     "as": "The word.",
+     "rel": "tradition"
+    },
+    {
+     "to": "coverage",
+     "as": "And what it did to the record.",
+     "rel": "story"
+    }
+   ],
+   "sources": [
+    "s:wp-james-cook",
+    "s:wp-pe-a",
+    "s:wp-joseph-banks"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-pe-a"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "colonial-record"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "tatau",
+     "type": "tradition",
+     "name": "Tatau",
+     "as": "How the word got into English."
+    },
+    {
+     "from": "coverage",
+     "type": "story",
+     "name": "Who gets written about",
+     "as": "Why the English-language record is shaped this way."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "coverage",
+   "type": "story",
+   "names": {
+    "name": "Who gets written about",
+    "said": "Counted in Wikipedia language editions, per tradition"
+   },
+   "region": [
+    "worldwide"
+   ],
+   "facets": {
+    "era": "now"
+   },
+   "text": {
+    "what": "Every tradition on this site that has a Wikipedia article, ranked by how many languages wrote one.",
+    "story": "The measurement is crude and that is the point: it is a count of attention, not of importance. Each tradition here names its article, and the harvest asks the Wikimedia API how many language editions carry it.\n\n*Inference —* the shape of the answer is predictable before you run it, which is itself the finding. The traditions with the most editions are the ones eighteenth- and nineteenth-century European voyages met first and wrote up in European languages; the ones with the fewest are inland, upland, and were written about, if at all, in an administrative report.\n\nThe Lanna leg tattoo does not appear at all. Not thinly — it has no article in any language, in a project with more than three hundred language editions, for a custom that covered the legs of every man in a kingdom.",
+    "notes": "Counted at build time. A tradition with no named article is listed as having none rather than scored as zero."
+   },
+   "text_th": {
+    "what": "ทุกธรรมเนียมบนเว็บนี้ที่มีบทความวิกิพีเดีย เรียงตามจำนวนภาษาที่เขียนถึง"
+   },
+   "kin": [
+    {
+     "to": "cook-1769",
+     "as": "Why the English-language record is shaped this way.",
+     "rel": "story"
+    },
+    {
+     "to": "sak-kha-lai",
+     "as": "The tradition with no article at all.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:langlinks"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "harvested"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "measured"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "cook-1769",
+     "type": "story",
+     "name": "How the word got in",
+     "as": "And what it did to the record."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "exhibited",
+   "type": "story",
+   "names": {
+    "name": "Exhibited",
+    "said": "Tattooed people, shown for money, in Europe and America"
+   },
+   "region": [
+    "europe",
+    "the-americas"
+   ],
+   "facets": {
+    "era": "colonial"
+   },
+   "when": {
+    "from": 1690,
+    "to": 1940,
+    "circa": true,
+    "label": "From the first tattooed men brought to London to the last sideshows"
+   },
+   "text": {
+    "what": "For two and a half centuries, the main way a European saw a tattooed body was on a stage, with an entrance fee.",
+    "story": "Tattooed people from the Pacific and Southeast Asia were brought to Europe and displayed; later, European and American performers had themselves covered in order to be displayed. The human zoos and the sideshow ran on the same premise and often the same circuit.\n\n*Inference —* a photograph of a tattooed person from this period is therefore rarely neutral evidence. It was made to be sold, the pose was chosen for the sale, and the caption was written by whoever was taking the money. This site uses those pictures where they are the only pictures, and says so beside them."
+   },
+   "text_th": {
+    "what": "สองศตวรรษครึ่งที่ชาวยุโรปส่วนใหญ่ได้เห็นร่างที่มีรอยสักบนเวที โดยต้องซื้อตั๋ว"
+   },
+   "kin": [
+    {
+     "to": "who-wrote-it-down",
+     "as": "The same problem in another medium.",
+     "rel": "issue"
+    }
+   ],
+   "sources": [
+    "s:wp-human-zoo",
+    "s:wp-sideshow",
+    "s:wp-sailor-tattoo"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-human-zoo"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "colonial-record"
+   ],
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "exhibited/exhibited-ainu-woman-from-japan-with-the-department-of-anthrop-2ac11e9.jpg",
+     "source": "commons",
+     "title": "File:Ainu Woman from Japan with the Department of Anthropology at the 1904 World's Fair.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Ainu_Woman_from_Japan_with_the_Department_of_Anthropology_at_the_1904_World%27s_Fair.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AAinu_Woman_from_Japan_with_the_Department_of_Anthropology_at_the_1904_World%27s_Fair.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Unknown authorUnknown author",
+     "credit": "Missouri History MuseumURL: http://images.mohistory.org/image/EC6C99BB-D84E-2461-CD7C-4DD8A561AFB7/original.jpgGallery: http://collections.mohistory.org/resource/147708",
+     "alt": "Title: Ainu Woman from Japan with the Department of Anthropology at the 1904 World's Fair.",
+     "date": "1904",
+     "primary": true,
+     "sha256": "6d268a56fae7e2eccdfdf0776475dc0ba6081464ae6f9e1673040aa8a6b59479"
+    },
+    {
+     "file": "exhibited/exhibited-felice-beato-british-born-italy-study-in-tattooing-g-6b60fa3.jpg",
+     "source": "commons",
+     "title": "File:Felice Beato (British, born Italy - Study in Tattooing - Google Art Project.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Felice_Beato_%28British%2C_born_Italy_-_Study_in_Tattooing_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AFelice_Beato_%28British%2C_born_Italy_-_Study_in_Tattooing_-_Google_Art_Project.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Felice Beato",
+     "credit": "owGgwatAPhilWw at Google Cultural Institute maximum zoom level",
+     "alt": "Felice Beato (British, born Italy - Study in Tattooing - Google Art Project.jpg",
+     "date": "about 1889",
+     "primary": false,
+     "sha256": "3dadfca627c59dc0c4b5267fafcda85af4290836352bb55340bffe262a1384f1"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "the-photographs",
+     "type": "issue",
+     "name": "The photographs",
+     "as": "Where those pictures came from."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "legs",
+   "type": "story",
+   "names": {
+    "name": "The leg-tattoo zone",
+    "th": "เขตลายขา",
+    "said": "Burma, the Shan States and Lanna — and the border is not the border"
+   },
+   "region": [
+    "lanna",
+    "mainland-southeast-asia"
+   ],
+   "facets": {
+    "era": "colonial"
+   },
+   "text": {
+    "what": "One custom, four peoples, and a boundary that runs through the middle of modern Thailand rather than along its edge.",
+    "story": "Put the sources side by side.\n\n**Burma, 1882.** Shway Yoe: every up-country man is tattooed from the navel to below the kneecap. Not a single *taw-tha*, the sturdy man of the small towns and villages, is without it.\n\n**The Shan States, 1910.** Milne: a Shan boy is a child until he is tattooed; the rule is both legs, waist to knee, and often on to the ankles. Shway Yoe adds that the Shans go further than the Burmese — up the back, to the nape, and among a chief's retainers, everywhere but palms and soles.\n\n**Lanna.** The Lanna volume: men tattooed until it looked as if they wore black trousers, waist to ankle, torso, arms, fingers — and \"this fashion was widespread among the Burmese and the Tai Yai, who tattoo yantras no less than the Lanna.\"\n\n**Siam.** Milne, in the same paragraph where she says the Shans learned it from the Burmese: \"the Siamese, who are so closely related to them, **tattoo themselves very slightly, or not at all**.\"\n\n*Inference —* that last line is usually read as a fact about Thailand. It is a fact about **central** Thailand. Milne was comparing the Shan to Bangkok, and Lanna — which was a tributary kingdom, not a province, until 1899 — is on the other side of her comparison. The leg tattoo's territory is the Tai-Buddhist upland: Burma, the Shan States, the Tai Khuen and Tai Lue towns, and Lanna. **The edge of the zone runs through modern Thailand, roughly where Lanna ended, and the colonial record could not see it because it was reading the map by kingdoms.**\n\nThis is what the map on this page is drawing, and it is the one map on the site that no source draws for it.",
+    "notes": "The zone is drawn from four written sources and one manuscript. It is not a survey, nobody counted tattooed men anywhere, and the outline is this project's reading rather than anyone's measurement."
+   },
+   "text_th": {
+    "what": "ธรรมเนียมเดียว สี่กลุ่มชน และเส้นแบ่งที่พาดกลางประเทศไทยปัจจุบัน ไม่ใช่ตามชายแดน",
+    "story": "วางแหล่งข้อมูลเรียงกัน\n\n**พม่า 1882** เชวโย ชายหัวเมืองทุกคนสักตั้งแต่สะดือถึงใต้เข่า\n\n**รัฐฉาน 1910** มิลน์ เด็กชายไทใหญ่ยังเป็นเด็กจนกว่าจะได้สัก กติกาคือสองขา เอวถึงเข่า และมักลงถึงข้อเท้า\n\n**ล้านนา** หนังสือล้านนา สักจนดูเหมือนนุ่งกางเกงดำ เอวถึงข้อเท้า ลำตัว แขน นิ้วมือ และ \"ความนิยมเช่นนี้พบมากในกลุ่มชาวพม่าและชาวไทยใหญ่\"\n\n**สยาม** มิลน์ ในย่อหน้าเดียวกัน \"ชาวสยามซึ่งเป็นเครือญาติใกล้ชิด **สักน้อยมากหรือไม่สักเลย**\"\n\n*อนุมาน —* ประโยคสุดท้ายมักถูกอ่านว่าเป็นข้อเท็จจริงเรื่องประเทศไทย แต่มันเป็นข้อเท็จจริงเรื่องภาคกลาง มิลน์เทียบไทใหญ่กับบางกอก ส่วนล้านนาซึ่งเป็นประเทศราช ไม่ใช่มณฑล จนถึงปี 1899 อยู่อีกฝั่งของการเทียบนั้น **ขอบของเขตลายขาพาดกลางประเทศไทยปัจจุบัน ราวแนวที่ล้านนาสิ้นสุด และบันทึกยุคอาณานิคมมองไม่เห็น เพราะอ่านแผนที่เป็นราชอาณาจักร**"
+   },
+   "kin": [
+    {
+     "to": "sak-kha-lai",
+     "as": "The Thai side.",
+     "rel": "tradition"
+    },
+    {
+     "to": "htoe-kwin",
+     "as": "The Burmese side.",
+     "rel": "tradition"
+    },
+    {
+     "to": "shan-tattooing",
+     "as": "The middle.",
+     "rel": "tradition"
+    },
+    {
+     "to": "kengtung",
+     "as": "A town in the centre of it.",
+     "rel": "place"
+    },
+    {
+     "to": "milne-shans",
+     "as": "Whose sentence this turns on.",
+     "rel": "person"
+    }
+   ],
+   "sources": [
+    "s:shway-yoe",
+    "s:milne-shans",
+    "s:ms6968",
+    "s:gazetteer-2",
+    "s:wp-lan-na"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:milne-shans"
+    },
+    "fields": {
+     "text.story": {
+      "tier": "inference",
+      "note": "the zone and its boundary are this project's reading of four sources"
+     },
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "lanna",
+    "measured",
+    "start-here"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "shan-tattooing",
+     "type": "tradition",
+     "name": "Shan leg tattooing",
+     "as": "The zone this belongs to, and where its border runs."
+    },
+    {
+     "from": "kengtung",
+     "type": "place",
+     "name": "Kengtung",
+     "as": "The zone."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "meiji-ban",
+   "type": "story",
+   "names": {
+    "name": "Japan outlaws it",
+    "said": "1872 — and legal again in 1948"
+   },
+   "region": [
+    "east-asia"
+   ],
+   "facets": {
+    "era": "colonial"
+   },
+   "when": {
+    "from": 1872,
+    "to": 1948,
+    "label": "Banned at the opening of Meiji; legalised under the occupation"
+   },
+   "text": {
+    "what": "Japan banned tattooing while presenting itself to the world, and foreigners immediately travelled there to be tattooed.",
+    "story": "The ban was about image. The practice continued underground, tattooists worked on visiting sailors and princes, and the association with criminality that the ban created outlasted the ban by three generations. Osaka's mayor was still surveying city employees about their tattoos in 2012, and the courts found against him.\n\nThe Ryukyus got their own prohibition in 1899, aimed at *hajichi* on women's hands. Taiwan's Atayal were banned from facial tattooing in 1930 by the same administration.\n\n*Inference —* three bans, one state, sixty years, and each one targets the marks of a people being absorbed. The Meiji ban is usually told as a story about respectability. Seen with the other two, it is a story about who gets to look like themselves."
+   },
+   "text_th": {
+    "what": "ญี่ปุ่นห้ามการสักขณะจัดภาพลักษณ์ต่อโลก และชาวต่างชาติก็เดินทางไปสักที่นั่นทันที"
+   },
+   "kin": [
+    {
+     "to": "irezumi",
+     "as": "What was banned.",
+     "rel": "tradition"
+    },
+    {
+     "to": "hajichi",
+     "as": "And who else.",
+     "rel": "tradition"
+    },
+    {
+     "to": "atayal-ptasan",
+     "as": "And who else again.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:wp-irezumi",
+    "s:wp-meiji-era",
+    "s:wp-atayal-people"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-irezumi"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "ban",
+    "start-here"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "irezumi",
+     "type": "tradition",
+     "name": "Irezumi",
+     "as": "The ban that made it criminal."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "pintados",
+   "type": "story",
+   "names": {
+    "name": "The painted ones",
+    "said": "The Spanish name for the Visayans, and what happened next"
+   },
+   "region": [
+    "island-southeast-asia"
+   ],
+   "facets": {
+    "era": "colonial"
+   },
+   "when": {
+    "from": 1521,
+    "to": 1700,
+    "circa": true,
+    "label": "Conversion, and the loss of the tradition across the lowlands"
+   },
+   "text": {
+    "what": "Spain called the Visayans *Pintados*, the painted ones, described their tattoos in detail, and converted them out of the practice within two centuries.",
+    "story": "The Spanish accounts are careful and admiring. They describe the tattoo as clothing; they record that no tattooing was begun until a brave deed had been performed and that each further panel needed another; they note that men tattooed even their chins and around the eyes so that they appeared masked.\n\nThen the same administration's church ended it. In the lowlands the tradition is gone and the description survives. In the Cordillera, where Spain never held the mountains, the practice survives and the Spanish description does not apply.\n\n*Inference —* on this site that is the clearest natural experiment there is: one people, two zones, the same century, and the difference is entirely whether the coloniser could get there."
+   },
+   "text_th": {
+    "what": "สเปนเรียกชาววิซายันว่า Pintados คนที่ถูกระบายลาย บรรยายรอยสักไว้ละเอียด แล้วเปลี่ยนศาสนาจนธรรมเนียมหายไปในสองศตวรรษ"
+   },
+   "kin": [
+    {
+     "to": "batok",
+     "as": "The tradition.",
+     "rel": "tradition"
+    },
+    {
+     "to": "kalinga-cordillera",
+     "as": "The mountains, where it did not happen.",
+     "rel": "tradition"
+    },
+    {
+     "to": "clothing",
+     "as": "\"Dressed in a kind of handsome armor.\"",
+     "rel": "story"
+    }
+   ],
+   "sources": [
+    "s:wp-batok"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-batok"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "ban",
+    "colonial-record"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "revival",
+   "type": "story",
+   "names": {
+    "name": "Stopped, and started again",
+    "said": "The gap, measured in years, where both ends have a date"
+   },
+   "region": [
+    "worldwide"
+   ],
+   "facets": {
+    "era": "now"
+   },
+   "text": {
+    "what": "Several traditions here stopped and came back. Where both ends are datable, this site subtracts them and prints the gap.",
+    "story": "Fiji: one tattooist left by 1908; an artists' collective takes it up again in the 2010s. Inuit: missionaries and the schools; a revitalisation project from 2016. Māori: the 1907 Act; the resurgence from 1990. Okinawa: the 1899 prohibition; hands being marked again now.\n\nThe gaps run to roughly a century each. *Inference —* what carries a practice across a hundred years is not a book. In every case on this list the bridge is a person: the elders Hovak Johnston learned the stitch from, the seventy women Michael King interviewed in the 1970s, the museum objects the Veiqia Project worked from, and the grandmothers.\n\nA practice with no living bearer left is a different problem, and the Lanna leg tattoo is in that category.",
+    "notes": "Gaps are computed from the `break` field on each tradition and shown with both endpoints, so a reader can disagree with either."
+   },
+   "text_th": {
+    "what": "หลายธรรมเนียมบนเว็บนี้หยุดไปแล้วกลับมา เมื่อระบุปีได้ทั้งสองปลาย เว็บนี้ลบกันแล้วพิมพ์ช่องว่างนั้นไว้"
+   },
+   "kin": [
+    {
+     "to": "veiqia",
+     "as": "The clearest one.",
+     "rel": "tradition"
+    },
+    {
+     "to": "kakiniit",
+     "as": "And the best documented.",
+     "rel": "tradition"
+    },
+    {
+     "to": "sak-kha-lai",
+     "as": "And the one with nobody left to ask.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:wp-veiqia",
+    "s:wp-kakiniit",
+    "s:wp-t-moko"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "inference"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "revival",
+    "measured"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "hajichi",
+     "type": "tradition",
+     "name": "Hajichi",
+     "as": "On the revival list."
+    },
+    {
+     "from": "kakiniit",
+     "type": "tradition",
+     "name": "Kakiniit",
+     "as": "The clearest datable revival in the record."
+    },
+    {
+     "from": "veiqia",
+     "type": "tradition",
+     "name": "Veiqia",
+     "as": "The best-dated stop and restart on the site."
+    },
+    {
+     "from": "hovak-johnston",
+     "type": "person",
+     "name": "Hovak Johnston",
+     "as": "The pattern."
+    },
+    {
+     "from": "veiqia-project",
+     "type": "org",
+     "name": "The Veiqia Project",
+     "as": "The pattern."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "timeline",
+   "type": "story",
+   "names": {
+    "name": "Five thousand years",
+    "said": "From the oldest marked skin to the newest studio"
+   },
+   "region": [
+    "worldwide"
+   ],
+   "facets": {
+    "era": "prehistory"
+   },
+   "text": {
+    "what": "The dated points: bodies with marks on them, bans with statutes behind them, revivals with a year.",
+    "story": "The timeline holds three kinds of date and keeps them apart. **Bodies**: Ötzi, the Gebelein mummies, the Chinchorro man, the Ukok woman, the Cordilleran mummies, the Qilakitsoq women — each with the range its laboratory gave. **Instruments**: the Arku Cave tools. **Paper**: bans, acts, patents and the revivals.\n\n*Inference —* the visible gap between the ancient bodies and the nineteenth-century paper is not a gap in the practice. It is a gap in what survives: skin needs ice, salt, sand or bog, and paper needs an administration. Between them, four thousand years of ordinary tattooing left neither."
+   },
+   "text_th": {
+    "what": "จุดที่มีวันที่ ร่างกายที่มีรอย คำสั่งห้ามที่มีกฎหมายรองรับ และการรื้อฟื้นที่ระบุปีได้"
+   },
+   "kin": [
+    {
+     "to": "otzi",
+     "as": "The oldest.",
+     "rel": "find"
+    },
+    {
+     "to": "machine",
+     "as": "The newest thing that changed everything.",
+     "rel": "method"
+    }
+   ],
+   "sources": [
+    "s:wp-tzi",
+    "s:wp-gebelein-predynastic-mummies",
+    "s:wp-chinchorro-mummies"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "inference"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "archaeology",
+    "measured"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "gebelein",
+     "type": "find",
+     "name": "The Gebelein mummies",
+     "as": "Contemporary with Ötzi, on another continent."
+    },
+    {
+     "from": "otzi",
+     "type": "find",
+     "name": "Ötzi",
+     "as": "The oldest dated point on it."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "tohunga-act",
+   "type": "story",
+   "names": {
+    "name": "The Tohunga Suppression Act",
+    "said": "New Zealand, 1907"
+   },
+   "region": [
+    "oceania"
+   ],
+   "facets": {
+    "era": "colonial"
+   },
+   "when": {
+    "from": 1907,
+    "to": 1962,
+    "label": "In force until 1962"
+   },
+   "text": {
+    "what": "A New Zealand statute aimed at Māori specialists, which caught tā moko along with everything else a tohunga did.",
+    "story": "Michael King interviewed more than seventy elderly women in the early 1970s who had received *moko kauae* before the Act. That interview list is the bridge: the practice was not remembered from books when it came back in the 1990s. It was remembered from faces."
+   },
+   "text_th": {
+    "what": "กฎหมายนิวซีแลนด์ที่มุ่งเป้าผู้เชี่ยวชาญชาวเมารี และกวาดเอาตาโมโกไปด้วย"
+   },
+   "kin": [
+    {
+     "to": "ta-moko",
+     "as": "What it caught.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:wp-t-moko"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-t-moko"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "ban"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "words",
+   "type": "story",
+   "names": {
+    "name": "What the word means first",
+    "said": "Prick, strike, write, pattern"
+   },
+   "region": [
+    "worldwide"
+   ],
+   "facets": {
+    "era": "now"
+   },
+   "text": {
+    "what": "The word each tradition uses for the tattoo, and what it meant before it meant that.",
+    "story": "Four families, and they line up with the method rather than with the geography.\n\n**Prick** — Thai and Khmer *sak*, Inuktitut *kaki-*, Hindi *godna*, Kurdish *deq*, Croatian *sicanje*, Burmese *htoe*, Okinawan *hajichi*. Every one of them is a poking tradition, and the word is the verb for what the needle does.\n\n**Strike** — Samoan and Polynesian *tatau*, Māori *tā*, Marquesan *patu*. Every one of them is a tapping tradition, and the word is the verb for the mallet.\n\n**Pattern** — Austronesian *batok*, *patik*, *burik*; Northern Thai *lai*. The word is the design, and it is the same word used for the pattern on a pot or a cloth.\n\n**Write** — Atayal *ptasan*; and in Lanna, the tool for tattooing is the same *lek char* stylus used to write a palm-leaf manuscript.\n\n*Inference —* a language names the tattoo after whichever part of it that culture finds most salient: the movement, the tool, the design, or the literacy. Four answers, and none of them is \"the picture\"."
+   },
+   "text_th": {
+    "what": "คำที่แต่ละธรรมเนียมใช้เรียกรอยสัก และความหมายของคำนั้นก่อนจะแปลว่ารอยสัก",
+    "story": "สี่ตระกูล และเรียงตามวิธี ไม่ใช่ตามภูมิศาสตร์\n\n**แทง** — ไทยและเขมร *สัก* อินุกติตุต *kaki-* ฮินดี *godna* เคิร์ด *deq* โครเอเชีย *sicanje* พม่า *ထိုး* ทั้งหมดเป็นธรรมเนียมแบบแทง\n\n**ตอก** — ซามัว *tatau* เมารี *tā* มาร์เคซัส *patu* ทั้งหมดเป็นธรรมเนียมแบบตอก\n\n**ลาย** — ออสโตรนีเซียน *batok* และคำว่า *ลาย* ในภาษาเหนือ\n\n**เขียน** — อาตายัล *ptasan* และทางล้านนา เครื่องมือสักคือเหล็กจารเล่มเดียวกับที่ใช้เขียนใบลาน"
+   },
+   "kin": [
+    {
+     "to": "sak",
+     "as": "Prick.",
+     "rel": "term"
+    },
+    {
+     "to": "tatau-word",
+     "as": "Strike.",
+     "rel": "term"
+    },
+    {
+     "to": "lek-char",
+     "as": "Write.",
+     "rel": "tool"
+    }
+   ],
+   "sources": [
+    "s:wp-yantra-tattooing",
+    "s:wp-kakiniit",
+    "s:wp-batok",
+    "s:wp-t-moko",
+    "s:wp-deq-tattoo"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "inference"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "measured",
+    "script"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "deq",
+     "type": "tradition",
+     "name": "Deq",
+     "as": "Another word for tattoo that means to puncture."
+    },
+    {
+     "from": "godna",
+     "type": "tradition",
+     "name": "Godna",
+     "as": "Another word for tattoo that means to prick."
+    }
+   ]
+  }
+ ]
+}

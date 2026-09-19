@@ -1,0 +1,559 @@
+{
+ "types": {
+  "note": "The fourteen node types and the order the front page lists them in. `one` is the singular used in prose; `th` is the Thai label on every /th/ page.",
+  "entries": [
+   {
+    "key": "tradition",
+    "name": "The traditions",
+    "th": "ธรรมเนียมการสัก",
+    "one": "tradition",
+    "path": "tradition",
+    "blurb": "Named traditions of marking skin by hand — who is marked, who does the marking, where on the body, and whether anyone is still doing it.",
+    "th_blurb": "ธรรมเนียมการสักด้วยมือที่มีชื่อเรียก ใครถูกสัก ใครเป็นคนสัก สักตรงไหนของร่างกาย และยังมีคนทำอยู่หรือไม่",
+    "group_by": "facets.family",
+    "icon": "tradition"
+   },
+   {
+    "key": "method",
+    "name": "The methods",
+    "th": "วิธีสัก",
+    "one": "method",
+    "path": "method",
+    "blurb": "Four ways a hand puts pigment under skin: push a point in, strike a comb, draw a threaded needle through, cut and rub.",
+    "th_blurb": "สี่วิธีที่มือคนนำสีลงใต้ผิวหนัง แทงด้วยปลายเข็ม ตอกด้วยหวี ร้อยด้ายลอดผิว และกรีดแล้วถูสี",
+    "group_by": "facets.family",
+    "icon": "method"
+   },
+   {
+    "key": "tool",
+    "name": "The instruments",
+    "th": "เครื่องมือ",
+    "one": "instrument",
+    "path": "tool",
+    "blurb": "Brass rods, bamboo splints, boar tusk combs, thorn bundles and bone needles — what they are made of and how long they are.",
+    "th_blurb": "เหล็กจาร ไม้ไผ่ หวีเขี้ยวหมู หนาม และเข็มกระดูก ทำจากอะไร ยาวเท่าไหร่",
+    "group_by": "facets.family",
+    "icon": "tool"
+   },
+   {
+    "key": "ink",
+    "name": "The inks",
+    "th": "หมึก",
+    "one": "ink",
+    "path": "ink",
+    "blurb": "Soot, charcoal, indigo, gall and cinnabar — and what they were mixed with before they went in.",
+    "th_blurb": "เขม่า ถ่าน คราม ดี และชาด ผสมกับอะไรก่อนลงผิว",
+    "group_by": "facets.colour",
+    "icon": "ink"
+   },
+   {
+    "key": "motif",
+    "name": "The designs",
+    "th": "ลาย",
+    "one": "design",
+    "path": "motif",
+    "blurb": "What the marks are of, what they are said to do, and which ones have to be earned.",
+    "th_blurb": "ลายเป็นรูปอะไร เชื่อว่าทำอะไรได้ และลายไหนต้องได้มาด้วยการกระทำ",
+    "group_by": "facets.does",
+    "icon": "motif"
+   },
+   {
+    "key": "rite",
+    "name": "The rites",
+    "th": "พิธีกรรม",
+    "one": "rite",
+    "path": "rite",
+    "blurb": "The fee, the day, the vows, the food not eaten and the words said over the needle.",
+    "th_blurb": "ค่าครู ฤกษ์ คำสาบาน ของแสลง และคำที่ว่าเหนือเข็ม",
+    "group_by": "facets.family",
+    "icon": "rite"
+   },
+   {
+    "key": "person",
+    "name": "The people",
+    "th": "บุคคล",
+    "one": "person",
+    "path": "person",
+    "blurb": "Practitioners, and the outsiders who wrote the tradition down — which is not the same list.",
+    "th_blurb": "ผู้สัก และคนนอกที่จดบันทึกไว้ ซึ่งไม่ใช่รายชื่อเดียวกัน",
+    "group_by": "facets.role",
+    "icon": "person"
+   },
+   {
+    "key": "place",
+    "name": "The places",
+    "th": "สถานที่",
+    "one": "place",
+    "path": "place",
+    "blurb": "Villages, temples, quarters and museums where the work is done or the record is kept.",
+    "th_blurb": "หมู่บ้าน วัด ย่าน และพิพิธภัณฑ์ ที่ยังสักกันอยู่หรือที่เก็บหลักฐานไว้",
+    "group_by": "facets.family",
+    "icon": "place"
+   },
+   {
+    "key": "term",
+    "name": "The words",
+    "th": "คำ",
+    "one": "word",
+    "path": "term",
+    "blurb": "The word each tradition uses, and what it means before it means tattoo. Most of them mean prick, strike or write.",
+    "th_blurb": "คำที่แต่ละธรรมเนียมใช้ และความหมายก่อนจะแปลว่ารอยสัก ส่วนใหญ่แปลว่าแทง ตอก หรือเขียน",
+    "group_by": "facets.means",
+    "icon": "term"
+   },
+   {
+    "key": "story",
+    "name": "The episodes",
+    "th": "เรื่องเล่า",
+    "one": "episode",
+    "path": "story",
+    "blurb": "A ban, an expedition, a photograph, a revival — dated, and with the paper that did it where there is one.",
+    "th_blurb": "คำสั่งห้าม การสำรวจ ภาพถ่าย การรื้อฟื้น พร้อมวันที่และเอกสารเท่าที่มี",
+    "group_by": "facets.era",
+    "icon": "story"
+   },
+   {
+    "key": "find",
+    "name": "The evidence",
+    "th": "หลักฐาน",
+    "one": "find",
+    "path": "find",
+    "blurb": "Tattooed skin that survived — bog, ice, desert and salt — with the date the laboratory gave it.",
+    "th_blurb": "ผิวหนังที่มีรอยสักซึ่งเหลือรอดมา ทั้งในพรุ น้ำแข็ง ทะเลทราย และเกลือ พร้อมอายุที่ห้องปฏิบัติการให้ไว้",
+    "group_by": "facets.era",
+    "icon": "find"
+   },
+   {
+    "key": "art",
+    "name": "The depictions",
+    "th": "ภาพ",
+    "one": "depiction",
+    "path": "art",
+    "blurb": "Murals, plates, figurines and photographs — what a picture of a tattoo is evidence of, and what it is not.",
+    "th_blurb": "จิตรกรรม ภาพพิมพ์ รูปปั้น และภาพถ่าย ภาพรอยสักเป็นหลักฐานของอะไร และไม่ใช่ของอะไร",
+    "group_by": "facets.kind",
+    "icon": "art"
+   },
+   {
+    "key": "org",
+    "name": "The keepers",
+    "th": "องค์กร",
+    "one": "organisation",
+    "path": "org",
+    "blurb": "Museums, archives, collectives and the studios that teach the hand method now.",
+    "th_blurb": "พิพิธภัณฑ์ หอจดหมายเหตุ กลุ่มคน และร้านที่สอนวิธีสักด้วยมือในปัจจุบัน",
+    "group_by": "facets.kind",
+    "icon": "org"
+   },
+   {
+    "key": "issue",
+    "name": "The open questions",
+    "th": "คำถามที่ยังไม่จบ",
+    "one": "question",
+    "path": "issue",
+    "blurb": "Questions this site cannot settle: whose designs, whose hands, whose photographs, and what counts as hand-poked at all.",
+    "th_blurb": "คำถามที่เว็บนี้ตอบไม่ได้ ลายของใคร มือของใคร ภาพของใคร และอะไรนับว่าสักด้วยมือ",
+    "group_by": "facets.family",
+    "icon": "issue"
+   }
+  ]
+ },
+ "regions": {
+  "note": "Broad regions, for grouping records a reader arrives at sideways. A record may carry more than one.",
+  "entries": [
+   {
+    "key": "mainland-southeast-asia",
+    "name": "Mainland Southeast Asia",
+    "th": "เอเชียตะวันออกเฉียงใต้ภาคพื้นทวีป"
+   },
+   {
+    "key": "lanna",
+    "name": "Lanna and the Shan States",
+    "th": "ล้านนาและรัฐฉาน"
+   },
+   {
+    "key": "island-southeast-asia",
+    "name": "Island Southeast Asia",
+    "th": "เอเชียตะวันออกเฉียงใต้ภาคพื้นสมุทร"
+   },
+   {
+    "key": "east-asia",
+    "name": "East Asia",
+    "th": "เอเชียตะวันออก"
+   },
+   {
+    "key": "south-asia",
+    "name": "South Asia",
+    "th": "เอเชียใต้"
+   },
+   {
+    "key": "oceania",
+    "name": "Oceania",
+    "th": "โอเชียเนีย"
+   },
+   {
+    "key": "arctic",
+    "name": "The Arctic",
+    "th": "อาร์กติก"
+   },
+   {
+    "key": "the-americas",
+    "name": "The Americas",
+    "th": "ทวีปอเมริกา"
+   },
+   {
+    "key": "europe",
+    "name": "Europe",
+    "th": "ยุโรป"
+   },
+   {
+    "key": "west-asia",
+    "name": "West Asia",
+    "th": "เอเชียตะวันตก"
+   },
+   {
+    "key": "north-africa",
+    "name": "North Africa",
+    "th": "แอฟริกาเหนือ"
+   },
+   {
+    "key": "africa",
+    "name": "Africa",
+    "th": "แอฟริกา"
+   },
+   {
+    "key": "siberia",
+    "name": "Siberia and Central Asia",
+    "th": "ไซบีเรียและเอเชียกลาง"
+   },
+   {
+    "key": "worldwide",
+    "name": "Everywhere",
+    "th": "ทั่วโลก"
+   }
+  ]
+ },
+ "facets": {
+  "note": "Per-type facets. Values are open: validate.py warns on an unknown value and never fails on one.",
+  "facets": {
+   "family": {
+    "name": "Method",
+    "th": "วิธี",
+    "values": {
+     "poke": {
+      "name": "Poked",
+      "th": "แทง"
+     },
+     "tap": {
+      "name": "Tapped",
+      "th": "ตอก"
+     },
+     "stitch": {
+      "name": "Stitched",
+      "th": "ร้อยด้าย"
+     },
+     "cut": {
+      "name": "Cut",
+      "th": "กรีด"
+     },
+     "mixed": {
+      "name": "More than one",
+      "th": "หลายวิธี"
+     },
+     "none": {
+      "name": "Not a method",
+      "th": "ไม่ใช่วิธีสัก"
+     }
+    },
+    "types": [
+     "tradition",
+     "method",
+     "tool",
+     "rite",
+     "place",
+     "issue",
+     "term"
+    ]
+   },
+   "status": {
+    "name": "Still done?",
+    "th": "ยังทำอยู่ไหม",
+    "values": {
+     "living": {
+      "name": "Living",
+      "th": "ยังมีอยู่"
+     },
+     "revived": {
+      "name": "Revived",
+      "th": "รื้อฟื้น"
+     },
+     "thinning": {
+      "name": "Thinning",
+      "th": "เหลือน้อย"
+     },
+     "dormant": {
+      "name": "Dormant",
+      "th": "หยุดไป"
+     },
+     "historical": {
+      "name": "Historical",
+      "th": "เป็นประวัติศาสตร์"
+     }
+    },
+    "types": [
+     "tradition"
+    ]
+   },
+   "colour": {
+    "name": "Colour",
+    "th": "สี",
+    "values": {
+     "black": {
+      "name": "Black",
+      "th": "ดำ"
+     },
+     "blue-black": {
+      "name": "Blue-black",
+      "th": "ดำอมน้ำเงิน"
+     },
+     "red": {
+      "name": "Red",
+      "th": "แดง"
+     },
+     "clear": {
+      "name": "Clear",
+      "th": "ใส"
+     }
+    },
+    "types": [
+     "ink"
+    ]
+   },
+   "does": {
+    "name": "What it is for",
+    "th": "ไว้ทำอะไร",
+    "values": {
+     "protect": {
+      "name": "Protection",
+      "th": "คุ้มครอง"
+     },
+     "charm": {
+      "name": "Charm",
+      "th": "เมตตามหานิยม"
+     },
+     "rank": {
+      "name": "Standing",
+      "th": "สถานะ"
+     },
+     "passage": {
+      "name": "Passage",
+      "th": "ผ่านวัย"
+     },
+     "mourning": {
+      "name": "Mourning",
+      "th": "ไว้ทุกข์"
+     },
+     "belonging": {
+      "name": "Belonging",
+      "th": "สังกัด"
+     },
+     "medicine": {
+      "name": "Medicine",
+      "th": "ยา"
+     },
+     "beauty": {
+      "name": "Beauty",
+      "th": "ความงาม"
+     }
+    },
+    "types": [
+     "motif"
+    ]
+   },
+   "means": {
+    "name": "What the word means",
+    "th": "คำนี้แปลว่าอะไร",
+    "values": {
+     "prick": {
+      "name": "To prick",
+      "th": "แทง"
+     },
+     "strike": {
+      "name": "To strike",
+      "th": "ตอก"
+     },
+     "write": {
+      "name": "To write",
+      "th": "เขียน"
+     },
+     "pattern": {
+      "name": "Pattern",
+      "th": "ลาย"
+     },
+     "sew": {
+      "name": "To sew",
+      "th": "เย็บ"
+     },
+     "other": {
+      "name": "Other",
+      "th": "อื่นๆ"
+     }
+    },
+    "types": [
+     "term"
+    ]
+   },
+   "role": {
+    "name": "Role",
+    "th": "บทบาท",
+    "values": {
+     "practitioner": {
+      "name": "Practitioner",
+      "th": "ผู้สัก"
+     },
+     "bearer": {
+      "name": "Bearer",
+      "th": "ผู้รับการสัก"
+     },
+     "recorder": {
+      "name": "Recorder",
+      "th": "ผู้บันทึก"
+     },
+     "reviver": {
+      "name": "Reviver",
+      "th": "ผู้รื้อฟื้น"
+     }
+    },
+    "types": [
+     "person"
+    ]
+   },
+   "era": {
+    "name": "When",
+    "th": "ยุค",
+    "values": {
+     "prehistory": {
+      "name": "Before writing",
+      "th": "ก่อนประวัติศาสตร์"
+     },
+     "ancient": {
+      "name": "Ancient",
+      "th": "โบราณ"
+     },
+     "colonial": {
+      "name": "The colonial record",
+      "th": "ยุคอาณานิคม"
+     },
+     "c20": {
+      "name": "The twentieth century",
+      "th": "ศตวรรษที่ 20"
+     },
+     "now": {
+      "name": "Now",
+      "th": "ปัจจุบัน"
+     }
+    },
+    "types": [
+     "story",
+     "find",
+     "art"
+    ]
+   },
+   "kind": {
+    "name": "Kind",
+    "th": "ประเภท",
+    "values": {
+     "mural": {
+      "name": "Mural",
+      "th": "จิตรกรรมฝาผนัง"
+     },
+     "plate": {
+      "name": "Printed plate",
+      "th": "ภาพพิมพ์"
+     },
+     "photograph": {
+      "name": "Photograph",
+      "th": "ภาพถ่าย"
+     },
+     "object": {
+      "name": "Object",
+      "th": "วัตถุ"
+     },
+     "museum": {
+      "name": "Museum",
+      "th": "พิพิธภัณฑ์"
+     },
+     "archive": {
+      "name": "Archive",
+      "th": "หอจดหมายเหตุ"
+     },
+     "collective": {
+      "name": "Collective",
+      "th": "กลุ่ม"
+     },
+     "studio": {
+      "name": "Studio",
+      "th": "ร้าน"
+     }
+    },
+    "types": [
+     "art",
+     "org"
+    ]
+   }
+  }
+ },
+ "tags": {
+  "note": "Free tags, for grouping pages a reader might arrive at sideways.",
+  "tags": {
+   "lanna": {
+    "name": "Lanna and the Shan",
+    "th": "ล้านนา–ไทใหญ่"
+   },
+   "start-here": {
+    "name": "Start here",
+    "th": "เริ่มตรงนี้"
+   },
+   "women": {
+    "name": "Women's work",
+    "th": "งานของผู้หญิง"
+   },
+   "revival": {
+    "name": "Revival",
+    "th": "การรื้อฟื้น"
+   },
+   "ban": {
+    "name": "Banned",
+    "th": "ถูกห้าม"
+   },
+   "archaeology": {
+    "name": "Dug up",
+    "th": "โบราณคดี"
+   },
+   "colonial-record": {
+    "name": "Written by outsiders",
+    "th": "บันทึกของคนนอก"
+   },
+   "protective": {
+    "name": "Protective",
+    "th": "คุ้มครอง"
+   },
+   "initiation": {
+    "name": "Initiation",
+    "th": "พิธีผ่านวัย"
+   },
+   "script": {
+    "name": "Letters in the skin",
+    "th": "ตัวอักษรบนผิว"
+   },
+   "measured": {
+    "name": "Counted here",
+    "th": "นับเองที่นี่"
+   },
+   "museum": {
+    "name": "In a collection",
+    "th": "อยู่ในพิพิธภัณฑ์"
+   }
+  }
+ }
+}

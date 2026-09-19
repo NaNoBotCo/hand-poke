@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "id": "moko-kauae",
+ "type": "motif",
+ "names": {
+  "name": "Moko kauae"
+ },
+ "region": [
+  "oceania"
+ ],
+ "facets": {
+  "does": "belonging"
+ },
+ "mark": {
+  "does": "The Māori chin marking worn by women.",
+  "where": [
+   "chin",
+   "face"
+  ],
+  "earned": true
+ },
+ "text": {
+  "what": "The Māori chin marking worn by women.",
+  "story": "Michael King interviewed more than seventy women in the 1970s who had received it before 1907. Since the 1990s it has been worn by a foreign minister and a prime-time news anchor, which is a change in where the mark is allowed to be seen rather than in the mark."
+ },
+ "text_th": {
+  "what": "รอยที่คางของหญิงชาวเมารี"
+ },
+ "kin": [
+  {
+   "to": "ta-moko",
+   "as": "The tradition it belongs to.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:wp-t-moko"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-t-moko"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [],
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "moko-kauae/moko-kauae-femme-maori-1998-3160-173.jpg",
+   "source": "commons",
+   "title": "File:Femme Maori 1998-3160-173.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Femme_Maori_1998-3160-173.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AFemme_Maori_1998-3160-173.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Non identifié/Unknown",
+   "credit": "Photothèque du Musée de l'Homme via French National Library  URL [1]\nReference No. Cote: 1998-3160-173\nPublication: (Paris): (Photothèque du Musée de l'Homme), (1860-1879)\nDescription matérielle: 30 p",
+   "alt": "Femme Maori (Maori Woman) with tattoo on chin",
+   "date": "between 1860 and 1879date QS:P,+1850-00-",
+   "primary": true,
+   "sha256": "e77e90acdd8c056c0e7ad8baa0b11865e3a925a181d77baf0325e23e80dd59a9"
+  }
+ ],
+ "kin_in": []
+}

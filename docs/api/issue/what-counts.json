@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "id": "what-counts",
+ "type": "issue",
+ "names": {
+  "name": "What counts as hand-poked",
+  "said": "Tapping is not poking, and both are hands"
+ },
+ "region": [
+  "worldwide"
+ ],
+ "facets": {
+  "family": "none"
+ },
+ "text": {
+  "what": "The site is called hand poke and half the traditions on it do not poke. Here is the line it draws and why the line is arguable.",
+  "story": "A poked tattoo is driven by the hand holding the tool. A tapped one is driven by a second stick striking a hafted comb. A stitched one is sewn. A cut one is chiselled or incised and then rubbed with pigment.\n\nAll four are hand methods and none of them is a machine, which is why they are all here. But calling them all \"hand-poke\" flattens the thing each tradition is proudest of, so this site keeps them as four and says which is which on every record.\n\nThe hard cases are real. Māori *uhi* work was replaced by needle work in the nineteenth century and the tradition kept its name. Modern professional hand-poke uses a cartridge needle in a stabiliser pen, which is a tool with a handle and a grip and no motor. **A reader who would draw the line somewhere else is looking at the same field on the same records and can re-sort it.**"
+ },
+ "text_th": {
+  "what": "เว็บนี้ชื่อว่าสักด้วยมือ แต่ครึ่งหนึ่งของธรรมเนียมบนนี้ไม่ได้แทง นี่คือเส้นที่ลากไว้ และเหตุผลว่าทำไมเส้นนี้เถียงได้"
+ },
+ "kin": [
+  {
+   "to": "poke",
+   "as": "One.",
+   "rel": "method"
+  },
+  {
+   "to": "tap",
+   "as": "Two.",
+   "rel": "method"
+  },
+  {
+   "to": "stitch",
+   "as": "Three.",
+   "rel": "method"
+  },
+  {
+   "to": "cut",
+   "as": "Four.",
+   "rel": "method"
+  }
+ ],
+ "sources": [
+  "s:wp-batok",
+  "s:wp-t-moko",
+  "s:wp-stick-and-poke"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "inference"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "start-here"
+ ],
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "stick-and-poke",
+   "type": "tradition",
+   "name": "Stick and poke",
+   "as": "And the question that gets asked about it."
+  },
+  {
+   "from": "poke",
+   "type": "method",
+   "name": "Poke",
+   "as": "Where the line between them stops being clear."
+  }
+ ]
+}

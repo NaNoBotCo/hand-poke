@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "id": "irezumi-word",
+ "type": "term",
+ "names": {
+  "name": "irezumi",
+  "local": "入れ墨",
+  "local_lang": "Japanese",
+  "said": "irezumi"
+ },
+ "etymology": {
+  "root": "Inserting ink. The word names the material and the direction of travel, and nothing about the hand.",
+  "tier": "cited",
+  "source": "s:wp-irezumi"
+ },
+ "region": [
+  "east-asia"
+ ],
+ "facets": {
+  "means": "other"
+ },
+ "text": {
+  "what": "Inserting ink. The word names the material and the direction of travel, and nothing about the hand."
+ },
+ "text_th": {
+  "what": "แปลว่าใส่หมึก ชื่อบอกวัสดุและทิศทาง ไม่ได้บอกเรื่องมือ"
+ },
+ "sources": [
+  "s:wp-irezumi"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-irezumi"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [],
+ "updated": "2026-09-19"
+}

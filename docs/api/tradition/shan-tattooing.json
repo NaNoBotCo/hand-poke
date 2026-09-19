@@ -1,0 +1,193 @@
+{
+ "schema": 1,
+ "id": "shan-tattooing",
+ "type": "tradition",
+ "names": {
+  "name": "Shan leg tattooing",
+  "th": "การสักของไทใหญ่",
+  "local": "တႆး",
+  "local_lang": "Shan",
+  "aliases": [
+   "Tai Yai tattooing"
+  ],
+  "said": "Both legs, waist to knee, and further than the Burmese"
+ },
+ "region": [
+  "lanna",
+  "mainland-southeast-asia"
+ ],
+ "facets": {
+  "family": "poke",
+  "status": "thinning"
+ },
+ "when": {
+  "from": 1300,
+  "to": 2026,
+  "circa": true,
+  "label": "Chinese annals notice Shans tattooing their foreheads; Milne describes the leg work in 1910"
+ },
+ "practice": {
+  "method": "poke",
+  "ink": "lampblack",
+  "tool": "hnitkwasok",
+  "placement": [
+   "waist-to-knee",
+   "waist-to-ankle",
+   "back",
+   "arms",
+   "face"
+  ],
+  "marked": "men",
+  "marks": "specialist",
+  "status": "thinning",
+  "countries": [
+   "MM",
+   "TH",
+   "CN"
+  ],
+  "first_record": 1910,
+  "first_record_note": "Leslie Milne, Shans at Home; the Gazetteer carries an older Chinese notice",
+  "sessions": "begun at twelve to fourteen",
+  "note": "A Shan boy counted as a child until he was tattooed."
+ },
+ "text": {
+  "what": "The same leg work as the Burmese, carried further — to the ankles, up the back, and on the specialists who tattooed everybody else's charms.",
+  "story": "Leslie Milne lived among the northern Shan and published *Shans at Home* in 1910. Her sentence on status is the whole of it: **a Shan boy is a child until he is tattooed.** Plucky boys start at twelve, most wait until fourteen. The rule is both legs, waist to knee, the thighs completely covered in dark blue — and often on to the ankles. Backs come later, in blue or more often red, and without symmetry: a grid of lettered squares under one shoulder blade, small circles or beasts on the other side.\n\nShway Yoe, writing thirty years earlier, says the Shans tattoo more extensively than the Burmese, with rays running up from the waistline to the chest and nearly to the nape, and that the retainers of a *sawbwa* — a Shan chief — might be marked everywhere but the palms and the soles.\n\nThe second thing he says is the one that matters for the whole region: **the men who tattoo charms and cabalistic figures are mostly Shans.** They are credited with the special skill, they mutter the spells over the medicine, and they are held in some awe for it. The Lanna volume agrees from the other side of the border: this fashion was widespread among the Burmese and the Tai Yai, who tattoo yantras no less than the Lanna do.",
+  "today": "Tai Yai communities span the Myanmar–Thailand border, including Mae Hong Son. This site has no count of who is still tattooed and does not guess at one."
+ },
+ "text_th": {
+  "what": "งานสักขาแบบเดียวกับพม่า แต่ไปไกลกว่า ถึงข้อเท้า ขึ้นหลัง และอยู่บนตัวช่างผู้สักเครื่องรางให้คนอื่นทั้งภูมิภาค",
+  "story": "เลสลี มิลน์ อยู่กับชาวไทใหญ่ทางเหนือและพิมพ์ *Shans at Home* ในปี 1910 ประโยคเรื่องสถานะของเธอคือทั้งหมดของเรื่อง **เด็กชายไทใหญ่ยังเป็นเด็กจนกว่าจะได้สัก** คนใจกล้าเริ่มตอนสิบสอง ส่วนใหญ่รอถึงสิบสี่ กติกาคือสองขา ตั้งแต่เอวถึงเข่า ต้นขาเต็มไปด้วยลายสีน้ำเงินเข้ม และบ่อยครั้งลงไปถึงข้อเท้า\n\nเชวโยซึ่งเขียนก่อนหน้านั้นสามสิบปีบอกว่าไทใหญ่สักมากกว่าพม่า มีรัศมีพุ่งจากแนวเอวขึ้นหน้าอกและเกือบถึงท้ายทอย และบริวารของเจ้าฟ้าอาจถูกสักทุกส่วนยกเว้นฝ่ามือกับฝ่าเท้า\n\nสิ่งที่เขาพูดต่อสำคัญต่อทั้งภูมิภาค **ช่างที่สักยันต์และอักขระส่วนใหญ่เป็นไทใหญ่** เอกสารล้านนาก็พูดตรงกันจากอีกฝั่งของพรมแดน"
+ },
+ "kin": [
+  {
+   "to": "htoe-kwin",
+   "as": "Who they learned it from, if Milne is right — and she hedges.",
+   "rel": "tradition"
+  },
+  {
+   "to": "sak-kha-lai",
+   "as": "The same work on the Thai side of the line.",
+   "rel": "tradition"
+  },
+  {
+   "to": "sak-yant",
+   "as": "What the Shan specialists were carrying when they crossed.",
+   "rel": "tradition"
+  },
+  {
+   "to": "milne-shans",
+   "as": "Who wrote it down, and stayed long enough to quote the boys' friends.",
+   "rel": "person"
+  },
+  {
+   "to": "legs",
+   "as": "The zone this belongs to, and where its border runs.",
+   "rel": "finding"
+  }
+ ],
+ "links": [
+  {
+   "label": "Shan people",
+   "url": "https://en.wikipedia.org/wiki/Shan_people"
+  }
+ ],
+ "sources": [
+  "s:milne-shans",
+  "s:shway-yoe",
+  "s:gazetteer-2",
+  "s:ms6968"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:milne-shans"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "lanna",
+  "colonial-record",
+  "initiation"
+ ],
+ "images": [
+  {
+   "file": "shan-tattooing/shan-tattooing-shan-man-in-gaung-baung.jpg",
+   "source": "commons",
+   "title": "File:Shan man in gaung baung.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Shan_man_in_gaung_baung.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AShan_man_in_gaung_baung.jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "author": "Damien Halleux Radermecker from Brussels, Belgium",
+   "credit": "Shan Colors",
+   "alt": "Shan man in Myanmar wearing a gaung baung (turban)",
+   "date": "2010-02-03 14:32",
+   "primary": true,
+   "sha256": "43cc1a453125e2f824ddf36907c2d158d21a0da1aac8b3cc9f9373aacb93e5bb"
+  }
+ ],
+ "geo": {
+  "lat": 21.29,
+  "lon": 99.6,
+  "precision": "region",
+  "source": "s:commons"
+ },
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "htoe-kwin",
+   "type": "tradition",
+   "name": "Htoe kwin",
+   "as": "Who Shway Yoe says did the charm work, and did more of it."
+  },
+  {
+   "from": "sak-kha-lai",
+   "type": "tradition",
+   "name": "Sak kha lai",
+   "as": "And the same again to the north, where the tattooers of charms came from."
+  },
+  {
+   "from": "sak-yant",
+   "type": "tradition",
+   "name": "Sak yant",
+   "as": "Where Shway Yoe says the charm specialists came from."
+  },
+  {
+   "from": "the-pain",
+   "type": "rite",
+   "name": "Bearing it",
+   "as": "Where the friends do."
+  },
+  {
+   "from": "ajarn-dang-sak",
+   "type": "person",
+   "name": "Ajarn Dang and Ajarn Sak",
+   "as": "The line they name."
+  },
+  {
+   "from": "milne-shans",
+   "type": "person",
+   "name": "Leslie Milne",
+   "as": "What she described."
+  },
+  {
+   "from": "kengtung",
+   "type": "place",
+   "name": "Kengtung",
+   "as": "The tradition."
+  },
+  {
+   "from": "legs",
+   "type": "story",
+   "name": "The leg-tattoo zone",
+   "as": "The middle."
+  }
+ ]
+}

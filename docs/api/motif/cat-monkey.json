@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "id": "cat-monkey",
+ "type": "motif",
+ "names": {
+  "name": "Cats and monkeys"
+ },
+ "region": [
+  "mainland-southeast-asia"
+ ],
+ "facets": {
+  "does": "protect"
+ },
+ "mark": {
+  "does": "The two commonest figures on a Burmese thigh, named in the same breath as tigers and elephants.",
+  "where": [
+   "thighs"
+  ],
+  "earned": false
+ },
+ "text": {
+  "what": "The two commonest figures on a Burmese thigh, named in the same breath as tigers and elephants.",
+  "story": "The name of the animal is often written inside the figure as well, which Shway Yoe compares, drily, to a child labelling a drawing."
+ },
+ "text_th": {
+  "what": "สองรูปที่พบบ่อยที่สุดบนต้นขาชายพม่า ถูกเอ่ยพร้อมเสือและช้าง"
+ },
+ "kin": [
+  {
+   "to": "htoe-kwin",
+   "as": "The tradition it belongs to.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:shway-yoe",
+  "s:wp-tattooing-in-myanmar"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:shway-yoe"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [],
+ "updated": "2026-09-19",
+ "kin_in": []
+}

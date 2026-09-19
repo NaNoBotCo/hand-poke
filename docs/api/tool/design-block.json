@@ -1,0 +1,95 @@
+{
+ "schema": 1,
+ "id": "design-block",
+ "type": "tool",
+ "names": {
+  "name": "The design block",
+  "local": "pantang",
+  "local_lang": "Iban",
+  "aliases": [
+   "carved stamp",
+   "sample book"
+  ],
+  "said": "A repertoire kept outside a head"
+ },
+ "region": [
+  "island-southeast-asia",
+  "west-asia",
+  "mainland-southeast-asia"
+ ],
+ "facets": {
+  "family": "poke"
+ },
+ "instrument": {
+  "material": [
+   "wood",
+   "paper"
+  ],
+  "points": "none — it carries the design, not the point",
+  "worked": "pushed"
+ },
+ "text": {
+  "what": "Not a needle: a carved wooden block, inked and printed onto the skin, so the tattooist follows a line instead of remembering one.",
+  "story": "Three traditions on this site solved the same problem the same way and had no contact with each other. Borneo tattooists carved designs into wooden blocks, printed them onto the skin and tapped along the print. The Razzouk family in Jerusalem still holds olive-wood blocks three hundred years old and still prints pilgrims' crosses from them. And Shway Yoe reports that a good Burmese *saya* carried **a sample book of drawings** so the boy could choose his figures and their positions before the opium went in.\n\n*Inference —* a flash sheet, a stencil and a catalogue are all the same invention, and it arrives wherever a hand tradition has more designs than one person can hold."
+ },
+ "text_th": {
+  "what": "ไม่ใช่เข็ม เป็นแม่พิมพ์ไม้แกะลาย ลงหมึกแล้วประทับบนผิว ช่างจึงเดินตามเส้น ไม่ต้องจำ"
+ },
+ "kin": [
+  {
+   "to": "iban-borneo",
+   "as": "The block.",
+   "rel": "tradition"
+  },
+  {
+   "to": "coptic-pilgrim",
+   "as": "The block, still in use.",
+   "rel": "tradition"
+  },
+  {
+   "to": "htoe-kwin",
+   "as": "The sample book, 1882.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:shway-yoe",
+  "s:wp-razzouk-tattoo",
+  "s:wp-iban-people"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:shway-yoe"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:shway-yoe"
+   },
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "measured"
+ ],
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "sample-book",
+   "type": "art",
+   "name": "The sample book",
+   "as": "The same invention, three times over."
+  },
+  {
+   "from": "stencils",
+   "type": "art",
+   "name": "The stencil book",
+   "as": "The same idea."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "id": "bungai-terung",
+ "type": "motif",
+ "names": {
+  "name": "The aubergine flower"
+ },
+ "region": [
+  "island-southeast-asia"
+ ],
+ "facets": {
+  "does": "passage"
+ },
+ "mark": {
+  "does": "*Bungai terung*, worn on each shoulder when a young Iban man leaves home on his journey.",
+  "where": [
+   "chest",
+   "arms"
+  ],
+  "earned": false
+ },
+ "text": {
+  "what": "*Bungai terung*, worn on each shoulder when a young Iban man leaves home on his journey.",
+  "story": "A spiral at the centre stands for the tendril of a pumpkin plant; the mark is put on before the journey, not after it. A tattoo that anticipates rather than records."
+ },
+ "text_th": {
+  "what": "ดอกมะเขือ สวมที่ไหล่ทั้งสองข้างเมื่อชายหนุ่มอิบันออกเดินทางจากบ้าน"
+ },
+ "kin": [
+  {
+   "to": "iban-borneo",
+   "as": "The tradition it belongs to.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:wp-iban-people"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-iban-people"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [],
+ "updated": "2026-09-19",
+ "kin_in": []
+}

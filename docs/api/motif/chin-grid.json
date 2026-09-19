@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "id": "chin-grid",
+ "type": "motif",
+ "names": {
+  "name": "The face grids"
+ },
+ "region": [
+  "mainland-southeast-asia"
+ ],
+ "facets": {
+  "does": "belonging"
+ },
+ "mark": {
+  "does": "Lines, dots, and combinations of both, arranged differently by each Chin group.",
+  "where": [
+   "face"
+  ],
+  "earned": false
+ },
+ "text": {
+  "what": "Lines, dots, and combinations of both, arranged differently by each Chin group.",
+  "story": "Full face, part face, all dots, vertical lines with dots, stars on cheek and forehead. Sixty sub-groups, and the design is the group's name written where nobody can mistake it."
+ },
+ "text_th": {
+  "what": "เส้น จุด และการผสมกัน จัดวางต่างกันไปตามกลุ่มชาวชิน"
+ },
+ "kin": [
+  {
+   "to": "chin-ming",
+   "as": "The tradition it belongs to.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:wp-chin-people"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-chin-people"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [],
+ "updated": "2026-09-19",
+ "kin_in": []
+}

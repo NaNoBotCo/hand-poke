@@ -1,0 +1,146 @@
+{
+ "schema": 1,
+ "id": "ainu-anchi-piri",
+ "type": "tradition",
+ "names": {
+  "name": "Ainu anchi-piri",
+  "local": "アンチピリ",
+  "local_lang": "Ainu",
+  "said": "anchi-piri — the obsidian cut; a woman's mouth, widening for years"
+ },
+ "region": [
+  "east-asia"
+ ],
+ "facets": {
+  "family": "cut",
+  "status": "dormant"
+ },
+ "when": {
+  "from": 1600,
+  "to": 1900,
+  "circa": true,
+  "label": "Prohibited under Japanese rule; the last tattooed women died in the twentieth century"
+ },
+ "practice": {
+  "method": "cut",
+  "ink": "indigo",
+  "placement": [
+   "face",
+   "arms",
+   "hands"
+  ],
+  "marked": "women",
+  "marks": "women",
+  "status": "dormant",
+  "countries": [
+   "JP",
+   "RU"
+  ],
+  "first_record": 1800,
+  "break": [
+   1900,
+   2026
+  ],
+  "suppressed_by": "prohibited under Japanese administration in the nineteenth century",
+  "note": "Begun between five and thirteen, enlarged until marriage."
+ },
+ "text": {
+  "what": "Hokkaido and Sakhalin: a woman's mouth ringed with indigo, begun in childhood and widened until she was ready to marry.",
+  "story": "The Ainu word *anchi-piri* carries the tool inside it — obsidian, and a cut. Ink came from the indigo plant. The mark was made by women on women, on the mouth, the forearms and the backs of the hands, and it grew with its owner: a small mark at five to thirteen, widened over years, finished when she married.\n\nThe Japanese state prohibited it. What happened next is the same everywhere on this site: the practice stops, the women who have it grow old, and the only pictures left are the ones outsiders took."
+ },
+ "text_th": {
+  "what": "ฮกไกโดและซาฮาลิน รอบปากผู้หญิงด้วยสีคราม เริ่มตั้งแต่เด็กและขยายขึ้นจนถึงวัยแต่งงาน"
+ },
+ "kin": [
+  {
+   "to": "cut",
+   "as": "The method — a cut rubbed with pigment, not a puncture.",
+   "rel": "method"
+  },
+  {
+   "to": "irezumi",
+   "as": "The other Japanese tradition, and the one the word usually means.",
+   "rel": "tradition"
+  }
+ ],
+ "links": [
+  {
+   "label": "Ainu people",
+   "url": "https://en.wikipedia.org/wiki/Ainu_people"
+  }
+ ],
+ "sources": [
+  "s:wp-ainu-people",
+  "s:wp-irezumi"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-ainu-people"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "women",
+  "ban"
+ ],
+ "images": [
+  {
+   "file": "ainu-anchi-piri/ainu-anchi-piri-ainu-woman-from-a-book-published-in-1931-p-81.png",
+   "source": "commons",
+   "title": "File:Ainu woman (from a book Published in 1931) P.81.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Ainu_woman_%28from_a_book_Published_in_1931%29_P.81.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AAinu_woman_%28from_a_book_Published_in_1931%29_P.81.png",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Unknown authorUnknown author",
+   "credit": "新光社 編「世界地理風俗大系. 別巻〔第3〕」1931年発行\n\nhttps://dl.ndl.go.jp/info:ndljp/pid/1876894",
+   "alt": "入れ墨を入れたアイヌの女性（1931年出版の本より）",
+   "date": "1931",
+   "primary": true,
+   "sha256": "7600424b09ceaf0d3ceab655e7a43751241e5d0097ae278ef29d5092eeaf7a0d"
+  },
+  {
+   "file": "ainu-anchi-piri/ainu-anchi-piri-the-races-of-man-figure-49-ia-deniofmanoutlinraces00rich.png",
+   "source": "commons",
+   "title": "File:The races of man, figure 49 (IA deniofmanoutlinraces00rich).png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/The_races_of_man%2C_figure_49_%28IA_deniofmanoutlinraces00rich%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AThe_races_of_man%2C_figure_49_%28IA_deniofmanoutlinraces00rich%29.png",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Joseph Deniker",
+   "credit": "The races of man: an outline of anthropology and ethnography (1906)",
+   "alt": "Caption: \"Fig. 49 - Ainu woman tattooed round the lips.\"",
+   "date": "2011-10-19",
+   "primary": false,
+   "sha256": "d0fbf54e87ac8fb59e1d8f88182238a8b6e39c938df0a2c4206f9762732f4405"
+  }
+ ],
+ "geo": {
+  "lat": 43.3,
+  "lon": 142.8,
+  "precision": "region",
+  "source": "s:commons"
+ },
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "irezumi",
+   "type": "tradition",
+   "name": "Irezumi",
+   "as": "The other tradition in the same islands, which the word also covers."
+  },
+  {
+   "from": "indigo",
+   "type": "ink",
+   "name": "Indigo",
+   "as": "Where it goes."
+  }
+ ]
+}

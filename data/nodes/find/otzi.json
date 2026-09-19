@@ -1,0 +1,67 @@
+{
+ "schema": 1,
+ "id": "otzi",
+ "type": "find",
+ "names": {
+  "name": "Ötzi",
+  "said": "61 marks, mostly on the legs, about 3300 BCE"
+ },
+ "region": [
+  "europe"
+ ],
+ "facets": {
+  "era": "prehistory"
+ },
+ "when": {
+  "from": -3300,
+  "to": -3100,
+  "circa": true,
+  "label": "Radiocarbon range for the body"
+ },
+ "text": {
+  "what": "The Alpine body with sixty-one tattoos — nineteen groups of black lines, and the greatest concentration on the legs.",
+  "story": "The marks are 1–3 mm wide and 7–40 mm long: groups of parallel lines along the body's long axis and either side of the lumbar spine, a cross behind the right knee, another at the right ankle, parallel lines round the left wrist. Twelve of the nineteen groups are on the legs.\n\nMicroscopy on samples showed the pigment was made from fireplace soot.\n\n*Inference —* the oldest tattooed body in Europe is a set of short lines on the legs and lower back, put there with soot. Five thousand years later, the *htoe kwin* is a leg tattoo made with lamp soot. Nothing connects them and the resemblance is not a lineage; it is what the available tools and the available pigment produce."
+ },
+ "text_th": {
+  "what": "ร่างจากเทือกแอลป์ที่มีรอยสัก 61 รอย เป็นเส้นดำ 19 กลุ่ม กระจุกตัวมากที่สุดที่ขา"
+ },
+ "kin": [
+  {
+   "to": "soot-water",
+   "as": "What the pigment turned out to be.",
+   "rel": "ink"
+  },
+  {
+   "to": "timeline",
+   "as": "The oldest dated point on it.",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Ötzi",
+   "url": "https://en.wikipedia.org/wiki/%C3%96tzi"
+  }
+ ],
+ "sources": [
+  "s:wp-tzi"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-tzi"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "archaeology",
+  "start-here"
+ ],
+ "updated": "2026-09-19"
+}

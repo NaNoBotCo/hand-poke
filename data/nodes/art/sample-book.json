@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "id": "sample-book",
+ "type": "art",
+ "names": {
+  "name": "The sample book",
+  "said": "Burma, 1882 — flash, before the word existed"
+ },
+ "region": [
+  "mainland-southeast-asia"
+ ],
+ "facets": {
+  "kind": "object"
+ },
+ "when": {
+  "from": 1880,
+  "to": 1890,
+  "circa": true,
+  "label": "Described in 1882"
+ },
+ "text": {
+  "what": "A book of drawings a Burmese tattooist carried, so the boy could pick his figures and their positions before the work started.",
+  "story": "Shway Yoe: \"The best *sayas* carry about sample-books with them containing clever drawings, from which the aspirant may select the patterns he likes best, and mark their relative positions before he takes the opium.\"\n\nThat is a flash sheet, a consultation and a layout, in 1882, in a tradition usually described as though the designs came out of nowhere."
+ },
+ "text_th": {
+  "what": "สมุดภาพที่ช่างสักพม่าพกไป เพื่อให้เด็กเลือกลายและตำแหน่งก่อนเริ่มงาน"
+ },
+ "kin": [
+  {
+   "to": "design-block",
+   "as": "The same invention, three times over.",
+   "rel": "tool"
+  },
+  {
+   "to": "htoe-kwin",
+   "as": "The work it was for.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:shway-yoe"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:shway-yoe"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "lanna",
+  "measured"
+ ],
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "sample-book/sample-book-bodleian-ms-burm-a-5-fol063-3.jpg",
+   "source": "commons",
+   "title": "File:Bodleian Ms. Burm. a. 5 fol063-3.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Bodleian_Ms._Burm._a._5_fol063-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ABodleian_Ms._Burm._a._5_fol063-3.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "",
+   "credit": "Bodleian Library, Oxford. Shelfmark Ms. Burm. a 5",
+   "alt": "Bodleian Ms. Burm. a. 5 fol063-3.jpg",
+   "date": "",
+   "primary": true,
+   "sha256": "aa65129597620f82ec0d99cbd812b4b1ace59e06812cfb487aabe84bc3e95546"
+  },
+  {
+   "file": "sample-book/sample-book-burmese-kinnara-and-three-headed-peacock.jpg",
+   "source": "commons",
+   "title": "File:Burmese Kinnara and three-headed peacock.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Burmese_Kinnara_and_three-headed_peacock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ABurmese_Kinnara_and_three-headed_peacock.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Unknown authorUnknown author",
+   "credit": "Library of Congress, Asian Division (2), Washington, D.C., USA, published online at https://www.loc.gov/exhibits/treasures/wb-dream.html (wb0002s-th.jpg), section \"BURMESE WINGED CREATURE\"",
+   "alt": "Illustrations in a Manuscript of talismans and tattoos from Burma.\nupper image: half-human, half-bird creature and is known as a \"Kinnara.\" This mythical beast was originally an Indian creation though",
+   "date": "19th centurydate QS:P,+1850-00-00T00:00:",
+   "primary": false,
+   "sha256": "623e0f13f1fe42501aa782def44f8418d8312ea50134d9fd8902162aa96324ce"
+  }
+ ]
+}

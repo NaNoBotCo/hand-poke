@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "coptic-pilgrim",
+ "type": "tradition",
+ "names": {
+  "name": "The pilgrim's cross",
+  "local": "Copt",
+  "local_lang": "Coptic",
+  "aliases": [
+   "Jerusalem tattoo",
+   "Razzouk"
+  ],
+  "said": "A cross on the wrist, given to pilgrims for seven centuries"
+ },
+ "region": [
+  "west-asia",
+  "north-africa"
+ ],
+ "facets": {
+  "family": "poke",
+  "status": "living"
+ },
+ "when": {
+  "from": 1300,
+  "to": 2026,
+  "label": "A single family has been tattooing pilgrims for about 700 years"
+ },
+ "practice": {
+  "method": "mixed",
+  "ink": "soot-water",
+  "placement": [
+   "hands",
+   "arms",
+   "chest"
+  ],
+  "marked": "both",
+  "marks": "kin",
+  "status": "living",
+  "countries": [
+   "IL",
+   "PS",
+   "EG",
+   "ET"
+  ],
+  "first_record": 1300,
+  "note": "Carved wooden stamps print the design; the marks go on by hand and, since the 1950s, by machine."
+ },
+ "text": {
+  "what": "Jerusalem and Egypt: a cross on the inside of the wrist, marking a pilgrimage — and a family that has been doing it for around seven hundred years.",
+  "story": "The Razzouk family carries the trade from Egypt to Jerusalem and still holds the carved olive-wood blocks that print the designs onto the skin before the needle follows. Coptic Christians in Egypt wear the wrist cross as an everyday identification, not only as a souvenir of a journey.\n\n*Inference —* the wooden design blocks are the same idea as the Borneo stamp and the Burmese sample book: a hand tradition that needs a repertoire invents a way to store it outside a person's memory."
+ },
+ "text_th": {
+  "what": "เยรูซาเลมและอียิปต์ ไม้กางเขนบนข้อมือด้านใน เครื่องหมายของการจาริก และครอบครัวหนึ่งทำมาราวเจ็ดร้อยปี"
+ },
+ "kin": [
+  {
+   "to": "sicanje",
+   "as": "Christian marks made by pricking, at the other end of the Mediterranean.",
+   "rel": "tradition"
+  },
+  {
+   "to": "iban-borneo",
+   "as": "The same solution to the same problem: carve the design into wood.",
+   "rel": "tradition"
+  }
+ ],
+ "links": [
+  {
+   "label": "Razzouk Tattoo",
+   "url": "https://en.wikipedia.org/wiki/Razzouk_Tattoo"
+  }
+ ],
+ "sources": [
+  "s:wp-razzouk-tattoo",
+  "s:wp-copts"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-razzouk-tattoo"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "protective"
+ ],
+ "geo": {
+  "lat": 31.78,
+  "lon": 35.22,
+  "precision": "region",
+  "source": "s:commons"
+ },
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "sicanje",
+   "type": "tradition",
+   "name": "Sicanje",
+   "as": "The other Christian hand-poke tradition on this site."
+  },
+  {
+   "from": "design-block",
+   "type": "tool",
+   "name": "The design block",
+   "as": "The block, still in use."
+  },
+  {
+   "from": "pilgrim-cross",
+   "type": "motif",
+   "name": "The pilgrim's cross",
+   "as": "The tradition it belongs to."
+  }
+ ]
+}

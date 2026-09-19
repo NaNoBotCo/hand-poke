@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "lao-phung-dam",
+ "type": "term",
+ "names": {
+  "name": "lao phung dam",
+  "local": "ลาวพุงดำ",
+  "local_lang": "Thai",
+  "said": "lao phung dam",
+  "th": "ลาวพุงดำ"
+ },
+ "etymology": {
+  "root": "\"Black-bellied Lao\" — a central Thai name for the tattooed northerner, applied from outside and carrying a view with it.",
+  "tier": "cited",
+  "source": "s:ms6968"
+ },
+ "region": [
+  "lanna"
+ ],
+ "facets": {
+  "means": "other"
+ },
+ "text": {
+  "what": "\"Black-bellied Lao\" — a central Thai name for the tattooed northerner, applied from outside and carrying a view with it."
+ },
+ "text_th": {
+  "what": "ชื่อที่ภาคกลางใช้เรียกคนเหนือที่สักลาย เป็นคำของคนนอก และมีสายตาติดมาด้วย"
+ },
+ "sources": [
+  "s:ms6968"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:ms6968"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "lanna"
+ ],
+ "updated": "2026-09-19",
+ "kin_in": []
+}

@@ -1,0 +1,53 @@
+{
+ "note": "Free tags, for grouping pages a reader might arrive at sideways.",
+ "tags": {
+  "lanna": {
+   "name": "Lanna and the Shan",
+   "th": "ล้านนา–ไทใหญ่"
+  },
+  "start-here": {
+   "name": "Start here",
+   "th": "เริ่มตรงนี้"
+  },
+  "women": {
+   "name": "Women's work",
+   "th": "งานของผู้หญิง"
+  },
+  "revival": {
+   "name": "Revival",
+   "th": "การรื้อฟื้น"
+  },
+  "ban": {
+   "name": "Banned",
+   "th": "ถูกห้าม"
+  },
+  "archaeology": {
+   "name": "Dug up",
+   "th": "โบราณคดี"
+  },
+  "colonial-record": {
+   "name": "Written by outsiders",
+   "th": "บันทึกของคนนอก"
+  },
+  "protective": {
+   "name": "Protective",
+   "th": "คุ้มครอง"
+  },
+  "initiation": {
+   "name": "Initiation",
+   "th": "พิธีผ่านวัย"
+  },
+  "script": {
+   "name": "Letters in the skin",
+   "th": "ตัวอักษรบนผิว"
+  },
+  "measured": {
+   "name": "Counted here",
+   "th": "นับเองที่นี่"
+  },
+  "museum": {
+   "name": "In a collection",
+   "th": "อยู่ในพิพิธภัณฑ์"
+  }
+ }
+}

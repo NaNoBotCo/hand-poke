@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "kakiniq",
+ "type": "term",
+ "names": {
+  "name": "kakiniq",
+  "local": "ᑲᑭᓐᓂᖅ",
+  "local_lang": "Inuktitut",
+  "said": "kakiniq"
+ },
+ "etymology": {
+  "root": "From the Proto-Inuit-Yupik root *kaki-, to pierce or prick — the same root across Iñupiaq, Inuktitut, West Greenlandic and Tunumiit.",
+  "tier": "cited",
+  "source": "s:wp-kakiniit"
+ },
+ "region": [
+  "arctic"
+ ],
+ "facets": {
+  "means": "prick"
+ },
+ "text": {
+  "what": "From the Proto-Inuit-Yupik root *kaki-, to pierce or prick — the same root across Iñupiaq, Inuktitut, West Greenlandic and Tunumiit."
+ },
+ "text_th": {
+  "what": "จากรากภาษาอินูอิต–ยูปิกดั้งเดิม *kaki- แปลว่าเจาะหรือแทง"
+ },
+ "sources": [
+  "s:wp-kakiniit"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-kakiniit"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [],
+ "updated": "2026-09-19",
+ "kin_in": []
+}

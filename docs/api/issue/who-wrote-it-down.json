@@ -1,0 +1,95 @@
+{
+ "schema": 1,
+ "id": "who-wrote-it-down",
+ "type": "issue",
+ "names": {
+  "name": "Who wrote it down",
+  "said": "An administrator, a doctor, a missionary, an archaeologist"
+ },
+ "region": [
+  "worldwide"
+ ],
+ "facets": {
+  "family": "none"
+ },
+ "text": {
+  "what": "Most of what is known about the stopped traditions was written by the people whose arrival stopped them.",
+  "story": "Shway Yoe was Sir James George Scott, who wrote as a Burman and spent his career extending British rule over the Shan States. Leopold Glück was a doctor in occupied Bosnia. Ćiro Truhelka was an archaeologist in the same administration. Hose and McDougall were a colonial officer and a psychologist. The Gazetteer of Upper Burma is a government publication, and in the middle of a paragraph about Chin women's faces it stops to insult them.\n\nThis site uses all of it, because there is nothing else, and it names the writer every time. **The detail is usually reliable and the frame usually is not** — a measurement of a tool, a rate of work, a fee, an age, a sequence, these are the things an observer can get right. Why people did it, what they believed, what it meant: on those, the source is guessing about people it does not respect.\n\nThe Lanna volume in the corpus is the counter-case on this site, and that is why it is quoted at length: same region, same custom, written from inside it."
+ },
+ "text_th": {
+  "what": "สิ่งที่รู้เกี่ยวกับธรรมเนียมที่หยุดไปแล้วส่วนใหญ่ ถูกเขียนโดยคนที่การมาถึงของเขาทำให้มันหยุด",
+  "story": "เชวโยคือเซอร์เจมส์ จอร์จ สก็อตต์ ซึ่งเขียนในนามคนพม่าและใช้ชีวิตราชการขยายอำนาจอังกฤษเหนือรัฐฉาน เลโอโปลด์ กลึคเป็นแพทย์ในบอสเนียที่ถูกยึดครอง\n\nเว็บนี้ใช้ทั้งหมดนั้น เพราะไม่มีอย่างอื่น และระบุชื่อผู้เขียนทุกครั้ง **รายละเอียดมักเชื่อถือได้ ส่วนกรอบการมองมักเชื่อไม่ได้**"
+ },
+ "kin": [
+  {
+   "to": "shway-yoe",
+   "as": "The clearest case.",
+   "rel": "person"
+  },
+  {
+   "to": "chin-ming",
+   "as": "Where the contempt is on the page.",
+   "rel": "tradition"
+  },
+  {
+   "to": "sak-kha-lai",
+   "as": "And the counter-case.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:shway-yoe",
+  "s:gazetteer-3",
+  "s:wp-sicanje",
+  "s:wp-salvage-ethnography"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "inference"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "colonial-record",
+  "start-here"
+ ],
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "chin-ming",
+   "type": "tradition",
+   "name": "Chin facial tattooing",
+   "as": "The clearest case of the problem with the only sources there are."
+  },
+  {
+   "from": "sicanje",
+   "type": "tradition",
+   "name": "Sicanje",
+   "as": "Recorded by a doctor and an archaeologist, which is the usual pair."
+  },
+  {
+   "from": "shway-yoe",
+   "type": "person",
+   "name": "Shway Yoe",
+   "as": "And the problem with it."
+  },
+  {
+   "from": "truhelka-gluck",
+   "type": "person",
+   "name": "Truhelka and Glück",
+   "as": "The pattern."
+  },
+  {
+   "from": "exhibited",
+   "type": "story",
+   "name": "Exhibited",
+   "as": "The same problem in another medium."
+  }
+ ]
+}

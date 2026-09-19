@@ -1,0 +1,95 @@
+{
+ "schema": 1,
+ "id": "amazigh-marks",
+ "type": "tradition",
+ "names": {
+  "name": "Amazigh marks",
+  "local": "ⵜⴰⵎⴰⵣⵉⵖⵜ",
+  "local_lang": "Tamazight",
+  "aliases": [
+   "Berber tattoos",
+   "siyala"
+  ],
+  "said": "Chin, forehead, hands and ankles, in lines and diamonds"
+ },
+ "region": [
+  "north-africa"
+ ],
+ "facets": {
+  "family": "poke",
+  "status": "dormant"
+ },
+ "when": {
+  "from": -1000,
+  "to": 1980,
+  "circa": true,
+  "label": "Largely ended in the twentieth century under religious discouragement"
+ },
+ "practice": {
+  "method": "poke",
+  "ink": "soot-water",
+  "placement": [
+   "face",
+   "chin",
+   "hands",
+   "arms",
+   "legs"
+  ],
+  "marked": "women",
+  "marks": "women",
+  "status": "dormant",
+  "countries": [
+   "MA",
+   "DZ",
+   "TN",
+   "LY"
+  ],
+  "first_record": 1900,
+  "break": [
+   1980,
+   2026
+  ],
+  "suppressed_by": "religious discouragement and urbanisation",
+  "note": "Marks read as protective and as a statement of group; the meanings were rarely written down by the women who wore them."
+ },
+ "text": {
+  "what": "North Africa: women's chin, forehead and hand marks, in a geometric vocabulary shared with weaving and pottery.",
+  "story": "The motifs are the same motifs that appear on textiles and on painted pottery, which is the pattern seen in the Philippines too: the tattoo is not a separate art but the same design language put on a person.\n\n*Inference —* a great deal of what is published about the meanings of these marks is collected from outside and late. This record says what the marks look like and where they go, and holds off on what each one meant."
+ },
+ "text_th": {
+  "what": "แอฟริกาเหนือ ลายบนคาง หน้าผาก และมือของผู้หญิง ใช้ชุดลายเรขาคณิตเดียวกับผ้าทอและเครื่องปั้น"
+ },
+ "links": [
+  {
+   "label": "Berbers",
+   "url": "https://en.wikipedia.org/wiki/Berbers"
+  }
+ ],
+ "sources": [
+  "s:wp-berbers"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "tags": [
+  "women",
+  "protective"
+ ],
+ "geo": {
+  "lat": 31.5,
+  "lon": -6.5,
+  "precision": "region",
+  "source": "s:commons"
+ },
+ "updated": "2026-09-19"
+}

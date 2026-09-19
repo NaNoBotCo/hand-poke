@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "id": "chinchorro-man",
+ "type": "find",
+ "names": {
+  "name": "Chinchorro Mo-1 T28 C22",
+  "said": "A dotted line above the upper lip, about 1880 BCE"
+ },
+ "region": [
+  "the-americas"
+ ],
+ "facets": {
+  "era": "prehistory"
+ },
+ "when": {
+  "from": -1980,
+  "to": -1780,
+  "circa": true,
+  "label": "1880 ± 100 BCE"
+ },
+ "text": {
+  "what": "A mummified man from the Chilean coast with a dotted line tattooed above his upper lip — the oldest tattoo yet found in the Americas.",
+  "story": "The Chinchorro were mummifying their dead by about 5050 BCE, across the whole community rather than for an elite. One of the bodies carries the marks."
+ },
+ "text_th": {
+  "what": "ร่างมัมมี่จากชายฝั่งชิลี มีรอยสักเป็นจุดเรียงเหนือริมฝีปากบน เก่าที่สุดเท่าที่พบในทวีปอเมริกา"
+ },
+ "sources": [
+  "s:wp-chinchorro-mummies"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-chinchorro-mummies"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "archaeology"
+ ],
+ "updated": "2026-09-19"
+}

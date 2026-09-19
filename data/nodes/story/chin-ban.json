@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "id": "chin-ban",
+ "type": "story",
+ "names": {
+  "name": "The Chin ban",
+  "said": "Burma, the 1960s"
+ },
+ "region": [
+  "mainland-southeast-asia"
+ ],
+ "facets": {
+  "era": "c20"
+ },
+ "when": {
+  "from": 1962,
+  "to": 1970,
+  "circa": true,
+  "label": "Banned by the Union Revolutionary Council"
+ },
+ "text": {
+  "what": "Burma's socialist government banned Chin facial tattooing in the 1960s; missionaries had been discouraging it for decades already.",
+  "story": "The practice ended inside a generation. The women who carry it were tattooed as teenagers before the ban and are now in their seventies and eighties, and they are photographed constantly.\n\n*Inference —* a ban works fastest on a mark that is made once, in youth, by a specialist. Stop the specialists for twenty years and there is nobody left who has done it."
+ },
+ "text_th": {
+  "what": "รัฐบาลสังคมนิยมพม่าสั่งห้ามการสักหน้าของชาวชินในทศวรรษ 1960 ก่อนหน้านั้นมิชชันนารีก็กีดกันมานาน"
+ },
+ "kin": [
+  {
+   "to": "chin-ming",
+   "as": "What was banned.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:wp-chin-people",
+  "s:wp-tattooing-in-myanmar"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-chin-people"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "ban",
+  "women"
+ ],
+ "updated": "2026-09-19"
+}

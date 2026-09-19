@@ -1,0 +1,270 @@
+{
+ "note": "Per-type facets. Values are open: validate.py warns on an unknown value and never fails on one.",
+ "facets": {
+  "family": {
+   "name": "Method",
+   "th": "วิธี",
+   "values": {
+    "poke": {
+     "name": "Poked",
+     "th": "แทง"
+    },
+    "tap": {
+     "name": "Tapped",
+     "th": "ตอก"
+    },
+    "stitch": {
+     "name": "Stitched",
+     "th": "ร้อยด้าย"
+    },
+    "cut": {
+     "name": "Cut",
+     "th": "กรีด"
+    },
+    "mixed": {
+     "name": "More than one",
+     "th": "หลายวิธี"
+    },
+    "none": {
+     "name": "Not a method",
+     "th": "ไม่ใช่วิธีสัก"
+    }
+   },
+   "types": [
+    "tradition",
+    "method",
+    "tool",
+    "rite",
+    "place",
+    "issue",
+    "term"
+   ]
+  },
+  "status": {
+   "name": "Still done?",
+   "th": "ยังทำอยู่ไหม",
+   "values": {
+    "living": {
+     "name": "Living",
+     "th": "ยังมีอยู่"
+    },
+    "revived": {
+     "name": "Revived",
+     "th": "รื้อฟื้น"
+    },
+    "thinning": {
+     "name": "Thinning",
+     "th": "เหลือน้อย"
+    },
+    "dormant": {
+     "name": "Dormant",
+     "th": "หยุดไป"
+    },
+    "historical": {
+     "name": "Historical",
+     "th": "เป็นประวัติศาสตร์"
+    }
+   },
+   "types": [
+    "tradition"
+   ]
+  },
+  "colour": {
+   "name": "Colour",
+   "th": "สี",
+   "values": {
+    "black": {
+     "name": "Black",
+     "th": "ดำ"
+    },
+    "blue-black": {
+     "name": "Blue-black",
+     "th": "ดำอมน้ำเงิน"
+    },
+    "red": {
+     "name": "Red",
+     "th": "แดง"
+    },
+    "clear": {
+     "name": "Clear",
+     "th": "ใส"
+    }
+   },
+   "types": [
+    "ink"
+   ]
+  },
+  "does": {
+   "name": "What it is for",
+   "th": "ไว้ทำอะไร",
+   "values": {
+    "protect": {
+     "name": "Protection",
+     "th": "คุ้มครอง"
+    },
+    "charm": {
+     "name": "Charm",
+     "th": "เมตตามหานิยม"
+    },
+    "rank": {
+     "name": "Standing",
+     "th": "สถานะ"
+    },
+    "passage": {
+     "name": "Passage",
+     "th": "ผ่านวัย"
+    },
+    "mourning": {
+     "name": "Mourning",
+     "th": "ไว้ทุกข์"
+    },
+    "belonging": {
+     "name": "Belonging",
+     "th": "สังกัด"
+    },
+    "medicine": {
+     "name": "Medicine",
+     "th": "ยา"
+    },
+    "beauty": {
+     "name": "Beauty",
+     "th": "ความงาม"
+    }
+   },
+   "types": [
+    "motif"
+   ]
+  },
+  "means": {
+   "name": "What the word means",
+   "th": "คำนี้แปลว่าอะไร",
+   "values": {
+    "prick": {
+     "name": "To prick",
+     "th": "แทง"
+    },
+    "strike": {
+     "name": "To strike",
+     "th": "ตอก"
+    },
+    "write": {
+     "name": "To write",
+     "th": "เขียน"
+    },
+    "pattern": {
+     "name": "Pattern",
+     "th": "ลาย"
+    },
+    "sew": {
+     "name": "To sew",
+     "th": "เย็บ"
+    },
+    "other": {
+     "name": "Other",
+     "th": "อื่นๆ"
+    }
+   },
+   "types": [
+    "term"
+   ]
+  },
+  "role": {
+   "name": "Role",
+   "th": "บทบาท",
+   "values": {
+    "practitioner": {
+     "name": "Practitioner",
+     "th": "ผู้สัก"
+    },
+    "bearer": {
+     "name": "Bearer",
+     "th": "ผู้รับการสัก"
+    },
+    "recorder": {
+     "name": "Recorder",
+     "th": "ผู้บันทึก"
+    },
+    "reviver": {
+     "name": "Reviver",
+     "th": "ผู้รื้อฟื้น"
+    }
+   },
+   "types": [
+    "person"
+   ]
+  },
+  "era": {
+   "name": "When",
+   "th": "ยุค",
+   "values": {
+    "prehistory": {
+     "name": "Before writing",
+     "th": "ก่อนประวัติศาสตร์"
+    },
+    "ancient": {
+     "name": "Ancient",
+     "th": "โบราณ"
+    },
+    "colonial": {
+     "name": "The colonial record",
+     "th": "ยุคอาณานิคม"
+    },
+    "c20": {
+     "name": "The twentieth century",
+     "th": "ศตวรรษที่ 20"
+    },
+    "now": {
+     "name": "Now",
+     "th": "ปัจจุบัน"
+    }
+   },
+   "types": [
+    "story",
+    "find",
+    "art"
+   ]
+  },
+  "kind": {
+   "name": "Kind",
+   "th": "ประเภท",
+   "values": {
+    "mural": {
+     "name": "Mural",
+     "th": "จิตรกรรมฝาผนัง"
+    },
+    "plate": {
+     "name": "Printed plate",
+     "th": "ภาพพิมพ์"
+    },
+    "photograph": {
+     "name": "Photograph",
+     "th": "ภาพถ่าย"
+    },
+    "object": {
+     "name": "Object",
+     "th": "วัตถุ"
+    },
+    "museum": {
+     "name": "Museum",
+     "th": "พิพิธภัณฑ์"
+    },
+    "archive": {
+     "name": "Archive",
+     "th": "หอจดหมายเหตุ"
+    },
+    "collective": {
+     "name": "Collective",
+     "th": "กลุ่ม"
+    },
+    "studio": {
+     "name": "Studio",
+     "th": "ร้าน"
+    }
+   },
+   "types": [
+    "art",
+    "org"
+   ]
+  }
+ }
+}

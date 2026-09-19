@@ -1,0 +1,1591 @@
+{
+ "sources": [
+  {
+   "id": "s:wp-tattoo",
+   "kind": "web",
+   "title": "Tattoo",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Tattoo",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-history-of-tattooing",
+   "kind": "web",
+   "title": "History of tattooing",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/History_of_tattooing",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-tattoo-ink",
+   "kind": "web",
+   "title": "Tattoo ink",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Tattoo_ink",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-tattoo-machine",
+   "kind": "web",
+   "title": "Tattoo machine",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Tattoo_machine",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-samuel-oreilly",
+   "kind": "web",
+   "title": "Samuel O'Reilly",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Samuel_O%27Reilly",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-sutherland-macdonald",
+   "kind": "web",
+   "title": "Sutherland Macdonald",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Sutherland_Macdonald",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-t-moko",
+   "kind": "web",
+   "title": "Tā moko",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/T%C4%81_moko",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-tatau",
+   "kind": "web",
+   "title": "Tatau",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Tatau",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-pe-a",
+   "kind": "web",
+   "title": "Peʻa",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Pe%CA%BBa",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-whang-od",
+   "kind": "web",
+   "title": "Whang-od",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Whang-od",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-kalinga-people",
+   "kind": "web",
+   "title": "Kalinga people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Kalinga_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-bontoc-people",
+   "kind": "web",
+   "title": "Bontoc people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Bontoc_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-igorot-people",
+   "kind": "web",
+   "title": "Igorot people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Igorot_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-iban-people",
+   "kind": "web",
+   "title": "Iban people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Iban_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-kayan-people-borneo",
+   "kind": "web",
+   "title": "Kayan people (Borneo)",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Kayan_people_(Borneo)",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-dayak-people",
+   "kind": "web",
+   "title": "Dayak people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Dayak_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-mentawai-people",
+   "kind": "web",
+   "title": "Mentawai people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Mentawai_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-atayal-people",
+   "kind": "web",
+   "title": "Atayal people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Atayal_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-paiwan-people",
+   "kind": "web",
+   "title": "Paiwan people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Paiwan_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-ainu-people",
+   "kind": "web",
+   "title": "Ainu people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Ainu_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-irezumi",
+   "kind": "web",
+   "title": "Irezumi",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Irezumi",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-horimono",
+   "kind": "web",
+   "title": "Horimono",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Horimono",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-yakuza",
+   "kind": "web",
+   "title": "Yakuza",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Yakuza",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-inuit",
+   "kind": "web",
+   "title": "Inuit",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Inuit",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-kakiniit",
+   "kind": "web",
+   "title": "Kakiniit",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Kakiniit",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-chin-people",
+   "kind": "web",
+   "title": "Chin people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Chin_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-chin-state",
+   "kind": "web",
+   "title": "Chin State",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Chin_State",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-shan-people",
+   "kind": "web",
+   "title": "Shan people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Shan_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-shan-state",
+   "kind": "web",
+   "title": "Shan State",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Shan_State",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-bamar-people",
+   "kind": "web",
+   "title": "Bamar people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Bamar_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-myanmar",
+   "kind": "web",
+   "title": "Myanmar",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Myanmar",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-konbaung-dynasty",
+   "kind": "web",
+   "title": "Konbaung dynasty",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Konbaung_dynasty",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-lan-na",
+   "kind": "web",
+   "title": "Lan Na",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Lan_Na",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-chiang-mai",
+   "kind": "web",
+   "title": "Chiang Mai",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Chiang_Mai",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-nan-province",
+   "kind": "web",
+   "title": "Nan province",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Nan_province",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-wat-phumin",
+   "kind": "web",
+   "title": "Wat Phumin",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Wat_Phumin",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-tai-lue",
+   "kind": "web",
+   "title": "Tai Lue",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Tai_Lue",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-yantra-tattooing",
+   "kind": "web",
+   "title": "Yantra tattooing",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Yantra_tattooing",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-wat-bang-phra",
+   "kind": "web",
+   "title": "Wat Bang Phra",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Wat_Bang_Phra",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-khom-thai-script",
+   "kind": "web",
+   "title": "Khom Thai script",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Khom_Thai_script",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-tai-tham-script",
+   "kind": "web",
+   "title": "Tai Tham script",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Tai_Tham_script",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-naga-people",
+   "kind": "web",
+   "title": "Naga people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Naga_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-konyak-naga",
+   "kind": "web",
+   "title": "Konyak Naga",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Konyak_Naga",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-apatani-people",
+   "kind": "web",
+   "title": "Apatani people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Apatani_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-godna",
+   "kind": "web",
+   "title": "Godna",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Godna",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-rabari",
+   "kind": "web",
+   "title": "Rabari",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Rabari",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-tharu-people",
+   "kind": "web",
+   "title": "Tharu people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Tharu_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-munda-people",
+   "kind": "web",
+   "title": "Munda people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Munda_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-hlai-people",
+   "kind": "web",
+   "title": "Hlai people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Hlai_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-derung-people",
+   "kind": "web",
+   "title": "Derung people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Derung_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-derung-language",
+   "kind": "web",
+   "title": "Derung language",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Derung_language",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-kurds",
+   "kind": "web",
+   "title": "Kurds",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Kurds",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-deq-tattoo",
+   "kind": "web",
+   "title": "Deq (tattoo)",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Deq_(tattoo)",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-berbers",
+   "kind": "web",
+   "title": "Berbers",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Berbers",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-copts",
+   "kind": "web",
+   "title": "Copts",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Copts",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-razzouk-tattoo",
+   "kind": "web",
+   "title": "Razzouk Tattoo",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Razzouk_Tattoo",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-jerusalem",
+   "kind": "web",
+   "title": "Jerusalem",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Jerusalem",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-sicanje",
+   "kind": "web",
+   "title": "Sicanje",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Sicanje",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-croats-of-bosnia-and-herzegovina",
+   "kind": "web",
+   "title": "Croats of Bosnia and Herzegovina",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Croats_of_Bosnia_and_Herzegovina",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-tzi",
+   "kind": "web",
+   "title": "Ötzi",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/%C3%96tzi",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-pazyryk-culture",
+   "kind": "web",
+   "title": "Pazyryk culture",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Pazyryk_culture",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-siberian-ice-maiden",
+   "kind": "web",
+   "title": "Siberian Ice Maiden",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Siberian_Ice_Maiden",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-chinchorro-mummies",
+   "kind": "web",
+   "title": "Chinchorro mummies",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Chinchorro_mummies",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-nubia",
+   "kind": "web",
+   "title": "Nubia",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Nubia",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-ancient-egypt",
+   "kind": "web",
+   "title": "Ancient Egypt",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Ancient_Egypt",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-hathor",
+   "kind": "web",
+   "title": "Hathor",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Hathor",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-cucuteni-trypillia-culture",
+   "kind": "web",
+   "title": "Cucuteni–Trypillia culture",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Cucuteni%E2%80%93Trypillia_culture",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-m-ori-people",
+   "kind": "web",
+   "title": "Māori people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/M%C4%81ori_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-rapa-nui-people",
+   "kind": "web",
+   "title": "Rapa Nui people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Rapa_Nui_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-marquesas-islands",
+   "kind": "web",
+   "title": "Marquesas Islands",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Marquesas_Islands",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-marquesan-language",
+   "kind": "web",
+   "title": "Marquesan language",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Marquesan_language",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-hawaii",
+   "kind": "web",
+   "title": "Hawaii",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Hawaii",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-tonga",
+   "kind": "web",
+   "title": "Tonga",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Tonga",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-fiji",
+   "kind": "web",
+   "title": "Fiji",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Fiji",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-veiqia",
+   "kind": "web",
+   "title": "Veiqia",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Veiqia",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-papua-new-guinea",
+   "kind": "web",
+   "title": "Papua New Guinea",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-prison-tattooing",
+   "kind": "web",
+   "title": "Prison tattooing",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Prison_tattooing",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-russian-criminal-tattoos",
+   "kind": "web",
+   "title": "Russian criminal tattoos",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Russian_criminal_tattoos",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-james-cook",
+   "kind": "web",
+   "title": "James Cook",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/James_Cook",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-joseph-banks",
+   "kind": "web",
+   "title": "Joseph Banks",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Joseph_Banks",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-mai-raiatean-man",
+   "kind": "web",
+   "title": "Mai (Ra'iatean man)",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Mai_(Ra%27iatean_man)",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-sideshow",
+   "kind": "web",
+   "title": "Sideshow",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Sideshow",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-soot",
+   "kind": "web",
+   "title": "Soot",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Soot",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-carbon-black",
+   "kind": "web",
+   "title": "Carbon black",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Carbon_black",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-indigo-dye",
+   "kind": "web",
+   "title": "Indigo dye",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Indigo_dye",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-isatis-tinctoria",
+   "kind": "web",
+   "title": "Isatis tinctoria",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Isatis_tinctoria",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-cinnabar",
+   "kind": "web",
+   "title": "Cinnabar",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Cinnabar",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-vermilion",
+   "kind": "web",
+   "title": "Vermilion",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Vermilion",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-charcoal",
+   "kind": "web",
+   "title": "Charcoal",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Charcoal",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-bamboo",
+   "kind": "web",
+   "title": "Bamboo",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Bamboo",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-blood-borne-disease",
+   "kind": "web",
+   "title": "Blood-borne disease",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Blood-borne_disease",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-sterilization-microbiology",
+   "kind": "web",
+   "title": "Sterilization (microbiology)",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Sterilization_(microbiology)",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-book-of-leviticus",
+   "kind": "web",
+   "title": "Book of Leviticus",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Book_of_Leviticus",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-meiji-era",
+   "kind": "web",
+   "title": "Meiji era",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Meiji_era",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-dermis",
+   "kind": "web",
+   "title": "Dermis",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Dermis",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-skin",
+   "kind": "web",
+   "title": "Skin",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Skin",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-scarification",
+   "kind": "web",
+   "title": "Scarification",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Scarification",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-cultural-appropriation",
+   "kind": "web",
+   "title": "Cultural appropriation",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Cultural_appropriation",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-intangible-cultural-heritage",
+   "kind": "web",
+   "title": "Intangible cultural heritage",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Intangible_cultural_heritage",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-lists-of-intangible-cultural-heritage-elements",
+   "kind": "web",
+   "title": "Lists of Intangible Cultural Heritage elements",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Lists_of_Intangible_Cultural_Heritage_elements",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:thwp-การส-กย-นต-",
+   "kind": "web",
+   "title": "การสักยันต์",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B1%E0%B8%81%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-การส-ก",
+   "kind": "web",
+   "title": "การสัก",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B1%E0%B8%81",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-ล-านนา",
+   "kind": "web",
+   "title": "ล้านนา",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%B2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-ไทใหญ-",
+   "kind": "web",
+   "title": "ไทใหญ่",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%97%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-ไทล-อ",
+   "kind": "web",
+   "title": "ไทลื้อ",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%97%E0%B8%A5%E0%B8%B7%E0%B9%89%E0%B8%AD",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-ว-ดภ-ม-นทร-",
+   "kind": "web",
+   "title": "วัดภูมินทร์",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-จ-งหว-ดน-าน",
+   "kind": "web",
+   "title": "จังหวัดน่าน",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-อ-กษรธรรมล-านนา",
+   "kind": "web",
+   "title": "อักษรธรรมล้านนา",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%B2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-อ-กษรขอมไทย",
+   "kind": "web",
+   "title": "อักษรขอมไทย",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B9%84%E0%B8%97%E0%B8%A2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-อาณาจ-กรล-านนา",
+   "kind": "web",
+   "title": "อาณาจักรล้านนา",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%B2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-ประเทศพม-า",
+   "kind": "web",
+   "title": "ประเทศพม่า",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%9E%E0%B8%A1%E0%B9%88%E0%B8%B2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-ชาวช-น",
+   "kind": "web",
+   "title": "ชาวชีน",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%8A%E0%B8%B5%E0%B8%99",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-จ-งหว-ดเช-ยงใหม-",
+   "kind": "web",
+   "title": "จังหวัดเชียงใหม่",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:wp-stick-and-poke",
+   "kind": "web",
+   "title": "Stick and poke",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Stick_and_poke",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-tattooing-in-myanmar",
+   "kind": "web",
+   "title": "Tattooing in Myanmar",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Tattooing_in_Myanmar",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-tattoo-artist",
+   "kind": "web",
+   "title": "Tattoo artist",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Tattoo_artist",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-batok",
+   "kind": "web",
+   "title": "Batok",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Batok",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-tatau-disambiguation",
+   "kind": "web",
+   "title": "Tatau (disambiguation)",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Tatau_(disambiguation)",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-hawaiian-religion",
+   "kind": "web",
+   "title": "Hawaiian religion",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Hawaiian_religion",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-whang-od-academy",
+   "kind": "web",
+   "title": "Whang-od Academy",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Whang-od_Academy",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-kalinga-province",
+   "kind": "web",
+   "title": "Kalinga (province)",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Kalinga_(province)",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-tinglayan",
+   "kind": "web",
+   "title": "Tinglayan",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Tinglayan",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-gebelein-predynastic-mummies",
+   "kind": "web",
+   "title": "Gebelein predynastic mummies",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Gebelein_predynastic_mummies",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-mummy",
+   "kind": "web",
+   "title": "Mummy",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Mummy",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-amunet",
+   "kind": "web",
+   "title": "Amunet",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Amunet",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-sailor-tattoo",
+   "kind": "web",
+   "title": "Sailor tattoo",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Sailor_tattoo",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-human-zoo",
+   "kind": "web",
+   "title": "Human zoo",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Human_zoo",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-anthropometry",
+   "kind": "web",
+   "title": "Anthropometry",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Anthropometry",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-salvage-ethnography",
+   "kind": "web",
+   "title": "Salvage ethnography",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Salvage_ethnography",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-bagan",
+   "kind": "web",
+   "title": "Bagan",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Bagan",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-mandalay",
+   "kind": "web",
+   "title": "Mandalay",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Mandalay",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-kengtung",
+   "kind": "web",
+   "title": "Kengtung",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Kengtung",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-tai-peoples",
+   "kind": "web",
+   "title": "Tai peoples",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Tai_peoples",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-khuen-people",
+   "kind": "web",
+   "title": "Khuen people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Khuen_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-karen-peoples",
+   "kind": "web",
+   "title": "Karen peoples",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Karen_peoples",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-mon-people",
+   "kind": "web",
+   "title": "Mon people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Mon_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-yunnan",
+   "kind": "web",
+   "title": "Yunnan",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Yunnan",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-hainan",
+   "kind": "web",
+   "title": "Hainan",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Hainan",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-taiwanese-indigenous-peoples",
+   "kind": "web",
+   "title": "Taiwanese indigenous peoples",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Taiwanese_indigenous_peoples",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-nuu-chah-nulth",
+   "kind": "web",
+   "title": "Nuu-chah-nulth",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Nuu-chah-nulth",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:thwp-อ-กษรไทใหญ-",
+   "kind": "web",
+   "title": "อักษรไทใหญ่",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B9%84%E0%B8%97%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-ศ-ลปะล-านนา",
+   "kind": "web",
+   "title": "ศิลปะล้านนา",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%B0%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%B2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-จ-ตรกรรมฝาผน-ง",
+   "kind": "web",
+   "title": "จิตรกรรมฝาผนัง",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%9D%E0%B8%B2%E0%B8%9C%E0%B8%99%E0%B8%B1%E0%B8%87",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:shway-yoe",
+   "kind": "book",
+   "title": "The Burman: His Life and Notions",
+   "author": "Shway Yoe (Sir James George Scott)",
+   "publisher": "scanned by the Internet Archive",
+   "year": 1910,
+   "url": "https://archive.org/details/burmanhislifenot00scot",
+   "accessed": "2026-09-19",
+   "licence": "out of copyright",
+   "lang": "en"
+  },
+  {
+   "id": "s:gazetteer-1",
+   "kind": "book",
+   "title": "Gazetteer of Upper Burma and the Shan States",
+   "author": "J. G. Scott and J. P. Hardiman",
+   "publisher": "scanned by the Internet Archive",
+   "year": 1900,
+   "url": "https://archive.org/details/gazetteerupperb06hardgoog",
+   "accessed": "2026-09-19",
+   "licence": "out of copyright",
+   "lang": "en"
+  },
+  {
+   "id": "s:gazetteer-2",
+   "kind": "book",
+   "title": "Gazetteer of Upper Burma and the Shan States, Part II",
+   "author": "J. G. Scott and J. P. Hardiman",
+   "publisher": "scanned by the Internet Archive",
+   "year": 1900,
+   "url": "https://archive.org/details/gazetteerupperb04hardgoog",
+   "accessed": "2026-09-19",
+   "licence": "out of copyright",
+   "lang": "en"
+  },
+  {
+   "id": "s:milne-shans",
+   "kind": "book",
+   "title": "Shans at Home",
+   "author": "Leslie Milne",
+   "publisher": "scanned by the Internet Archive",
+   "year": 1910,
+   "url": "https://archive.org/details/shansathomewitht00miln",
+   "accessed": "2026-09-19",
+   "licence": "out of copyright",
+   "lang": "en"
+  },
+  {
+   "id": "s:hose-borneo-2",
+   "kind": "book",
+   "title": "The Pagan Tribes of Borneo, Vol. II",
+   "author": "Charles Hose and William McDougall",
+   "publisher": "scanned by the Internet Archive",
+   "year": 1912,
+   "url": "https://archive.org/details/pagantribesofbor02hose",
+   "accessed": "2026-09-19",
+   "licence": "out of copyright",
+   "lang": "en"
+  },
+  {
+   "id": "s:gazetteer-3",
+   "kind": "book",
+   "title": "Gazetteer of Upper Burma and the Shan States, Part I Vol. I",
+   "author": "J. G. Scott and J. P. Hardiman",
+   "publisher": "scanned by the Internet Archive",
+   "year": 1901,
+   "url": "https://archive.org/details/in.ernet.dli.2015.281437",
+   "accessed": "2026-09-19",
+   "licence": "out of copyright",
+   "lang": "en"
+  },
+  {
+   "id": "s:handy-marquesas",
+   "kind": "book",
+   "title": "Tattooing in the Marquesas",
+   "author": "Willowdean Chatterson Handy",
+   "publisher": "scanned by the Internet Archive",
+   "year": 1922,
+   "url": "https://archive.org/details/tattooinginmarqu00hand",
+   "accessed": "2026-09-19",
+   "licence": "out of copyright",
+   "lang": "en"
+  },
+  {
+   "id": "s:turner-samoa",
+   "kind": "book",
+   "title": "Samoa, a Hundred Years Ago",
+   "author": "George Turner",
+   "publisher": "scanned by the Internet Archive",
+   "year": 1884,
+   "url": "https://archive.org/details/samoaahundredye00turngoog",
+   "accessed": "2026-09-19",
+   "licence": "out of copyright",
+   "lang": "en"
+  },
+  {
+   "id": "s:ms6968",
+   "kind": "manuscript",
+   "title": "อภิมหามนต์คาถา (Supreme Maha Mantra Katha), pp. 19–21",
+   "author": "contributed volume, publisher not named on the scanned pages",
+   "publisher": "held and digitised in the wichaa.net manuscript corpus, item 6968",
+   "url": "https://wichaa.net/",
+   "accessed": "2026-09-19",
+   "licence": "quoted in brief, with the page",
+   "lang": "th"
+  },
+  {
+   "id": "s:corpus",
+   "kind": "dataset",
+   "title": "The wichaa.net manuscript corpus: 4,710 transcribed pages",
+   "publisher": "wichaa.net",
+   "url": "https://wichaa.net/",
+   "accessed": "2026-09-19",
+   "licence": "counts published here; the page images are not",
+   "lang": "mul"
+  },
+  {
+   "id": "s:sycm",
+   "kind": "web",
+   "title": "Sak Yant Chiang Mai — the masters' profiles",
+   "publisher": "sakyantchiangmai.com",
+   "url": "https://sakyantchiangmai.com/",
+   "accessed": "2026-08-17",
+   "licence": "quoted with permission",
+   "lang": "en"
+  },
+  {
+   "id": "s:commons",
+   "kind": "dataset",
+   "title": "Wikimedia Commons files, each with its own licence and author",
+   "publisher": "Wikimedia Commons",
+   "url": "https://commons.wikimedia.org/",
+   "accessed": "2026-09-19",
+   "licence": "per file",
+   "lang": "mul"
+  },
+  {
+   "id": "s:langlinks",
+   "kind": "dataset",
+   "title": "Wikipedia language links, counted per article",
+   "publisher": "Wikimedia API",
+   "url": "https://en.wikipedia.org/w/api.php",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "mul"
+  },
+  {
+   "id": "s:field-sycm",
+   "kind": "field",
+   "title": "Two sessions at Sak Yant Chiang Mai",
+   "publisher": "this project's own photographs",
+   "url": "https://sakyantchiangmai.com/",
+   "accessed": "2026-09-19",
+   "licence": "CC BY 4.0",
+   "lang": "en"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "schema": 1,
+ "id": "meiji-ban",
+ "type": "story",
+ "names": {
+  "name": "Japan outlaws it",
+  "said": "1872 — and legal again in 1948"
+ },
+ "region": [
+  "east-asia"
+ ],
+ "facets": {
+  "era": "colonial"
+ },
+ "when": {
+  "from": 1872,
+  "to": 1948,
+  "label": "Banned at the opening of Meiji; legalised under the occupation"
+ },
+ "text": {
+  "what": "Japan banned tattooing while presenting itself to the world, and foreigners immediately travelled there to be tattooed.",
+  "story": "The ban was about image. The practice continued underground, tattooists worked on visiting sailors and princes, and the association with criminality that the ban created outlasted the ban by three generations. Osaka's mayor was still surveying city employees about their tattoos in 2012, and the courts found against him.\n\nThe Ryukyus got their own prohibition in 1899, aimed at *hajichi* on women's hands. Taiwan's Atayal were banned from facial tattooing in 1930 by the same administration.\n\n*Inference —* three bans, one state, sixty years, and each one targets the marks of a people being absorbed. The Meiji ban is usually told as a story about respectability. Seen with the other two, it is a story about who gets to look like themselves."
+ },
+ "text_th": {
+  "what": "ญี่ปุ่นห้ามการสักขณะจัดภาพลักษณ์ต่อโลก และชาวต่างชาติก็เดินทางไปสักที่นั่นทันที"
+ },
+ "kin": [
+  {
+   "to": "irezumi",
+   "as": "What was banned.",
+   "rel": "tradition"
+  },
+  {
+   "to": "hajichi",
+   "as": "And who else.",
+   "rel": "tradition"
+  },
+  {
+   "to": "atayal-ptasan",
+   "as": "And who else again.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:wp-irezumi",
+  "s:wp-meiji-era",
+  "s:wp-atayal-people"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-irezumi"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "ban",
+  "start-here"
+ ],
+ "updated": "2026-09-19"
+}

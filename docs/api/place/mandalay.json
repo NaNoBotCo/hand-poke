@@ -1,0 +1,60 @@
+{
+ "schema": 1,
+ "id": "mandalay",
+ "type": "place",
+ "names": {
+  "name": "Mandalay",
+  "my": "မန္တလေး",
+  "said": "The last royal capital, and Shway Yoe's beat"
+ },
+ "region": [
+  "mainland-southeast-asia"
+ ],
+ "facets": {
+  "family": "poke"
+ },
+ "text": {
+  "what": "Upper Burma's capital until 1885, and the centre of the country whose men were, in Shway Yoe's account, all tattooed.",
+  "story": "The contrast in his chapter is between town and country: the \"puny Rangoonites\" who skip the tattoo and are ashamed of it, and the *taw-tha* of the small towns and villages, not one of whom is without the dark blue tracery.\n\n*Inference —* he is describing the beginning of the end and does not know it. Colonial rule reached the towns first, and the custom went from the towns first."
+ },
+ "text_th": {
+  "what": "เมืองหลวงของพม่าตอนบนจนถึงปี 1885 และศูนย์กลางของประเทศที่ผู้ชายทุกคนมีลายสัก ในบันทึกของเชวโย"
+ },
+ "kin": [
+  {
+   "to": "htoe-kwin",
+   "as": "The tradition.",
+   "rel": "tradition"
+  },
+  {
+   "to": "shway-yoe",
+   "as": "The observer.",
+   "rel": "person"
+  }
+ ],
+ "geo": {
+  "lat": 21.9588,
+  "lon": 96.0891,
+  "precision": "city",
+  "source": "s:wp-mandalay"
+ },
+ "sources": [
+  "s:wp-mandalay",
+  "s:shway-yoe"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:shway-yoe"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-19",
+ "kin_in": []
+}

@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "id": "htoe-kwin-word",
+ "type": "term",
+ "names": {
+  "name": "htoe kwin",
+  "local": "ထိုးကွင်း",
+  "local_lang": "Burmese",
+  "said": "htoe kwin"
+ },
+ "etymology": {
+  "root": "*Htoe* is to prick or pierce; *kwin* is a ring or an enclosure. The name describes the framed rings the figures sit in.",
+  "tier": "cited",
+  "source": "s:wp-tattooing-in-myanmar"
+ },
+ "region": [
+  "mainland-southeast-asia"
+ ],
+ "facets": {
+  "means": "prick"
+ },
+ "text": {
+  "what": "*Htoe* is to prick or pierce; *kwin* is a ring or an enclosure. The name describes the framed rings the figures sit in."
+ },
+ "text_th": {
+  "what": "ထိုး คือแทง ကွင်း คือวง ชื่อจึงบรรยายวงกรอบที่ลายอยู่ข้างใน"
+ },
+ "sources": [
+  "s:wp-tattooing-in-myanmar"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-tattooing-in-myanmar"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [],
+ "updated": "2026-09-19"
+}

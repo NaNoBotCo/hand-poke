@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "konyak-naga",
+ "type": "tradition",
+ "names": {
+  "name": "Konyak marks",
+  "local": "Konyak",
+  "local_lang": "Konyak",
+  "said": "Face and chest, earned in the headhunting years"
+ },
+ "region": [
+  "south-asia",
+  "mainland-southeast-asia"
+ ],
+ "facets": {
+  "family": "poke",
+  "status": "dormant"
+ },
+ "when": {
+  "from": 1800,
+  "to": 1970,
+  "circa": true,
+  "label": "Ended with headhunting and conversion; the marked men are the last generation"
+ },
+ "practice": {
+  "method": "poke",
+  "ink": "soot-water",
+  "placement": [
+   "face",
+   "chest",
+   "arms"
+  ],
+  "marked": "men",
+  "marks": "specialist",
+  "status": "dormant",
+  "countries": [
+   "IN",
+   "MM"
+  ],
+  "first_record": 1900,
+  "break": [
+   1970,
+   2026
+  ],
+  "suppressed_by": "the end of headhunting, colonial administration and Christian conversion",
+  "note": "A face mark that recorded an act, which is why it could not outlive the act."
+ },
+ "text": {
+  "what": "Nagaland and across the Myanmar border: chest and face marks a man received for taking a head.",
+  "story": "*Inference —* a tattoo that certifies an act ends when the act ends. The Konyak marks, the Cordilleran chest work and the Iban hand tattoo are three unrelated traditions with the same structural weakness, and all three stopped within decades of headhunting being suppressed. A tattoo for beauty or for protection can survive a change of government. A tattoo that is a record cannot."
+ },
+ "text_th": {
+  "what": "นาคาแลนด์และข้ามพรมแดนพม่า ลายอกและใบหน้าที่ชายได้รับเมื่อได้หัวศัตรู"
+ },
+ "kin": [
+  {
+   "to": "batok",
+   "as": "Same structure, different island: the chest is earned.",
+   "rel": "tradition"
+  },
+  {
+   "to": "iban-borneo",
+   "as": "And the hands.",
+   "rel": "tradition"
+  }
+ ],
+ "links": [
+  {
+   "label": "Konyak Naga",
+   "url": "https://en.wikipedia.org/wiki/Konyak_Naga"
+  }
+ ],
+ "sources": [
+  "s:wp-konyak-naga",
+  "s:wp-naga-people"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-konyak-naga"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "initiation"
+ ],
+ "geo": {
+  "lat": 26.4,
+  "lon": 94.9,
+  "precision": "region",
+  "source": "s:commons"
+ },
+ "updated": "2026-09-19",
+ "kin_in": []
+}

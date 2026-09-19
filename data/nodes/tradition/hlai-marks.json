@@ -1,0 +1,91 @@
+{
+ "schema": 1,
+ "id": "hlai-marks",
+ "type": "tradition",
+ "names": {
+  "name": "Hlai women's marks",
+  "local": "黎族",
+  "local_lang": "Chinese",
+  "aliases": [
+   "Li people tattoo"
+  ],
+  "said": "Face, throat and legs, by lineage"
+ },
+ "region": [
+  "east-asia"
+ ],
+ "facets": {
+  "family": "poke",
+  "status": "dormant"
+ },
+ "when": {
+  "from": 1300,
+  "to": 1950,
+  "circa": true,
+  "label": "Ended in the mid-twentieth century"
+ },
+ "practice": {
+  "method": "poke",
+  "ink": "soot-water",
+  "placement": [
+   "face",
+   "neck",
+   "legs",
+   "arms"
+  ],
+  "marked": "women",
+  "marks": "women",
+  "status": "dormant",
+  "countries": [
+   "CN"
+  ],
+  "first_record": 1300,
+  "break": [
+   1950,
+   2026
+  ],
+  "note": "Hainan island; the pattern differed by lineage group."
+ },
+ "text": {
+  "what": "Hainan: Hlai women marked on face, throat, arms and legs in patterns that told one lineage from another.",
+  "story": "Chinese records notice tattooing among non-Han peoples as far north as the Yangzi in the first millennium, which is the same body of record that the Southeast Asian traditions on this site appear in — as somebody else's custom, seen from outside."
+ },
+ "text_th": {
+  "what": "ไหหลำ หญิงชาวหลีสักหน้า คอ แขน ขา ด้วยลายที่บอกสายตระกูล"
+ },
+ "links": [
+  {
+   "label": "Hlai people",
+   "url": "https://en.wikipedia.org/wiki/Hlai_people"
+  }
+ ],
+ "sources": [
+  "s:wp-hlai-people",
+  "s:wp-hainan",
+  "s:wp-yantra-tattooing"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-hlai-people"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "tags": [
+  "women"
+ ],
+ "geo": {
+  "lat": 19.0,
+  "lon": 109.6,
+  "precision": "region",
+  "source": "s:commons"
+ },
+ "updated": "2026-09-19"
+}

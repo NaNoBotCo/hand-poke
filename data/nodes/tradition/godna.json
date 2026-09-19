@@ -1,0 +1,98 @@
+{
+ "schema": 1,
+ "id": "godna",
+ "type": "tradition",
+ "names": {
+  "name": "Godna",
+  "local": "गोदना",
+  "local_lang": "Hindi",
+  "aliases": [
+   "khoda",
+   "godhana"
+  ],
+  "said": "godna — to prick"
+ },
+ "region": [
+  "south-asia"
+ ],
+ "facets": {
+  "family": "poke",
+  "status": "thinning"
+ },
+ "when": {
+  "from": 1700,
+  "to": 2026,
+  "circa": true,
+  "label": "Carried by tattooing castes and by women of many tribal communities; thinning"
+ },
+ "practice": {
+  "method": "poke",
+  "ink": "soot-water",
+  "placement": [
+   "arms",
+   "hands",
+   "face",
+   "chin",
+   "legs",
+   "chest"
+  ],
+  "marked": "women",
+  "marks": "women",
+  "status": "thinning",
+  "countries": [
+   "IN",
+   "NP",
+   "GY",
+   "TT"
+  ],
+  "first_record": 1800,
+  "note": "Women tattooing women, often for a small fee, village to village."
+ },
+ "text": {
+  "what": "Northern and central India: women's marks, pricked by women, carried out of India to the Caribbean by indentured labour.",
+  "story": "*Godna* is the verb *to prick*, which puts it in the same family as *sak*, *kaki-*, and *deq*: the word for the tattoo is the word for what the needle does. The designs go on arms, hands, legs and face, and the practice runs through Baiga, Oraon, Birhor, Munda, Santal and many other communities, each with its own repertoire.\n\nIt travelled. The tattoo went with indentured workers to Guyana and Trinidad, which makes it one of very few traditions on this site with a diaspora that kept the marks."
+ },
+ "text_th": {
+  "what": "อินเดียเหนือและตอนกลาง ลายของผู้หญิง แทงโดยผู้หญิง และติดตามแรงงานอพยพข้ามไปถึงแคริบเบียน"
+ },
+ "kin": [
+  {
+   "to": "words",
+   "as": "Another word for tattoo that means to prick.",
+   "rel": "finding"
+  }
+ ],
+ "links": [
+  {
+   "label": "Godna",
+   "url": "https://en.wikipedia.org/wiki/Godna"
+  }
+ ],
+ "sources": [
+  "s:wp-godna",
+  "s:wp-munda-people"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-godna"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "women"
+ ],
+ "geo": {
+  "lat": 23.5,
+  "lon": 82.5,
+  "precision": "region",
+  "source": "s:commons"
+ },
+ "updated": "2026-09-19"
+}

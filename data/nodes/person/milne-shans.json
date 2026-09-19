@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "id": "milne-shans",
+ "type": "person",
+ "names": {
+  "name": "Leslie Milne",
+  "said": "Shans at Home, 1910 — and she quotes the boys' friends"
+ },
+ "region": [
+  "lanna",
+  "mainland-southeast-asia"
+ ],
+ "facets": {
+  "role": "recorder"
+ },
+ "when": {
+  "from": 1860,
+  "to": 1932,
+  "circa": true,
+  "label": "Shans at Home, London, 1910"
+ },
+ "text": {
+  "what": "The ethnographer who lived among the northern Shan and published the leg-tattoo account this site leans on.",
+  "story": "Milne's book is of its period, but she stayed and she listened. The passage on tattooing carries the only direct speech this site has from inside a session: the friends sitting round the boy afterwards, telling him not to scratch, that he wriggles too much, that no girl will admire a spoiled pattern.\n\n*Inference —* that is three sentences of what people actually said, which is more than the entire administrative record of the same decade contains."
+ },
+ "text_th": {
+  "what": "นักชาติพันธุ์วิทยาที่อยู่กับชาวไทใหญ่ทางเหนือ และเขียนเรื่องลายขาที่เว็บนี้อ้างอิง"
+ },
+ "kin": [
+  {
+   "to": "shan-tattooing",
+   "as": "What she described.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:milne-shans"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:milne-shans"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "colonial-record",
+  "women"
+ ],
+ "updated": "2026-09-19"
+}

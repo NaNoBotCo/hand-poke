@@ -1,0 +1,65 @@
+{
+ "schema": 1,
+ "id": "chiang-mai",
+ "type": "place",
+ "names": {
+  "name": "Chiang Mai",
+  "th": "เชียงใหม่",
+  "said": "The Lanna capital, and where this site is made"
+ },
+ "region": [
+  "lanna"
+ ],
+ "facets": {
+  "family": "poke"
+ },
+ "text": {
+  "what": "The old capital of Lanna: where the leg tattoo was ordinary, where the yant is still done, and where this site is written.",
+  "story": "Two traditions and one city. The leg work is gone from it; the yant is not. The masters working here publish lineages that run back through Burmese and Tai Yai teaching, which is the border that this site's leg-tattoo map is drawn around.\n\nThe script on a northern yant is the northern script. That is the correction this site keeps repeating, because the central Thai convention gets written up as though it were the whole country's."
+ },
+ "text_th": {
+  "what": "เมืองหลวงเก่าของล้านนา ที่ซึ่งลายขาเคยเป็นเรื่องธรรมดา ที่ซึ่งยันต์ยังถูกสัก และที่ซึ่งเว็บนี้ถูกเขียนขึ้น"
+ },
+ "kin": [
+  {
+   "to": "sak-kha-lai",
+   "as": "What was ordinary here.",
+   "rel": "tradition"
+  },
+  {
+   "to": "sak-yant",
+   "as": "What is still done here.",
+   "rel": "tradition"
+  }
+ ],
+ "geo": {
+  "lat": 18.7883,
+  "lon": 98.9853,
+  "precision": "city",
+  "source": "s:thwp-จ-งหว-ดเช-ยงใหม-"
+ },
+ "sources": [
+  "s:thwp-จ-งหว-ดเช-ยงใหม-",
+  "s:wp-chiang-mai",
+  "s:wp-lan-na"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-lan-na"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "lanna",
+  "start-here"
+ ],
+ "updated": "2026-09-19",
+ "kin_in": []
+}

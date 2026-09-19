@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "id": "ukok",
+ "type": "place",
+ "names": {
+  "name": "The Ukok Plateau",
+  "said": "Altai, Siberia — where the ice kept a tattooed shoulder for 2,400 years"
+ },
+ "region": [
+  "siberia"
+ ],
+ "facets": {
+  "family": "poke"
+ },
+ "text": {
+  "what": "The high plateau on the Russian–Chinese–Mongolian frontier where frozen Pazyryk burials preserved tattooed skin.",
+  "story": "Water got into the burial chamber through a robber's shaft, froze, and sealed everything inside a block of ice under stone and permafrost. Clothing, wood, horses and skin came out of it."
+ },
+ "kin": [
+  {
+   "to": "ice-maiden",
+   "as": "Who was in it.",
+   "rel": "find"
+  }
+ ],
+ "geo": {
+  "lat": 49.3,
+  "lon": 87.5,
+  "precision": "region",
+  "source": "s:wp-siberian-ice-maiden"
+ },
+ "sources": [
+  "s:wp-siberian-ice-maiden",
+  "s:wp-pazyryk-culture"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-siberian-ice-maiden"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "ice-maiden",
+   "type": "find",
+   "name": "The Ukok woman",
+   "as": "The place."
+  }
+ ]
+}

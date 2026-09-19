@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "tua-mueang",
+ "type": "term",
+ "names": {
+  "name": "tua mueang",
+  "local": "ᨲᩫ᩠ᩅᨾᩮᩬᩨᨦ",
+  "local_lang": "Northern Thai",
+  "said": "tua mueang",
+  "th": "ᨲᩫ᩠ᩅᨾᩮᩬᩨᨦ"
+ },
+ "etymology": {
+  "root": "The northern letters — Tai Tham script, the script of the region's manuscripts and of the yant that go on northern skin. Khom is the central convention, not the northern one.",
+  "tier": "cited",
+  "source": "s:thwp-อ-กษรธรรมล-านนา"
+ },
+ "region": [
+  "lanna"
+ ],
+ "facets": {
+  "means": "write"
+ },
+ "text": {
+  "what": "The northern letters — Tai Tham script, the script of the region's manuscripts and of the yant that go on northern skin. Khom is the central convention, not the northern one."
+ },
+ "text_th": {
+  "what": "ตัวเมือง อักษรธรรมล้านนา อักษรของเอกสารในภูมิภาคนี้และของยันต์ที่ลงบนผิวคนเหนือ ขอมเป็นธรรมเนียมภาคกลาง ไม่ใช่ของทางเหนือ"
+ },
+ "sources": [
+  "s:thwp-อ-กษรธรรมล-านนา",
+  "s:wp-tai-tham-script"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-อ-กษรธรรมล-านนา"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "lanna"
+ ],
+ "updated": "2026-09-19"
+}

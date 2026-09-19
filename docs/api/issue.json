@@ -1,0 +1,337 @@
+{
+ "type": "issue",
+ "count": 5,
+ "nodes": [
+  {
+   "schema": 1,
+   "id": "the-needle-now",
+   "type": "issue",
+   "names": {
+    "name": "The needle now",
+    "said": "What changed in fifty years is not the method"
+   },
+   "region": [
+    "worldwide"
+   ],
+   "facets": {
+    "family": "none"
+   },
+   "text": {
+    "what": "Single-use needles, gloves and an autoclave are the difference between a hand tradition in 1882 and the same hand tradition today.",
+    "story": "Shway Yoe's chapter records what the old practice cost: swelling, fever, days of itching, and opium given to boys in doses that occasionally killed them. Milne's Shan boys sat in a circle being told not to scratch. None of that is nostalgia material.\n\nThe method did not have to change for that to stop; the supply did. *Inference —* this is the part of a revival that is never a reconstruction, and the practitioners doing it say so themselves.",
+    "notes": "This site carries no medical advice and no aftercare instructions, and nothing here is a recommendation about getting tattooed anywhere."
+   },
+   "text_th": {
+    "what": "เข็มใช้ครั้งเดียว ถุงมือ และหม้อนึ่งฆ่าเชื้อ คือความต่างระหว่างธรรมเนียมเดิมในปี 1882 กับธรรมเนียมเดียวกันในวันนี้"
+   },
+   "kin": [
+    {
+     "to": "the-pain",
+     "as": "What it used to cost.",
+     "rel": "rite"
+    }
+   ],
+   "sources": [
+    "s:shway-yoe",
+    "s:milne-shans",
+    "s:wp-sterilization-microbiology"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:shway-yoe"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "the-photographs",
+   "type": "issue",
+   "names": {
+    "name": "The photographs",
+    "said": "Why this site is short of pictures of people"
+   },
+   "region": [
+    "worldwide"
+   ],
+   "facets": {
+    "family": "none"
+   },
+   "text": {
+    "what": "The free pictures of tattooed bodies are mostly colonial-era photographs of people who did not choose to be photographed, or sideshow portraits made to be sold.",
+    "story": "A picture can be correctly licensed, on subject, and still be the wrong thing to put in front of a reader. This site's rules on that are simple and were set by its publisher: no blood, no wounds, nothing that turns a person into a specimen, and where a historical photograph is used, it is named for what it is.\n\nThe pictures here that show living practice were taken with permission and are credited to the people who gave it."
+   },
+   "text_th": {
+    "what": "ภาพที่ใช้ได้โดยเสรีส่วนใหญ่เป็นภาพยุคอาณานิคมของผู้คนที่ไม่ได้เลือกจะถูกถ่าย หรือภาพเวทีที่ทำขึ้นเพื่อขาย"
+   },
+   "kin": [
+    {
+     "to": "exhibited",
+     "as": "Where those pictures came from.",
+     "rel": "story"
+    }
+   ],
+   "sources": [
+    "s:wp-human-zoo",
+    "s:commons"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "inference"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "start-here"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "what-counts",
+   "type": "issue",
+   "names": {
+    "name": "What counts as hand-poked",
+    "said": "Tapping is not poking, and both are hands"
+   },
+   "region": [
+    "worldwide"
+   ],
+   "facets": {
+    "family": "none"
+   },
+   "text": {
+    "what": "The site is called hand poke and half the traditions on it do not poke. Here is the line it draws and why the line is arguable.",
+    "story": "A poked tattoo is driven by the hand holding the tool. A tapped one is driven by a second stick striking a hafted comb. A stitched one is sewn. A cut one is chiselled or incised and then rubbed with pigment.\n\nAll four are hand methods and none of them is a machine, which is why they are all here. But calling them all \"hand-poke\" flattens the thing each tradition is proudest of, so this site keeps them as four and says which is which on every record.\n\nThe hard cases are real. Māori *uhi* work was replaced by needle work in the nineteenth century and the tradition kept its name. Modern professional hand-poke uses a cartridge needle in a stabiliser pen, which is a tool with a handle and a grip and no motor. **A reader who would draw the line somewhere else is looking at the same field on the same records and can re-sort it.**"
+   },
+   "text_th": {
+    "what": "เว็บนี้ชื่อว่าสักด้วยมือ แต่ครึ่งหนึ่งของธรรมเนียมบนนี้ไม่ได้แทง นี่คือเส้นที่ลากไว้ และเหตุผลว่าทำไมเส้นนี้เถียงได้"
+   },
+   "kin": [
+    {
+     "to": "poke",
+     "as": "One.",
+     "rel": "method"
+    },
+    {
+     "to": "tap",
+     "as": "Two.",
+     "rel": "method"
+    },
+    {
+     "to": "stitch",
+     "as": "Three.",
+     "rel": "method"
+    },
+    {
+     "to": "cut",
+     "as": "Four.",
+     "rel": "method"
+    }
+   ],
+   "sources": [
+    "s:wp-batok",
+    "s:wp-t-moko",
+    "s:wp-stick-and-poke"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "inference"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "start-here"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "stick-and-poke",
+     "type": "tradition",
+     "name": "Stick and poke",
+     "as": "And the question that gets asked about it."
+    },
+    {
+     "from": "poke",
+     "type": "method",
+     "name": "Poke",
+     "as": "Where the line between them stops being clear."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "who-wrote-it-down",
+   "type": "issue",
+   "names": {
+    "name": "Who wrote it down",
+    "said": "An administrator, a doctor, a missionary, an archaeologist"
+   },
+   "region": [
+    "worldwide"
+   ],
+   "facets": {
+    "family": "none"
+   },
+   "text": {
+    "what": "Most of what is known about the stopped traditions was written by the people whose arrival stopped them.",
+    "story": "Shway Yoe was Sir James George Scott, who wrote as a Burman and spent his career extending British rule over the Shan States. Leopold Glück was a doctor in occupied Bosnia. Ćiro Truhelka was an archaeologist in the same administration. Hose and McDougall were a colonial officer and a psychologist. The Gazetteer of Upper Burma is a government publication, and in the middle of a paragraph about Chin women's faces it stops to insult them.\n\nThis site uses all of it, because there is nothing else, and it names the writer every time. **The detail is usually reliable and the frame usually is not** — a measurement of a tool, a rate of work, a fee, an age, a sequence, these are the things an observer can get right. Why people did it, what they believed, what it meant: on those, the source is guessing about people it does not respect.\n\nThe Lanna volume in the corpus is the counter-case on this site, and that is why it is quoted at length: same region, same custom, written from inside it."
+   },
+   "text_th": {
+    "what": "สิ่งที่รู้เกี่ยวกับธรรมเนียมที่หยุดไปแล้วส่วนใหญ่ ถูกเขียนโดยคนที่การมาถึงของเขาทำให้มันหยุด",
+    "story": "เชวโยคือเซอร์เจมส์ จอร์จ สก็อตต์ ซึ่งเขียนในนามคนพม่าและใช้ชีวิตราชการขยายอำนาจอังกฤษเหนือรัฐฉาน เลโอโปลด์ กลึคเป็นแพทย์ในบอสเนียที่ถูกยึดครอง\n\nเว็บนี้ใช้ทั้งหมดนั้น เพราะไม่มีอย่างอื่น และระบุชื่อผู้เขียนทุกครั้ง **รายละเอียดมักเชื่อถือได้ ส่วนกรอบการมองมักเชื่อไม่ได้**"
+   },
+   "kin": [
+    {
+     "to": "shway-yoe",
+     "as": "The clearest case.",
+     "rel": "person"
+    },
+    {
+     "to": "chin-ming",
+     "as": "Where the contempt is on the page.",
+     "rel": "tradition"
+    },
+    {
+     "to": "sak-kha-lai",
+     "as": "And the counter-case.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:shway-yoe",
+    "s:gazetteer-3",
+    "s:wp-sicanje",
+    "s:wp-salvage-ethnography"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "inference"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "colonial-record",
+    "start-here"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "chin-ming",
+     "type": "tradition",
+     "name": "Chin facial tattooing",
+     "as": "The clearest case of the problem with the only sources there are."
+    },
+    {
+     "from": "sicanje",
+     "type": "tradition",
+     "name": "Sicanje",
+     "as": "Recorded by a doctor and an archaeologist, which is the usual pair."
+    },
+    {
+     "from": "shway-yoe",
+     "type": "person",
+     "name": "Shway Yoe",
+     "as": "And the problem with it."
+    },
+    {
+     "from": "truhelka-gluck",
+     "type": "person",
+     "name": "Truhelka and Glück",
+     "as": "The pattern."
+    },
+    {
+     "from": "exhibited",
+     "type": "story",
+     "name": "Exhibited",
+     "as": "The same problem in another medium."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "whose-designs",
+   "type": "issue",
+   "names": {
+    "name": "Whose designs",
+    "said": "Closed motifs, earned marks, and a queue of visitors"
+   },
+   "region": [
+    "worldwide"
+   ],
+   "facets": {
+    "family": "none"
+   },
+   "text": {
+    "what": "Several traditions on this site hold that certain designs may not be worn by people who have not earned them. That rule is theirs to state and not this site's to adjudicate.",
+    "story": "Cordilleran elders hold that copying an old warrior's chest design marks a person as a killer and brings bad luck, blindness or an early death — and men who fought in the 1960s and 70s declined the marks on that advice. Kalinga inheritance rules held that tattooing could only pass down a bloodline. Sak yant carries rules the bearer keeps afterwards. *Moko kauae* is worn by Māori women.\n\nWhat this site does: state the rule where a tradition states it, name who states it, and print no design as available. What this site does not do: decide who may wear what, or rank the arguments."
+   },
+   "text_th": {
+    "what": "หลายธรรมเนียมบนเว็บนี้ถือว่าลายบางลายสวมไม่ได้ถ้าไม่ได้มาด้วยการกระทำ กฎนั้นเป็นของพวกเขา ไม่ใช่ของเว็บนี้ที่จะตัดสิน"
+   },
+   "kin": [
+    {
+     "to": "kalinga-cordillera",
+     "as": "Where the rule is stated plainly.",
+     "rel": "tradition"
+    },
+    {
+     "to": "whang-od",
+     "as": "And where it was changed, from inside.",
+     "rel": "person"
+    }
+   ],
+   "sources": [
+    "s:wp-batok",
+    "s:wp-whang-od",
+    "s:wp-cultural-appropriation"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-batok"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "start-here"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": []
+  }
+ ]
+}

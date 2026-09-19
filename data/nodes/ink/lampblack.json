@@ -1,0 +1,59 @@
+{
+ "schema": 1,
+ "id": "lampblack",
+ "type": "ink",
+ "names": {
+  "name": "Lampblack",
+  "th": "เขม่าตะเกียง",
+  "said": "Soot off a burning oil lamp, the best from sesame oil"
+ },
+ "region": [
+  "mainland-southeast-asia"
+ ],
+ "facets": {
+  "colour": "blue-black"
+ },
+ "text": {
+  "what": "Soot collected from a lamp, mixed with water as it is needed. Under the skin it reads blue-black, and it does not leave.",
+  "story": "Shway Yoe names the grade: the best lampblack is the soot of burning sesame oil. The Burmese black recipe recorded on the Myanmar article is more elaborate — soot mixed with dried gallbladder of fish or cattle, powdered, boiled, simmered with bitter melon leaves and dried to a paste until wanted.\n\nThe two colours behaved differently and everyone noticed. Milne, on the Shan: tattooing in red sometimes fades, the blue appears to be indelible. Shway Yoe, on the Burmese: the blue dye from the lampblack never disappears, the vermilion gradually fades away.\n\n*Inference —* that difference decided what each colour was used for. Identity, manhood and the leg work went in black, for life. Charms went in red, and a charm that fades is a charm that can be renewed — which is a feature, not a fault."
+ },
+ "text_th": {
+  "what": "เขม่าจากตะเกียง ผสมน้ำเมื่อจะใช้ ใต้ผิวหนังให้สีดำอมน้ำเงิน และไม่จางไป",
+  "story": "เชวโยระบุเกรดไว้ เขม่าที่ดีที่สุดมาจากน้ำมันงาที่เผาไหม้ สูตรดำของพม่ายังผสมดีปลาหรือดีวัวตากแห้งป่น ต้ม เคี่ยวกับใบมะระ แล้วตากเป็นก้อนไว้ใช้\n\n*อนุมาน —* ความต่างของสองสีเป็นตัวกำหนดหน้าที่ ตัวตนและความเป็นชายลงด้วยสีดำ อยู่ตลอดชีวิต ส่วนเครื่องรางลงด้วยสีแดง และเครื่องรางที่จางได้คือเครื่องรางที่ต่ออายุได้"
+ },
+ "kin": [
+  {
+   "to": "vermilion",
+   "as": "The other colour, and the one that fades on purpose.",
+   "rel": "ink"
+  },
+  {
+   "to": "htoe-kwin",
+   "as": "What it drew.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:shway-yoe",
+  "s:wp-tattooing-in-myanmar",
+  "s:milne-shans",
+  "s:wp-soot"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:shway-yoe"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "lanna"
+ ],
+ "updated": "2026-09-19"
+}

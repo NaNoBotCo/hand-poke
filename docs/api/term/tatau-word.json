@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "id": "tatau-word",
+ "type": "term",
+ "names": {
+  "name": "tatau",
+  "local": "tatau",
+  "local_lang": "Samoan",
+  "said": "tatau"
+ },
+ "etymology": {
+  "root": "The Polynesian word English borrowed. Cook's crew wrote it down in 1769 and it displaced every English word for the practice.",
+  "tier": "cited",
+  "source": "s:wp-pe-a"
+ },
+ "region": [
+  "oceania"
+ ],
+ "facets": {
+  "means": "strike"
+ },
+ "text": {
+  "what": "The Polynesian word English borrowed. Cook's crew wrote it down in 1769 and it displaced every English word for the practice."
+ },
+ "text_th": {
+  "what": "คำภาษาโพลินีเซียที่อังกฤษยืมไป ลูกเรือของคุกจดไว้ในปี 1769"
+ },
+ "sources": [
+  "s:wp-pe-a",
+  "s:wp-james-cook"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-pe-a"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [],
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "words",
+   "type": "story",
+   "name": "What the word means first",
+   "as": "Strike."
+  }
+ ]
+}

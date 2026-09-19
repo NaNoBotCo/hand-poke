@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "id": "timeline",
+ "type": "story",
+ "names": {
+  "name": "Five thousand years",
+  "said": "From the oldest marked skin to the newest studio"
+ },
+ "region": [
+  "worldwide"
+ ],
+ "facets": {
+  "era": "prehistory"
+ },
+ "text": {
+  "what": "The dated points: bodies with marks on them, bans with statutes behind them, revivals with a year.",
+  "story": "The timeline holds three kinds of date and keeps them apart. **Bodies**: Ötzi, the Gebelein mummies, the Chinchorro man, the Ukok woman, the Cordilleran mummies, the Qilakitsoq women — each with the range its laboratory gave. **Instruments**: the Arku Cave tools. **Paper**: bans, acts, patents and the revivals.\n\n*Inference —* the visible gap between the ancient bodies and the nineteenth-century paper is not a gap in the practice. It is a gap in what survives: skin needs ice, salt, sand or bog, and paper needs an administration. Between them, four thousand years of ordinary tattooing left neither."
+ },
+ "text_th": {
+  "what": "จุดที่มีวันที่ ร่างกายที่มีรอย คำสั่งห้ามที่มีกฎหมายรองรับ และการรื้อฟื้นที่ระบุปีได้"
+ },
+ "kin": [
+  {
+   "to": "otzi",
+   "as": "The oldest.",
+   "rel": "find"
+  },
+  {
+   "to": "machine",
+   "as": "The newest thing that changed everything.",
+   "rel": "method"
+  }
+ ],
+ "sources": [
+  "s:wp-tzi",
+  "s:wp-gebelein-predynastic-mummies",
+  "s:wp-chinchorro-mummies"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "inference"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "archaeology",
+  "measured"
+ ],
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "gebelein",
+   "type": "find",
+   "name": "The Gebelein mummies",
+   "as": "Contemporary with Ötzi, on another continent."
+  },
+  {
+   "from": "otzi",
+   "type": "find",
+   "name": "Ötzi",
+   "as": "The oldest dated point on it."
+  }
+ ]
+}

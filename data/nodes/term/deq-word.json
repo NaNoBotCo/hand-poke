@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "id": "deq-word",
+ "type": "term",
+ "names": {
+  "name": "deq",
+  "local": "deq",
+  "local_lang": "Kurdish",
+  "said": "deq"
+ },
+ "etymology": {
+  "root": "From Syriac *dyoqo*, puncturing. A male tattooist is *deqqak*, a female one *deqqake*.",
+  "tier": "cited",
+  "source": "s:wp-deq-tattoo"
+ },
+ "region": [
+  "west-asia"
+ ],
+ "facets": {
+  "means": "prick"
+ },
+ "text": {
+  "what": "From Syriac *dyoqo*, puncturing. A male tattooist is *deqqak*, a female one *deqqake*."
+ },
+ "text_th": {
+  "what": "จากภาษาซีรีแอก dyoqo แปลว่าการเจาะ"
+ },
+ "sources": [
+  "s:wp-deq-tattoo"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-deq-tattoo"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [],
+ "updated": "2026-09-19"
+}

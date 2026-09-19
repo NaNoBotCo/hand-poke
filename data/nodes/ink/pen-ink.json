@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "id": "pen-ink",
+ "type": "ink",
+ "names": {
+  "name": "Pen ink",
+  "said": "What a kitchen tattoo is made of, and why professionals object"
+ },
+ "region": [
+  "worldwide"
+ ],
+ "facets": {
+  "colour": "blue-black"
+ },
+ "text": {
+  "what": "Ballpoint ink, India ink or whatever is to hand — the modern improvised pigment.",
+  "story": "It is not made to go into skin and it is the part of improvised tattooing that professionals raise first. Professional hand-poke uses tattoo ink and single-use needles; the method is the same, the supply chain is not."
+ },
+ "kin": [
+  {
+   "to": "stick-and-poke",
+   "as": "Where it goes.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:wp-stick-and-poke",
+  "s:wp-tattoo-ink"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-stick-and-poke"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-19"
+}

@@ -1,0 +1,59 @@
+{
+ "schema": 1,
+ "id": "mystic-square",
+ "type": "motif",
+ "names": {
+  "name": "The lettered square"
+ },
+ "region": [
+  "lanna"
+ ],
+ "facets": {
+  "does": "protect"
+ },
+ "mark": {
+  "does": "A grid of letters or numerals, read as a formula rather than as a picture.",
+  "where": [
+   "back",
+   "chest",
+   "arms",
+   "legs"
+  ],
+  "earned": false
+ },
+ "text": {
+  "what": "A grid of letters or numerals, read as a formula rather than as a picture.",
+  "story": "The Lanna volume notes which numerals go in: **Burmese numerals**, which the Lanna call *hora* numerals and hold to be the right ones for saiyasat rites, while the Lanna numerals — *lek nai tham* — are kept for inscribing the dhamma. Two number systems, two jobs, on one page and on one body.\n\n*Attested —* the same book says early Lanna took these beliefs from Pagan and then developed its own forms."
+ },
+ "text_th": {
+  "what": "ตารางตัวอักษรหรือตัวเลข อ่านเป็นสูตร ไม่ใช่เป็นภาพ หนังสือล้านนาระบุว่าเลขในตารางยันต์ใช้เลขพม่า ที่ล้านนาเรียกว่าเลขโหรา ส่วนเลขในธรรมใช้กับการจารพระธรรม"
+ },
+ "kin": [
+  {
+   "to": "sak-yant",
+   "as": "The tradition it belongs to.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:ms6968"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:ms6968"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "lanna"
+ ],
+ "updated": "2026-09-19",
+ "kin_in": []
+}

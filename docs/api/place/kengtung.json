@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "id": "kengtung",
+ "type": "place",
+ "names": {
+  "name": "Kengtung",
+  "my": "ကျိုင်းတုံ",
+  "said": "Eastern Shan State — Tai Khuen country, between Chiang Mai and the Mekong"
+ },
+ "region": [
+  "lanna",
+  "mainland-southeast-asia"
+ ],
+ "facets": {
+  "family": "poke"
+ },
+ "text": {
+  "what": "The eastern Shan town that sits in the middle of the leg-tattoo zone, and in the middle of the Tai world the zone is drawn on.",
+  "story": "Kengtung's people are Tai Khuen, whose script and manuscripts belong with Lanna's rather than with Burma's. *Inference —* the leg tattoo distribution follows this cultural geography, not the modern border: Burma, the Shan States, the Tai Khuen and Tai Lue towns, and Lanna, with central Siam outside it."
+ },
+ "text_th": {
+  "what": "เมืองในรัฐฉานตะวันออก อยู่กลางเขตลายขา และกลางโลกไทที่เขตนั้นถูกวาดทับ"
+ },
+ "kin": [
+  {
+   "to": "legs",
+   "as": "The zone.",
+   "rel": "story"
+  },
+  {
+   "to": "shan-tattooing",
+   "as": "The tradition.",
+   "rel": "tradition"
+  }
+ ],
+ "geo": {
+  "lat": 21.2917,
+  "lon": 99.6,
+  "precision": "town",
+  "source": "s:wp-kengtung"
+ },
+ "sources": [
+  "s:wp-kengtung",
+  "s:wp-khuen-people"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-kengtung"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "lanna"
+ ],
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "legs",
+   "type": "story",
+   "name": "The leg-tattoo zone",
+   "as": "A town in the centre of it."
+  }
+ ]
+}

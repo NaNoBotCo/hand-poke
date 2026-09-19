@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "hajichi",
+ "type": "tradition",
+ "names": {
+  "name": "Hajichi",
+  "local": "針突",
+  "local_lang": "Okinawan",
+  "said": "hajichi — the needle-struck marks on a woman's hands"
+ },
+ "region": [
+  "east-asia"
+ ],
+ "facets": {
+  "family": "poke",
+  "status": "revived"
+ },
+ "when": {
+  "from": 1600,
+  "to": 2026,
+  "circa": true,
+  "label": "Banned by Japan in 1899; taken up again by Okinawan women in the 2010s"
+ },
+ "practice": {
+  "method": "poke",
+  "ink": "soot-water",
+  "placement": [
+   "hands",
+   "fingers",
+   "arms"
+  ],
+  "marked": "women",
+  "marks": "women",
+  "status": "revived",
+  "countries": [
+   "JP"
+  ],
+  "first_record": 1700,
+  "break": [
+   1899,
+   2015
+  ],
+  "revived": 2015,
+  "suppressed_by": "prohibited by the Japanese government in 1899 as part of the assimilation of the Ryukyus",
+  "note": "Backs of the hands and the fingers; marks added at betrothal and marriage."
+ },
+ "text": {
+  "what": "The Ryukyu Islands: marks on the backs of women's hands, outlawed by Japan in 1899 and now being put back on.",
+  "story": "*Hajichi* went on the hands, where nothing conceals them, and it recorded a woman's passage — first marks in girlhood, more at betrothal, the set completed at marriage. Japan prohibited it in 1899 while assimilating the Ryukyu kingdom, and enforcement was real enough that the practice went underground and then out.\n\n*Inference —* the ban's design is worth noticing. A mark on the hands cannot be covered by clothing, which makes it the easiest tattoo in the world to police and the hardest to keep quietly.",
+  "notes": "Okinawan women, in Okinawa and in the diaspora, have been taking hajichi up again; this site has no count of how many."
+ },
+ "text_th": {
+  "what": "หมู่เกาะริวกิว ลายบนหลังมือผู้หญิง ถูกญี่ปุ่นสั่งห้ามในปี 1899 และกำลังถูกนำกลับมา"
+ },
+ "kin": [
+  {
+   "to": "irezumi",
+   "as": "Banned by the same state, twenty-seven years apart.",
+   "rel": "tradition"
+  },
+  {
+   "to": "revival",
+   "as": "On the revival list.",
+   "rel": "finding"
+  }
+ ],
+ "links": [
+  {
+   "label": "Irezumi",
+   "url": "https://en.wikipedia.org/wiki/Irezumi"
+  }
+ ],
+ "sources": [
+  "s:wp-irezumi",
+  "s:wp-meiji-era"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  },
+  "fields": {
+   "practice.break": {
+    "tier": "tradition",
+    "note": "the 1899 prohibition is widely reported; this site has not seen the instrument itself"
+   },
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "tags": [
+  "women",
+  "ban",
+  "revival"
+ ],
+ "geo": {
+  "lat": 26.34,
+  "lon": 127.8,
+  "precision": "region",
+  "source": "s:commons"
+ },
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "body",
+   "type": "story",
+   "name": "Where the marks go",
+   "as": "The hands, and the 1899 prohibition."
+  },
+  {
+   "from": "meiji-ban",
+   "type": "story",
+   "name": "Japan outlaws it",
+   "as": "And who else."
+  }
+ ]
+}

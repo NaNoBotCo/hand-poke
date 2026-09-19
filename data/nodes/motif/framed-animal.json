@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "id": "framed-animal",
+ "type": "motif",
+ "names": {
+  "name": "The framed animal"
+ },
+ "region": [
+  "mainland-southeast-asia"
+ ],
+ "facets": {
+  "does": "protect"
+ },
+ "mark": {
+  "does": "A tiger, a cat, a monkey, an elephant, a *nat* or a *bilu*, each sitting inside an oval frame of letters.",
+  "where": [
+   "thighs",
+   "legs"
+  ],
+  "earned": false
+ },
+ "text": {
+  "what": "A tiger, a cat, a monkey, an elephant, a *nat* or a *bilu*, each sitting inside an oval frame of letters.",
+  "story": "Shway Yoe: each representation is surrounded by a roughly oval tracery of letters, which forms a curious and remarkably effective frame, so each animal has a setting of its own — and vacant spaces are filled the same way, the top and bottom finished with a scalloped line.\n\nSometimes the letters are said to carry a cabalistic meaning; ordinarily, he says, no more is claimed for them than beauty. The serious charms go elsewhere on the body, usually in vermilion.\n\n*Inference —* the frame is what makes the leg read as cloth. A repeating field of bounded units is a textile pattern; a scene is a picture. These traditions chose the textile."
+ },
+ "text_th": {
+  "what": "เสือ แมว ลิง ช้าง นัต หรือบีลู แต่ละตัวอยู่ในกรอบวงรีที่ทำด้วยตัวอักษร"
+ },
+ "kin": [
+  {
+   "to": "htoe-kwin",
+   "as": "The tradition it belongs to.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:shway-yoe"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:shway-yoe"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [],
+ "updated": "2026-09-19"
+}

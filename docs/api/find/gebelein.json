@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "id": "gebelein",
+ "type": "find",
+ "names": {
+  "name": "The Gebelein mummies",
+  "said": "Egypt, about 3400–3100 BCE — figurative tattoos on a man and a woman"
+ },
+ "region": [
+  "north-africa"
+ ],
+ "facets": {
+  "era": "prehistory"
+ },
+ "when": {
+  "from": -3400,
+  "to": -3000,
+  "circa": true,
+  "label": "Naqada II; EA 32751 calibrated 3341–3017 BCE"
+ },
+ "text": {
+  "what": "Six naturally mummified bodies from Upper Egypt, dug out of sand graves in 1896, two of them tattooed.",
+  "story": "They were excavated by Wallis Budge for the British Museum and sat there for a century before infrared imaging showed the marks — a wild bull and a Barbary sheep on the man, S-shaped motifs on the woman.\n\n*Inference —* that hundred-year gap is the point. The marks were on the bodies the whole time and nobody could see them, because dark pigment on darkened skin needs infrared. How much else in the world's museum drawers is tattooed and unread is not a question this site can answer."
+ },
+ "text_th": {
+  "what": "ร่างมัมมี่ธรรมชาติหกร่างจากอียิปต์ตอนบน ขุดพบในปี 1896 สองร่างมีรอยสัก"
+ },
+ "kin": [
+  {
+   "to": "timeline",
+   "as": "Contemporary with Ötzi, on another continent.",
+   "rel": "story"
+  }
+ ],
+ "sources": [
+  "s:wp-gebelein-predynastic-mummies",
+  "s:wp-amunet"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-gebelein-predynastic-mummies"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "archaeology",
+  "museum"
+ ],
+ "updated": "2026-09-19",
+ "kin_in": []
+}

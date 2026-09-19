@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "id": "tohunga-act",
+ "type": "story",
+ "names": {
+  "name": "The Tohunga Suppression Act",
+  "said": "New Zealand, 1907"
+ },
+ "region": [
+  "oceania"
+ ],
+ "facets": {
+  "era": "colonial"
+ },
+ "when": {
+  "from": 1907,
+  "to": 1962,
+  "label": "In force until 1962"
+ },
+ "text": {
+  "what": "A New Zealand statute aimed at Māori specialists, which caught tā moko along with everything else a tohunga did.",
+  "story": "Michael King interviewed more than seventy elderly women in the early 1970s who had received *moko kauae* before the Act. That interview list is the bridge: the practice was not remembered from books when it came back in the 1990s. It was remembered from faces."
+ },
+ "text_th": {
+  "what": "กฎหมายนิวซีแลนด์ที่มุ่งเป้าผู้เชี่ยวชาญชาวเมารี และกวาดเอาตาโมโกไปด้วย"
+ },
+ "kin": [
+  {
+   "to": "ta-moko",
+   "as": "What it caught.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:wp-t-moko"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-t-moko"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "ban"
+ ],
+ "updated": "2026-09-19",
+ "kin_in": []
+}

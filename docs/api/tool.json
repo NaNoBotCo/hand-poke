@@ -1,0 +1,775 @@
+{
+ "type": "tool",
+ "count": 9,
+ "nodes": [
+  {
+   "schema": 1,
+   "id": "au",
+   "type": "tool",
+   "names": {
+    "name": "Au",
+    "local": "'au",
+    "local_lang": "Samoan",
+    "aliases": [
+     "au sogi'aso",
+     "sausau"
+    ],
+    "said": "A comb of bone or turtle shell, and the mallet that strikes it"
+   },
+   "region": [
+    "oceania"
+   ],
+   "facets": {
+    "family": "tap"
+   },
+   "instrument": {
+    "material": [
+     "bone",
+     "turtle shell",
+     "wood"
+    ],
+    "points": "a row of teeth, from a few to several dozen, in a set of combs of different widths",
+    "worked": "tapped",
+    "hands": 3,
+    "held_by": "the tufuga holds the comb and the sausau; two assistants stretch the skin"
+   },
+   "text": {
+    "what": "A set of combs — wide ones for filling, narrow ones for line — each hafted at a right angle and struck with a light mallet.",
+    "story": "The set is the point. A *tufuga* carries combs of several widths, the way a printer carries type sizes, and the *pe'a*'s solid bands come from the wide ones. The mallet is called the *sausau*. Two assistants, the *'au toso*, stretch the skin and wipe.\n\nThe tools were made of bone, turtle shell and wood; the titles that go with them are hereditary in two families."
+   },
+   "text_th": {
+    "what": "ชุดหวีเข็ม หวีกว้างไว้ถม หวีแคบไว้ตีเส้น ติดตั้งฉากกับด้ามแล้วตอกด้วยค้อนเบา"
+   },
+   "kin": [
+    {
+     "to": "tatau",
+     "as": "What it makes.",
+     "rel": "tradition"
+    },
+    {
+     "to": "tap",
+     "as": "The method.",
+     "rel": "method"
+    }
+   ],
+   "sources": [
+    "s:wp-pe-a"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-pe-a"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "tatau",
+     "type": "tradition",
+     "name": "Tatau",
+     "as": "The comb."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "design-block",
+   "type": "tool",
+   "names": {
+    "name": "The design block",
+    "local": "pantang",
+    "local_lang": "Iban",
+    "aliases": [
+     "carved stamp",
+     "sample book"
+    ],
+    "said": "A repertoire kept outside a head"
+   },
+   "region": [
+    "island-southeast-asia",
+    "west-asia",
+    "mainland-southeast-asia"
+   ],
+   "facets": {
+    "family": "poke"
+   },
+   "instrument": {
+    "material": [
+     "wood",
+     "paper"
+    ],
+    "points": "none — it carries the design, not the point",
+    "worked": "pushed"
+   },
+   "text": {
+    "what": "Not a needle: a carved wooden block, inked and printed onto the skin, so the tattooist follows a line instead of remembering one.",
+    "story": "Three traditions on this site solved the same problem the same way and had no contact with each other. Borneo tattooists carved designs into wooden blocks, printed them onto the skin and tapped along the print. The Razzouk family in Jerusalem still holds olive-wood blocks three hundred years old and still prints pilgrims' crosses from them. And Shway Yoe reports that a good Burmese *saya* carried **a sample book of drawings** so the boy could choose his figures and their positions before the opium went in.\n\n*Inference —* a flash sheet, a stencil and a catalogue are all the same invention, and it arrives wherever a hand tradition has more designs than one person can hold."
+   },
+   "text_th": {
+    "what": "ไม่ใช่เข็ม เป็นแม่พิมพ์ไม้แกะลาย ลงหมึกแล้วประทับบนผิว ช่างจึงเดินตามเส้น ไม่ต้องจำ"
+   },
+   "kin": [
+    {
+     "to": "iban-borneo",
+     "as": "The block.",
+     "rel": "tradition"
+    },
+    {
+     "to": "coptic-pilgrim",
+     "as": "The block, still in use.",
+     "rel": "tradition"
+    },
+    {
+     "to": "htoe-kwin",
+     "as": "The sample book, 1882.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:shway-yoe",
+    "s:wp-razzouk-tattoo",
+    "s:wp-iban-people"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:shway-yoe"
+    },
+    "fields": {
+     "text.story": {
+      "tier": "cited",
+      "source": "s:shway-yoe"
+     },
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "measured"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "sample-book",
+     "type": "art",
+     "name": "The sample book",
+     "as": "The same invention, three times over."
+    },
+    {
+     "from": "stencils",
+     "type": "art",
+     "name": "The stencil book",
+     "as": "The same idea."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "gisi-pat-ik",
+   "type": "tool",
+   "names": {
+    "name": "Gisi and pat-ik",
+    "local": "gisi",
+    "local_lang": "Kalinga",
+    "said": "A thorn set in a stick, and the stick that hits it"
+   },
+   "region": [
+    "island-southeast-asia"
+   ],
+   "facets": {
+    "family": "tap"
+   },
+   "instrument": {
+    "material": [
+     "citrus thorn",
+     "bamboo",
+     "water buffalo horn",
+     "wood"
+    ],
+    "points": "one thorn, or a small bundle",
+    "worked": "tapped",
+    "hands": 2,
+    "held_by": "one hand holds the hafted thorn, the other taps"
+   },
+   "text": {
+    "what": "A citrus thorn — or a bundle of them — lashed at a right angle to a short stick, tapped by a second stick.",
+    "story": "The ink is soot and water, carried in a coconut shell or a bowl, and the design is drawn on first with a blade of grass dipped in it. The needles were also made of wood, horn, bone, ivory, metal and bamboo, depending on where you were.\n\nArchaeology backs the tool up: chisel and serrated heads of probable hafted tattoo instruments were excavated at Arku Cave in Cagayan and dated before 1500 BCE — comb-type tattoo chisels, in northern Luzon, three and a half thousand years ago."
+   },
+   "text_th": {
+    "what": "หนามส้มหรือหนามมัดรวม ผูกตั้งฉากกับไม้สั้น แล้วตอกด้วยไม้อีกอัน"
+   },
+   "kin": [
+    {
+     "to": "batok",
+     "as": "What it makes.",
+     "rel": "tradition"
+    },
+    {
+     "to": "arku-cave",
+     "as": "Where a set of these was dug up.",
+     "rel": "find"
+    }
+   ],
+   "sources": [
+    "s:wp-batok"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-batok"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "arku-cave",
+     "type": "find",
+     "name": "The Arku Cave tools",
+     "as": "The tool, still in use."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "hnitkwasok",
+   "type": "tool",
+   "names": {
+    "name": "Hnitkwasok",
+    "my": "နှစ်ခွဆောက်",
+    "local": "hnitkwasok",
+    "local_lang": "Burmese",
+    "said": "The two-pronged pricker: two feet long, weighted with a brass figure"
+   },
+   "region": [
+    "mainland-southeast-asia"
+   ],
+   "facets": {
+    "family": "poke"
+   },
+   "instrument": {
+    "material": [
+     "brass",
+     "iron"
+    ],
+    "length_cm": 61,
+    "length_note": "about two feet, in Shway Yoe's account",
+    "points": "a solid round point about four inches long, split into four by long slits at right angles, which hold the colour",
+    "worked": "pushed",
+    "hands": 2,
+    "held_by": "right hand on the shaft; the left forefinger and thumb form a rest on the body"
+   },
+   "text": {
+    "what": "A brass rod about two feet long, weighted at the top with a cast figure, with a split four-way point at the other end.",
+    "story": "Shway Yoe describes it part by part in 1882 and the design is a solved problem. The *yat*, the style, is solid with a round sharp point, split into four by long slits at right angles — the slits hold the pigment, so the tool carries its own ink. The style is about four inches and fits into a hollow pipe, which joins it to the weighted end. **The weight is at the top and the length is hollow**, so the tool has mass where mass helps and none where it would tire the hand.\n\nThe weight is cast as a bird, a *nat* or a *bilu*, and a good *saya*'s is carved elaborately. The tattooist catches the shaft in his right hand and rests the point in a fork made by the left forefinger and thumb, the left hand flat on the body — the hand becomes the guide rail.",
+    "how": "Ink is lampblack from burnt sesame oil, mixed with water as it is wanted. The outline goes on first with a camel-hair brush."
+   },
+   "text_th": {
+    "what": "เหล็กทองเหลืองยาวราวสองฟุต ถ่วงน้ำหนักด้วยรูปหล่อที่ปลายบน และมีปลายแหลมผ่าสี่แฉกอีกด้าน",
+    "story": "เชวโยบรรยายไว้ทีละชิ้นในปี 1882 ปลายเหล็กตันปลายกลมแหลม ผ่าเป็นสี่ด้วยร่องยาวตั้งฉากกัน ร่องนั้นอุ้มสีไว้ เครื่องมือจึงพาหมึกไปเอง ส่วนปลายยาวราวสี่นิ้วเสียบอยู่ในท่อกลวงที่ต่อไปยังปลายถ่วงน้ำหนัก น้ำหนักอยู่ด้านบน ลำตัวกลวง"
+   },
+   "kin": [
+    {
+     "to": "htoe-kwin",
+     "as": "What it makes.",
+     "rel": "tradition"
+    },
+    {
+     "to": "lek-char",
+     "as": "The same idea, one border east, and lighter.",
+     "rel": "tool"
+    }
+   ],
+   "sources": [
+    "s:shway-yoe",
+    "s:wp-tattooing-in-myanmar"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:shway-yoe"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "lanna",
+    "start-here"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "htoe-kwin",
+     "type": "tradition",
+     "name": "Htoe kwin",
+     "as": "The two-foot brass pricker that made it."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "khem-sak",
+   "type": "tool",
+   "names": {
+    "name": "Khem sak",
+    "th": "เข็มสัก",
+    "rtgs": "khem sak",
+    "said": "The tattooing needle: a long shaft, a fine point, two hands"
+   },
+   "region": [
+    "mainland-southeast-asia"
+   ],
+   "facets": {
+    "family": "poke"
+   },
+   "instrument": {
+    "material": [
+     "steel",
+     "brass",
+     "bamboo"
+    ],
+    "length_cm": 50,
+    "length_note": "long enough to be steadied against the off hand",
+    "points": "a single fine point, or a small cluster",
+    "worked": "pushed",
+    "hands": 2,
+    "held_by": "one hand drives, the other guides the shaft and stretches the skin"
+   },
+   "text": {
+    "what": "The sak yant needle: a long steel or brass shaft, pushed with one hand and steered with the other.",
+    "story": "The grip is the same one Shway Yoe drew in Burma and the same one a visitor photographs in Chiang Mai today — the driving hand, the guiding fork of finger and thumb, the skin pulled tight by an assistant or by the bearer's own posture. A single design takes a sitting.\n\nThe modern working needle is steel, single-use, and that is the part of the practice that has changed most in fifty years."
+   },
+   "text_th": {
+    "what": "เข็มสักยันต์ ก้านเหล็กหรือทองเหลืองยาว มือหนึ่งแทง อีกมือประคอง",
+    "story": "ท่าจับเป็นท่าเดียวกับที่เชวโยบรรยายไว้ในพม่า และเป็นท่าเดียวกับที่นักเดินทางถ่ายรูปได้ในเชียงใหม่วันนี้ มือขับเคลื่อน นิ้วชี้กับนิ้วโป้งของอีกมือเป็นแท่นรอง และผิวถูกดึงตึงไว้ ลายหนึ่งลายใช้เวลาหนึ่งครั้ง"
+   },
+   "kin": [
+    {
+     "to": "sak-yant",
+     "as": "What it makes.",
+     "rel": "tradition"
+    },
+    {
+     "to": "lek-char",
+     "as": "Its older name in the north.",
+     "rel": "tool"
+    }
+   ],
+   "sources": [
+    "s:wp-yantra-tattooing",
+    "s:sycm",
+    "s:shway-yoe"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-yantra-tattooing"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "lanna"
+   ],
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "khem-sak/khem-sak-needles-wat-bang-phra.jpg",
+     "source": "commons",
+     "title": "File:Needles Wat Bang Phra.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Needles_Wat_Bang_Phra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ANeedles_Wat_Bang_Phra.JPG",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "User:Phydoughx",
+     "credit": "Own work by the original uploader",
+     "alt": "Tattpoing at Wat Bang Phra temple",
+     "date": "2006-09",
+     "primary": true,
+     "sha256": "699fb35cf92a1597ec342132fa3562446a274e3ae8b6c0d0a1f2842b74e3520b"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "sak-yant",
+     "type": "tradition",
+     "name": "Sak yant",
+     "as": "The needle itself."
+    },
+    {
+     "from": "lek-char",
+     "type": "tool",
+     "name": "Lek char",
+     "as": "The same tool under the name the tattooers use."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "lek-char",
+   "type": "tool",
+   "names": {
+    "name": "Lek char",
+    "th": "เหล็กจาร",
+    "rtgs": "lek chan",
+    "said": "The iron stylus: the pen that writes on palm leaf, sharpened for skin"
+   },
+   "region": [
+    "lanna",
+    "mainland-southeast-asia"
+   ],
+   "facets": {
+    "family": "poke"
+   },
+   "instrument": {
+    "material": [
+     "iron",
+     "brass",
+     "bamboo"
+    ],
+    "length_cm": 45,
+    "length_note": "a working length of roughly 40–60 cm is usual; this site has measured none",
+    "points": "a single point, or a point split to hold ink",
+    "worked": "pushed",
+    "hands": 2
+   },
+   "text": {
+    "what": "The northern instrument: an iron stylus of the kind used to incise palm-leaf manuscripts, taken to skin.",
+    "story": "The word *char* (จาร) is the verb for writing on a palm leaf with a stylus — scoring the surface and rubbing soot into the score so the letters appear. The same word, the same tool family, and in the north the same people: the men who could write the letters were the men who could put them on a body.\n\n*Inference —* that overlap explains something about the region's tattooing that a picture of a tiger does not. A Lanna yant is a written document. The tool is a pen, the surface is a person, and the fee has the same name as a teacher's fee because the transaction is a teaching one.",
+    "notes": "Ten pages of the manuscript corpus this site counted carry the word เหล็กจาร. None of them is a tattooing manual; they are about writing."
+   },
+   "text_th": {
+    "what": "เครื่องมือของทางเหนือ เหล็กจารแบบที่ใช้เขียนใบลาน นำมาใช้กับผิวหนัง",
+    "story": "คำว่า *จาร* คือกริยาของการเขียนใบลานด้วยเหล็กแหลม ขูดผิวใบแล้วถูเขม่าลงไปให้ตัวอักษรปรากฏ คำเดียวกัน ตระกูลเครื่องมือเดียวกัน และทางเหนือก็เป็นคนกลุ่มเดียวกัน คนที่เขียนอักษรได้คือคนที่ลงอักษรบนตัวคนได้\n\n*อนุมาน —* ความทับซ้อนนี้อธิบายการสักของภูมิภาคได้มากกว่ารูปเสือหนึ่งตัว ยันต์ล้านนาคือเอกสารที่เขียนขึ้น เครื่องมือคือปากกา พื้นผิวคือคน และค่าครูมีชื่อเดียวกับค่าครูของการเรียนหนังสือ"
+   },
+   "kin": [
+    {
+     "to": "sak-kha-lai",
+     "as": "What it made.",
+     "rel": "tradition"
+    },
+    {
+     "to": "khem-sak",
+     "as": "The same tool under the name the tattooers use.",
+     "rel": "tool"
+    },
+    {
+     "to": "tua-mueang",
+     "as": "The letters it was made to write.",
+     "rel": "term"
+    }
+   ],
+   "sources": [
+    "s:corpus",
+    "s:ms6968",
+    "s:thwp-อ-กษรธรรมล-านนา"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "inference"
+    },
+    "fields": {
+     "text.story": {
+      "tier": "inference",
+      "note": "this project's reading of the word and the overlap it implies"
+     },
+     "text.notes": {
+      "tier": "harvested",
+      "note": "counted in the wichaa.net corpus, 4,710 transcribed pages"
+     },
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "lanna",
+    "script"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "sak-kha-lai",
+     "type": "tradition",
+     "name": "Sak kha lai",
+     "as": "The instrument."
+    },
+    {
+     "from": "hnitkwasok",
+     "type": "tool",
+     "name": "Hnitkwasok",
+     "as": "The same idea, one border east, and lighter."
+    },
+    {
+     "from": "khem-sak",
+     "type": "tool",
+     "name": "Khem sak",
+     "as": "Its older name in the north."
+    },
+    {
+     "from": "words",
+     "type": "story",
+     "name": "What the word means first",
+     "as": "Write."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "needle-and-sinew",
+   "type": "tool",
+   "names": {
+    "name": "Needle and sinew",
+    "local": "ᑲᑭᓐᓂᖅ",
+    "local_lang": "Inuktitut",
+    "said": "A sewing needle, a sooted thread, and the skin sewn once"
+   },
+   "region": [
+    "arctic"
+   ],
+   "facets": {
+    "family": "stitch"
+   },
+   "instrument": {
+    "material": [
+     "bone",
+     "steel",
+     "caribou sinew"
+    ],
+    "points": "one needle, carrying thread",
+    "worked": "drawn",
+    "hands": 2
+   },
+   "text": {
+    "what": "The same needle that sewed the clothing, threaded with sinew blackened in soot and drawn under the skin.",
+    "story": "Skin stitching leaves the pigment on the thread's path. It is also the reason the practice belonged to women: the needle case was theirs, the skill was theirs, and sewing was the technology the household ran on.\n\nA poked method existed alongside it; the revival teaches both."
+   },
+   "text_th": {
+    "what": "เข็มเล่มเดียวกับที่เย็บเสื้อผ้า ร้อยเส้นเอ็นชุบเขม่า แล้วลอดใต้ผิวหนัง"
+   },
+   "kin": [
+    {
+     "to": "kakiniit",
+     "as": "What it makes.",
+     "rel": "tradition"
+    },
+    {
+     "to": "stitch",
+     "as": "The method.",
+     "rel": "method"
+    }
+   ],
+   "sources": [
+    "s:wp-kakiniit"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-kakiniit"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "nomi",
+   "type": "tool",
+   "names": {
+    "name": "Nomi",
+    "local": "のみ",
+    "local_lang": "Japanese",
+    "aliases": [
+     "tebori rods"
+    ],
+    "said": "Needles bound with silk to a wooden rod"
+   },
+   "region": [
+    "east-asia"
+   ],
+   "facets": {
+    "family": "poke"
+   },
+   "instrument": {
+    "material": [
+     "steel",
+     "wood",
+     "silk thread"
+    ],
+    "points": "a group of needles, bound in a flat or round cluster",
+    "worked": "pushed",
+    "hands": 2,
+    "held_by": "the rod rests on one hand and is pushed with the other, at a shallow angle"
+   },
+   "text": {
+    "what": "A wooden rod with a group of needles bound to the end in silk, pushed at a shallow angle rather than straight down.",
+    "story": "*Tebori* means carving by hand. The angle is what separates it from every other poking tool on this site: the needles go in obliquely, which is how the method lays the graded blacks that Japanese work is built on.\n\nA machine can outline faster. Practitioners who keep the rod usually keep it for the shading."
+   },
+   "text_th": {
+    "what": "ก้านไม้ปลายมัดเข็มด้วยไหม แทงเฉียง ไม่ใช่แทงตรง"
+   },
+   "kin": [
+    {
+     "to": "irezumi",
+     "as": "What it makes.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:wp-irezumi",
+    "s:wp-horimono"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-irezumi"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "irezumi",
+     "type": "tradition",
+     "name": "Irezumi",
+     "as": "The tool."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "uhi",
+   "type": "tool",
+   "names": {
+    "name": "Uhi",
+    "local": "uhi",
+    "local_lang": "Māori",
+    "said": "An albatross-bone chisel, struck"
+   },
+   "region": [
+    "oceania"
+   ],
+   "facets": {
+    "family": "cut"
+   },
+   "instrument": {
+    "material": [
+     "albatross bone",
+     "bone"
+    ],
+    "points": "a straight or toothed cutting edge",
+    "worked": "struck",
+    "hands": 2,
+    "held_by": "the tohunga-tā-moko holds the uhi and the mallet"
+   },
+   "text": {
+    "what": "A chisel of albatross bone hafted to a handle and struck with a mallet, cutting a groove that the pigment fills.",
+    "story": "Pigment lived in carved vessels called *oko*, buried between uses and passed down the generations. A feeding funnel, the *kōrere*, was used while a face was healing.\n\nSteel needles replaced the *uhi* in the late nineteenth century: faster, safer, and smooth. In 2007 it was reported back in use by some practitioners."
+   },
+   "text_th": {
+    "what": "สิ่วกระดูกนกอัลบาทรอสติดด้าม ตอกด้วยค้อน กรีดเป็นร่องให้สีลงไปอยู่"
+   },
+   "kin": [
+    {
+     "to": "ta-moko",
+     "as": "What it makes.",
+     "rel": "tradition"
+    },
+    {
+     "to": "cut",
+     "as": "The method.",
+     "rel": "method"
+    }
+   ],
+   "sources": [
+    "s:wp-t-moko"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-t-moko"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "uhi/uhi-tohunga-ta-moko-at-work-gottfried-lindauer.jpg",
+     "source": "commons",
+     "title": "File:Tohunga-ta-moko at Work – Gottfried Lindauer.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Tohunga-ta-moko_at_Work_%E2%80%93_Gottfried_Lindauer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ATohunga-ta-moko_at_Work_%E2%80%93_Gottfried_Lindauer.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Gottfried Lindauer",
+     "credit": "https://www.aucklandartgallery.com/explore-art-and-ideas/artwork/323/the-tohunga-ta-moko-at-work",
+     "alt": "The Tohunga-ta-moko at Work. Painting by Gottfried Lindauer of Māori tattoo (moko) being carved into a man’s face by a skilled tattooist (tohunga-tā-moko).",
+     "date": "Unknown date",
+     "primary": true,
+     "sha256": "f677deb89a4db4b11dd9585f5ee54024649249bda10347be26ce65b58ae368a1"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "ta-moko",
+     "type": "tradition",
+     "name": "Tā moko",
+     "as": "The chisel."
+    },
+    {
+     "from": "cut",
+     "type": "method",
+     "name": "Cut",
+     "as": "The chisel."
+    }
+   ]
+  }
+ ]
+}

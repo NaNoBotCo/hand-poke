@@ -1,0 +1,135 @@
+{
+ "schema": 1,
+ "id": "iban-borneo",
+ "type": "tradition",
+ "names": {
+  "name": "Iban tattooing",
+  "local": "pantang",
+  "local_lang": "Iban",
+  "aliases": [
+   "bungai terung",
+   "entegulun"
+  ],
+  "said": "A journey mark, a headhunter's hands, an aubergine flower on each shoulder"
+ },
+ "region": [
+  "island-southeast-asia"
+ ],
+ "facets": {
+  "family": "tap",
+  "status": "revived"
+ },
+ "when": {
+  "from": 1850,
+  "to": 2026,
+  "circa": true,
+  "label": "Described by Hose and McDougall in 1912; carried by the last headhunters into the 2000s"
+ },
+ "practice": {
+  "method": "tap",
+  "ink": "soot-water",
+  "placement": [
+   "hands",
+   "fingers",
+   "arms",
+   "chest",
+   "back",
+   "legs"
+  ],
+  "marked": "men",
+  "marks": "specialist",
+  "status": "revived",
+  "countries": [
+   "MY",
+   "ID"
+  ],
+  "first_record": 1912,
+  "note": "Hand tattoos say what the man did; the shoulder flower says he left home."
+ },
+ "text": {
+  "what": "Borneo: tapped designs carved on a block and printed onto the skin, with hand marks reserved for a man who had taken a head.",
+  "story": "The Iban mark a journey. *Bungai terung*, the aubergine flower, goes on each shoulder when a young man leaves on *bejalai* — the walkabout that makes him an adult. The *entegulun*, the hand tattoo, is not a decoration: it records that the wearer took a head. Anthony Bourdain filmed one of the last men entitled to it.\n\nThe design source is the striking part. Borneo tattooists carved patterns onto wooden blocks, inked the block, printed it onto the skin, and then tapped along the printed line — a stamp, a stencil and a tool in one, and a way of keeping a repertoire that does not depend on memory.",
+  "notes": "Hose and McDougall, 1912, are the fullest colonial description and carry the usual freight; the Iban record their own designs now."
+ },
+ "text_th": {
+  "what": "เกาะบอร์เนียว ลายแกะบนแม่พิมพ์ไม้ ประทับลงผิวแล้วตอกตามเส้น ลายมือสงวนให้ชายที่ได้หัวศัตรูมาแล้ว"
+ },
+ "kin": [
+  {
+   "to": "tap",
+   "as": "The method.",
+   "rel": "method"
+  },
+  {
+   "to": "kayan-borneo",
+   "as": "Upriver, and mostly women's work.",
+   "rel": "tradition"
+  }
+ ],
+ "links": [
+  {
+   "label": "Iban people",
+   "url": "https://en.wikipedia.org/wiki/Iban_people"
+  }
+ ],
+ "sources": [
+  "s:wp-iban-people",
+  "s:hose-borneo-2"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-iban-people"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "colonial-record",
+  "initiation"
+ ],
+ "geo": {
+  "lat": 2.3,
+  "lon": 112.0,
+  "precision": "region",
+  "source": "s:commons"
+ },
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "coptic-pilgrim",
+   "type": "tradition",
+   "name": "The pilgrim's cross",
+   "as": "The same solution to the same problem: carve the design into wood."
+  },
+  {
+   "from": "kayan-borneo",
+   "type": "tradition",
+   "name": "Kayan tattooing",
+   "as": "Downriver, and mostly men's."
+  },
+  {
+   "from": "konyak-naga",
+   "type": "tradition",
+   "name": "Konyak marks",
+   "as": "And the hands."
+  },
+  {
+   "from": "design-block",
+   "type": "tool",
+   "name": "The design block",
+   "as": "The block."
+  },
+  {
+   "from": "bungai-terung",
+   "type": "motif",
+   "name": "The aubergine flower",
+   "as": "The tradition it belongs to."
+  }
+ ]
+}

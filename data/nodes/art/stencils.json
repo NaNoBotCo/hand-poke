@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "id": "stencils",
+ "type": "art",
+ "names": {
+  "name": "The stencil book",
+  "th": "แบบสักยันต์สำหรับลอกลาย",
+  "said": "A Thai book of yant designs, for tracing"
+ },
+ "region": [
+  "mainland-southeast-asia"
+ ],
+ "facets": {
+  "kind": "object"
+ },
+ "text": {
+  "what": "A volume in the corpus this site counted is exactly what its title says: yant patterns for tattooists to trace.",
+  "story": "Its first page reads *แบบสักยันต์ · แบบยันต์ต่างๆ · สำหรับช่างสัก* — tattoo-yant patterns, various yant patterns, for tattooists. The plates are columns of Khom-script medallions under finials, birds facing each other into a heart shape, script down both sides.\n\n*Inference —* the existence of a tracing book is the same fact as the Burmese sample book and the Bornean carved block: the repertoire is stored outside anybody's head, and it is stored in the form that transfers to skin."
+ },
+ "text_th": {
+  "what": "เล่มหนึ่งในคลังเอกสารที่เว็บนี้นับ เป็นอย่างที่ชื่อบอกไว้ คือแบบยันต์สำหรับช่างสักลอกลาย"
+ },
+ "kin": [
+  {
+   "to": "sak-yant",
+   "as": "The tradition.",
+   "rel": "tradition"
+  },
+  {
+   "to": "design-block",
+   "as": "The same idea.",
+   "rel": "tool"
+  }
+ ],
+ "sources": [
+  "s:corpus"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "field"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "lanna",
+  "script"
+ ],
+ "updated": "2026-09-19"
+}

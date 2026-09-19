@@ -1,0 +1,321 @@
+{
+ "type": "rite",
+ "count": 5,
+ "nodes": [
+  {
+   "schema": 1,
+   "id": "khan-tang",
+   "type": "rite",
+   "names": {
+    "name": "Khan tang",
+    "th": "ขันตั้ง",
+    "rtgs": "khan tang",
+    "said": "The teacher's bowl — the Lanna word, where the centre says khan khru"
+   },
+   "region": [
+    "lanna"
+   ],
+   "facets": {
+    "family": "poke"
+   },
+   "text": {
+    "what": "The fee, set by the master, presented in a bowl: flowers, candles, incense, cloth, coins, and whatever else that master's line asks for.",
+    "story": "The Lanna volume gives the word and the mechanism in one line: the man goes to a community master expert in yant tattooing, and there is a teacher's fee, *khan tang*, as the master sets it.\n\n*Khan* is the pedestalled bowl. *Tang* is to set up. The same word covers the offering that opens a course of study in any Lanna craft — which is the tell: **the transaction is not a purchase, it is an enrolment.** Central Thai calls the same thing *khan khru*.\n\nA price list is a different object and it exists too; a Chiang Mai operation publishes one. This site keeps the two apart rather than translating one into the other."
+   },
+   "text_th": {
+    "what": "ค่าครู ครูเป็นผู้กำหนด จัดใส่ขัน ดอกไม้ เทียน ธูป ผ้า เงิน และของอื่นตามสายครูนั้น",
+    "story": "หนังสือล้านนาให้ทั้งคำและกลไกไว้ในบรรทัดเดียว ผู้ชายไปหาครูบาอาจารย์ผู้เชี่ยวชาญการสักยันต์ในชุมชน และมีค่าบูชาครูเรียกว่า *ขันตั้ง* ตามที่ครูกำหนด\n\n*ขัน* คือภาชนะมีเชิง *ตั้ง* คือจัดขึ้น คำเดียวกันนี้ใช้กับการขึ้นครูของงานช่างล้านนาทุกแขนง ซึ่งเป็นจุดสังเกต **นี่ไม่ใช่การซื้อ แต่เป็นการขึ้นครู** ภาคกลางเรียกสิ่งเดียวกันว่าขันครู"
+   },
+   "kin": [
+    {
+     "to": "sak-kha-lai",
+     "as": "The tradition that names it this way.",
+     "rel": "tradition"
+    },
+    {
+     "to": "sak-yant",
+     "as": "And the living one that still collects it.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:ms6968",
+    "s:sycm"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:ms6968"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "lanna",
+    "start-here"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "sak-kha-lai",
+     "type": "tradition",
+     "name": "Sak kha lai",
+     "as": "The fee, in the Lanna word for it."
+    },
+    {
+     "from": "sak-yant",
+     "type": "tradition",
+     "name": "Sak yant",
+     "as": "The fee, north and centre."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "kho-ham",
+   "type": "rite",
+   "names": {
+    "name": "The rules",
+    "th": "ข้อห้าม",
+    "rtgs": "kho ham",
+    "said": "What the bearer keeps afterwards, or the mark stops working"
+   },
+   "region": [
+    "mainland-southeast-asia"
+   ],
+   "facets": {
+    "family": "poke"
+   },
+   "text": {
+    "what": "A yant works while its bearer keeps the rules that came with it — most often a list of foods not eaten and things not done.",
+    "story": "The condition is the structure. A tattoo that has to be maintained by conduct is a contract with a term, and it explains why these traditions can be strict about who receives what: the mark is the easy part and the keeping is the rest of it.\n\nThe same logic runs through the Burmese charms, which are renewed when they fade, and through the Fijian and Samoan fee, which is paid before the work rather than after."
+   },
+   "text_th": {
+    "what": "ยันต์ทำงานตราบที่ผู้รับถือข้อห้ามที่มากับมัน ส่วนใหญ่คือของแสลงและสิ่งที่ห้ามทำ"
+   },
+   "kin": [
+    {
+     "to": "sak-yant",
+     "as": "Where the rules attach.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:wp-yantra-tattooing"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-yantra-tattooing"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "sak-yant",
+     "type": "tradition",
+     "name": "Sak yant",
+     "as": "The rules that come with it, and what happens if they are broken."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "the-pain",
+   "type": "rite",
+   "names": {
+    "name": "Bearing it",
+    "said": "Opium in Burma, friends shouting advice among the Shan, a straight face in the ring"
+   },
+   "region": [
+    "worldwide"
+   ],
+   "facets": {
+    "family": "poke"
+   },
+   "text": {
+    "what": "In tradition after tradition the pain is not a side effect of the mark. It is the thing being demonstrated.",
+    "story": "Burma: the boy is put under opium, and some parents refuse it, and a few boys have died of the dose. Three or four figures at a sitting. The Shan: the friends sit round in a circle telling him not to scratch, that he is wriggling too much, that no girl will admire a spoiled pattern. Lethwei fighters: up to twenty-four hours across both legs, and the point is the straight face.\n\nSamoa: a man who starts the *pe'a* and cannot finish wears *pe'a mutu*, an unfinished tattoo, and it is a mark of shame. Lanna: a man who will not bear the needle should put on a woman's skirt.\n\n*Inference —* every tradition that uses the mark to certify endurance also needs the mark to be visible and hard to fake. That is the same reason the work is put where it cannot be hidden and takes long enough to be witnessed.",
+    "notes": "Anaesthetic, where it was used at all, was opium. No source here describes the modern options, and this site gives no advice about any of it."
+   },
+   "text_th": {
+    "what": "ในธรรมเนียมแล้วธรรมเนียมเล่า ความเจ็บไม่ใช่ผลข้างเคียงของรอยสัก แต่คือสิ่งที่กำลังถูกพิสูจน์"
+   },
+   "kin": [
+    {
+     "to": "htoe-kwin",
+     "as": "Where the opium comes in.",
+     "rel": "tradition"
+    },
+    {
+     "to": "shan-tattooing",
+     "as": "Where the friends do.",
+     "rel": "tradition"
+    },
+    {
+     "to": "tatau",
+     "as": "And where stopping has a name.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:shway-yoe",
+    "s:milne-shans",
+    "s:wp-tattooing-in-myanmar",
+    "s:wp-pe-a",
+    "s:ms6968"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:shway-yoe"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "initiation",
+    "start-here"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "the-needle-now",
+     "type": "issue",
+     "name": "The needle now",
+     "as": "What it used to cost."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "the-timing",
+   "type": "rite",
+   "names": {
+    "name": "When it is done",
+    "said": "Before ordination, at twelve, at puberty, when the weaving is mastered"
+   },
+   "region": [
+    "worldwide"
+   ],
+   "facets": {
+    "family": "poke"
+   },
+   "text": {
+    "what": "The date is rarely free. Most traditions on this site fix the work to a passage the person is making anyway.",
+    "story": "Bamar: the waist tattoo is done before or soon after temporary ordination as a monk — two rites of passage stacked on one season. Shan: twelve for the bold, fourteen for most. Chin: fifteen to twenty. Ainu: from five to thirteen, widened until marriage. Kalinga and Cordilleran: after the act that earns it. Atayal: a man's chin after he fathers a child.\n\n*Inference —* a mark made at a moment is a dated document. It is how these traditions record a life without writing anything down."
+   },
+   "text_th": {
+    "what": "วันเวลาไม่ค่อยเป็นอิสระ ธรรมเนียมส่วนใหญ่ผูกการสักไว้กับช่วงเปลี่ยนผ่านที่คนนั้นกำลังก้าวข้ามอยู่แล้ว"
+   },
+   "kin": [
+    {
+     "to": "htoe-kwin",
+     "as": "Stacked with ordination.",
+     "rel": "tradition"
+    },
+    {
+     "to": "atayal-ptasan",
+     "as": "Stacked with fatherhood and with the loom.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:wp-tattooing-in-myanmar",
+    "s:milne-shans",
+    "s:wp-ainu-people",
+    "s:wp-atayal-people"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-tattooing-in-myanmar"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "initiation"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "who-holds-you",
+   "type": "rite",
+   "names": {
+    "name": "Who holds you still",
+    "said": "Two assistants in Samoa, a circle of friends among the Shan, other women in Fiji"
+   },
+   "region": [
+    "worldwide"
+   ],
+   "facets": {
+    "family": "tap"
+   },
+   "text": {
+    "what": "Nobody is tattooed alone. The room is part of the method.",
+    "story": "Samoa: the *'au toso*, two assistants, stretch the skin and wipe. Fiji: one older woman applies the marks and others hold the young woman still. Burma: the tattooist's own left hand is the rest for the tool, flat against the body. Shan: the friends sit in a circle for days afterwards, because the itching is worse than the work.\n\n*Inference —* the skin has to be tight or the point wanders, which makes at least one extra pair of hands a technical requirement rather than a social one. The witnesses come free with it."
+   },
+   "text_th": {
+    "what": "ไม่มีใครถูกสักคนเดียว ห้องนั้นเป็นส่วนหนึ่งของวิธี"
+   },
+   "kin": [
+    {
+     "to": "tatau",
+     "as": "Where the assistants have a title.",
+     "rel": "tradition"
+    },
+    {
+     "to": "veiqia",
+     "as": "And where the holders are the other women.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:wp-pe-a",
+    "s:wp-veiqia",
+    "s:shway-yoe",
+    "s:milne-shans"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-pe-a"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "updated": "2026-09-19",
+   "kin_in": []
+  }
+ ]
+}

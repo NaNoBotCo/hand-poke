@@ -1,0 +1,105 @@
+{
+ "schema": 1,
+ "id": "wat-phumin",
+ "type": "place",
+ "names": {
+  "name": "Wat Phumin",
+  "th": "วัดภูมินทร์",
+  "said": "Nan — the murals with the tattooed legs in them"
+ },
+ "region": [
+  "lanna"
+ ],
+ "facets": {
+  "family": "poke"
+ },
+ "text": {
+  "what": "The temple in Nan whose nineteenth-century murals show northern men with their legs and torsos marked.",
+  "story": "The Lanna volume this site quotes says the evidence for the leg tattoo is in the murals of important temples, and promises examples. Wat Phumin is the best known of them: its wall paintings are the standard illustration of northern dress, northern faces and northern skin.\n\n*Inference —* a mural is evidence that a painter expected to see marked legs, which is not quite the same as evidence of any particular man's marks. It is strong for pattern and weak for detail, and this site treats it that way."
+ },
+ "text_th": {
+  "what": "วัดในจังหวัดน่าน จิตรกรรมฝาผนังศตวรรษที่ 19 แสดงชายเหนือที่มีลายบนขาและลำตัว",
+  "story": "หนังสือล้านนาที่เว็บนี้อ้างบอกว่าหลักฐานของลายขาอยู่ในจิตรกรรมฝาผนังของวัดสำคัญ และสัญญาว่าจะยกตัวอย่าง วัดภูมินทร์เป็นที่รู้จักที่สุดในกลุ่มนั้น\n\n*อนุมาน —* จิตรกรรมเป็นหลักฐานว่าจิตรกรคาดว่าจะเห็นขาที่มีลาย ซึ่งไม่เท่ากับหลักฐานของลายบนขาชายคนใดคนหนึ่ง"
+ },
+ "kin": [
+  {
+   "to": "sak-kha-lai",
+   "as": "What it shows.",
+   "rel": "tradition"
+  },
+  {
+   "to": "murals",
+   "as": "What a painting is evidence of.",
+   "rel": "art"
+  }
+ ],
+ "geo": {
+  "lat": 18.7748,
+  "lon": 100.7714,
+  "precision": "building",
+  "source": "s:thwp-ว-ดภ-ม-นทร-"
+ },
+ "sources": [
+  "s:thwp-ว-ดภ-ม-นทร-",
+  "s:wp-wat-phumin",
+  "s:ms6968"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:ms6968"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "lanna",
+  "start-here"
+ ],
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "wat-phumin/wat-phumin-2013-wat-phumin-mural-01.jpg",
+   "source": "commons",
+   "title": "File:2013 Wat Phumin mural 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/2013_Wat_Phumin_mural_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A2013_Wat_Phumin_mural_01.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Takeaway",
+   "credit": "Own work",
+   "alt": "Murals of Wat Phumin",
+   "date": "2013-12-11 09:38:16",
+   "primary": true,
+   "sha256": "6d39df1bbb4b0c8bd6a367ea5aad93253566e04d46ecb925c25e41fac22db0c7"
+  },
+  {
+   "file": "wat-phumin/wat-phumin-painting-of-the-governor-of-nan-at-phumin-temple.jpg",
+   "source": "commons",
+   "title": "File:Painting of the governor of Nan At Phumin Temple.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Painting_of_the_governor_of_Nan_At_Phumin_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APainting_of_the_governor_of_Nan_At_Phumin_Temple.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Painting: Nan Bua Phan (death date unknown).[1][2]",
+   "credit": "Own work",
+   "alt": "Painting on the eastern pillar of the wall of Wat Phumin in Nan, Thailand, believed to be Chao Anantaworaritthidet, the governor of Nan at the time, but may also be King Suriyaphongpharitdet.",
+   "date": "between 1902 and 1903date QS:P,+1902-00-",
+   "primary": false,
+   "sha256": "a9d5d1a28596410c9c157133fcf0a6e1ef2594cf81371f23eac665aa51fd197e"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "murals",
+   "type": "art",
+   "name": "The murals",
+   "as": "The best-known wall."
+  }
+ ]
+}

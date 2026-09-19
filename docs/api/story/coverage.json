@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "id": "coverage",
+ "type": "story",
+ "names": {
+  "name": "Who gets written about",
+  "said": "Counted in Wikipedia language editions, per tradition"
+ },
+ "region": [
+  "worldwide"
+ ],
+ "facets": {
+  "era": "now"
+ },
+ "text": {
+  "what": "Every tradition on this site that has a Wikipedia article, ranked by how many languages wrote one.",
+  "story": "The measurement is crude and that is the point: it is a count of attention, not of importance. Each tradition here names its article, and the harvest asks the Wikimedia API how many language editions carry it.\n\n*Inference —* the shape of the answer is predictable before you run it, which is itself the finding. The traditions with the most editions are the ones eighteenth- and nineteenth-century European voyages met first and wrote up in European languages; the ones with the fewest are inland, upland, and were written about, if at all, in an administrative report.\n\nThe Lanna leg tattoo does not appear at all. Not thinly — it has no article in any language, in a project with more than three hundred language editions, for a custom that covered the legs of every man in a kingdom.",
+  "notes": "Counted at build time. A tradition with no named article is listed as having none rather than scored as zero."
+ },
+ "text_th": {
+  "what": "ทุกธรรมเนียมบนเว็บนี้ที่มีบทความวิกิพีเดีย เรียงตามจำนวนภาษาที่เขียนถึง"
+ },
+ "kin": [
+  {
+   "to": "cook-1769",
+   "as": "Why the English-language record is shaped this way.",
+   "rel": "story"
+  },
+  {
+   "to": "sak-kha-lai",
+   "as": "The tradition with no article at all.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:langlinks"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "harvested"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "measured"
+ ],
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "cook-1769",
+   "type": "story",
+   "name": "How the word got in",
+   "as": "And what it did to the record."
+  }
+ ]
+}

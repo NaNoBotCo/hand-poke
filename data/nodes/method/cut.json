@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "id": "cut",
+ "type": "method",
+ "names": {
+  "name": "Cut",
+  "th": "กรีด",
+  "said": "An incision, and pigment rubbed into it"
+ },
+ "region": [
+  "worldwide"
+ ],
+ "facets": {
+  "family": "cut"
+ },
+ "text": {
+  "what": "The skin is cut or chiselled and pigment is rubbed into the cut, so the mark has a texture as well as a colour.",
+  "story": "Māori *tā moko* is the clearest case: the *uhi*, a hafted chisel of albatross bone, is struck with a mallet and the skin keeps a groove. A moko made this way catches light. A moko made with a needle does not, which is exactly what changed when steel arrived — and why some practitioners have taken the chisel up again.\n\nThe Ainu word *anchi-piri* names obsidian and a cut. Among the Lumad and Negrito peoples of the Philippines a hafted chisel incises the skin in short dashes, and the result is partly scarification.",
+  "notes": "Cutting shades into scarification, which is a different practice with a different point. The test used here: if pigment is put into the wound to be seen afterwards, it is on this site."
+ },
+ "text_th": {
+  "what": "กรีดหรือสกัดผิวหนังแล้วถูสีลงในรอย รอยที่ได้จึงมีทั้งสีและพื้นผิว"
+ },
+ "kin": [
+  {
+   "to": "ta-moko",
+   "as": "The tradition built on it.",
+   "rel": "tradition"
+  },
+  {
+   "to": "uhi",
+   "as": "The chisel.",
+   "rel": "tool"
+  }
+ ],
+ "sources": [
+  "s:wp-t-moko",
+  "s:wp-batok",
+  "s:wp-scarification"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-t-moko"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-19"
+}

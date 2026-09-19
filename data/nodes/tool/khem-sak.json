@@ -1,0 +1,89 @@
+{
+ "schema": 1,
+ "id": "khem-sak",
+ "type": "tool",
+ "names": {
+  "name": "Khem sak",
+  "th": "เข็มสัก",
+  "rtgs": "khem sak",
+  "said": "The tattooing needle: a long shaft, a fine point, two hands"
+ },
+ "region": [
+  "mainland-southeast-asia"
+ ],
+ "facets": {
+  "family": "poke"
+ },
+ "instrument": {
+  "material": [
+   "steel",
+   "brass",
+   "bamboo"
+  ],
+  "length_cm": 50,
+  "length_note": "long enough to be steadied against the off hand",
+  "points": "a single fine point, or a small cluster",
+  "worked": "pushed",
+  "hands": 2,
+  "held_by": "one hand drives, the other guides the shaft and stretches the skin"
+ },
+ "text": {
+  "what": "The sak yant needle: a long steel or brass shaft, pushed with one hand and steered with the other.",
+  "story": "The grip is the same one Shway Yoe drew in Burma and the same one a visitor photographs in Chiang Mai today — the driving hand, the guiding fork of finger and thumb, the skin pulled tight by an assistant or by the bearer's own posture. A single design takes a sitting.\n\nThe modern working needle is steel, single-use, and that is the part of the practice that has changed most in fifty years."
+ },
+ "text_th": {
+  "what": "เข็มสักยันต์ ก้านเหล็กหรือทองเหลืองยาว มือหนึ่งแทง อีกมือประคอง",
+  "story": "ท่าจับเป็นท่าเดียวกับที่เชวโยบรรยายไว้ในพม่า และเป็นท่าเดียวกับที่นักเดินทางถ่ายรูปได้ในเชียงใหม่วันนี้ มือขับเคลื่อน นิ้วชี้กับนิ้วโป้งของอีกมือเป็นแท่นรอง และผิวถูกดึงตึงไว้ ลายหนึ่งลายใช้เวลาหนึ่งครั้ง"
+ },
+ "kin": [
+  {
+   "to": "sak-yant",
+   "as": "What it makes.",
+   "rel": "tradition"
+  },
+  {
+   "to": "lek-char",
+   "as": "Its older name in the north.",
+   "rel": "tool"
+  }
+ ],
+ "sources": [
+  "s:wp-yantra-tattooing",
+  "s:sycm",
+  "s:shway-yoe"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-yantra-tattooing"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "lanna"
+ ],
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "khem-sak/khem-sak-needles-wat-bang-phra.jpg",
+   "source": "commons",
+   "title": "File:Needles Wat Bang Phra.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Needles_Wat_Bang_Phra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ANeedles_Wat_Bang_Phra.JPG",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "User:Phydoughx",
+   "credit": "Own work by the original uploader",
+   "alt": "Tattpoing at Wat Bang Phra temple",
+   "date": "2006-09",
+   "primary": true,
+   "sha256": "699fb35cf92a1597ec342132fa3562446a274e3ae8b6c0d0a1f2842b74e3520b"
+  }
+ ]
+}

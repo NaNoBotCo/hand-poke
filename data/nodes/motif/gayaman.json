@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "id": "gayaman",
+ "type": "motif",
+ "names": {
+  "name": "The centipede"
+ },
+ "region": [
+  "island-southeast-asia"
+ ],
+ "facets": {
+  "does": "protect"
+ },
+ "mark": {
+  "does": "The centipede, one of the standing Cordilleran figures, alongside snakes, eagles, ferns, rice grains and mountains.",
+  "where": [
+   "arms",
+   "chest"
+  ],
+  "earned": true
+ },
+ "text": {
+  "what": "The centipede, one of the standing Cordilleran figures, alongside snakes, eagles, ferns, rice grains and mountains.",
+  "story": "The motifs are the motifs of the weaving and the pottery. A tattoo tradition in the Philippines is not a separate art with its own vocabulary; it is the same vocabulary applied to a person."
+ },
+ "text_th": {
+  "what": "ตะขาบ หนึ่งในรูปประจำของคอร์ดิลเยรา ควบคู่กับงู นกอินทรี เฟิร์น เมล็ดข้าว และภูเขา"
+ },
+ "kin": [
+  {
+   "to": "batok",
+   "as": "The tradition it belongs to.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:wp-batok"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-batok"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [],
+ "updated": "2026-09-19"
+}

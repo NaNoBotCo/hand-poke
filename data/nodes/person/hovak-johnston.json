@@ -1,0 +1,59 @@
+{
+ "schema": 1,
+ "id": "hovak-johnston",
+ "type": "person",
+ "names": {
+  "name": "Hovak Johnston",
+  "said": "Put traditional marks back on Inuit women from 2016"
+ },
+ "region": [
+  "arctic"
+ ],
+ "facets": {
+  "role": "reviver"
+ },
+ "when": {
+  "from": 2016,
+  "to": 2026,
+  "label": "The Inuit Tattoo Revitalization Project"
+ },
+ "text": {
+  "what": "The Inuvialuk woman whose project took the kakiniit off the archive shelf and back onto skin, learning the stitch from elders.",
+  "story": "The revival has a method as well as a date: find the women who remember, learn the stitch from them, and put the marks on people who want them — starting with the women whose grandmothers had been told to stop."
+ },
+ "text_th": {
+  "what": "หญิงชาวอินูเวียลูอิตผู้นำรอยสักดั้งเดิมออกจากชั้นเอกสารกลับมาอยู่บนผิวหนัง โดยเรียนวิธีเย็บจากผู้เฒ่า"
+ },
+ "kin": [
+  {
+   "to": "kakiniit",
+   "as": "The practice.",
+   "rel": "tradition"
+  },
+  {
+   "to": "revival",
+   "as": "The pattern.",
+   "rel": "story"
+  }
+ ],
+ "sources": [
+  "s:wp-kakiniit"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "women",
+  "revival"
+ ],
+ "updated": "2026-09-19"
+}

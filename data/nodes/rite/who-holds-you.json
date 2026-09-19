@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "id": "who-holds-you",
+ "type": "rite",
+ "names": {
+  "name": "Who holds you still",
+  "said": "Two assistants in Samoa, a circle of friends among the Shan, other women in Fiji"
+ },
+ "region": [
+  "worldwide"
+ ],
+ "facets": {
+  "family": "tap"
+ },
+ "text": {
+  "what": "Nobody is tattooed alone. The room is part of the method.",
+  "story": "Samoa: the *'au toso*, two assistants, stretch the skin and wipe. Fiji: one older woman applies the marks and others hold the young woman still. Burma: the tattooist's own left hand is the rest for the tool, flat against the body. Shan: the friends sit in a circle for days afterwards, because the itching is worse than the work.\n\n*Inference —* the skin has to be tight or the point wanders, which makes at least one extra pair of hands a technical requirement rather than a social one. The witnesses come free with it."
+ },
+ "text_th": {
+  "what": "ไม่มีใครถูกสักคนเดียว ห้องนั้นเป็นส่วนหนึ่งของวิธี"
+ },
+ "kin": [
+  {
+   "to": "tatau",
+   "as": "Where the assistants have a title.",
+   "rel": "tradition"
+  },
+  {
+   "to": "veiqia",
+   "as": "And where the holders are the other women.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:wp-pe-a",
+  "s:wp-veiqia",
+  "s:shway-yoe",
+  "s:milne-shans"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-pe-a"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-19"
+}

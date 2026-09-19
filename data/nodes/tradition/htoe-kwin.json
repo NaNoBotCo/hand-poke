@@ -1,0 +1,164 @@
+{
+ "schema": 1,
+ "id": "htoe-kwin",
+ "type": "tradition",
+ "names": {
+  "name": "Htoe kwin",
+  "my": "ထိုးကွင်း",
+  "local": "ထိုးကွင်း",
+  "local_lang": "Burmese",
+  "aliases": [
+   "Burmese thigh tattoo",
+   "Lethwei leg tattoo"
+  ],
+  "said": "htó-kwìn — the pricked rings"
+ },
+ "region": [
+  "mainland-southeast-asia"
+ ],
+ "facets": {
+  "family": "poke",
+  "status": "thinning"
+ },
+ "when": {
+  "from": 1100,
+  "to": 2026,
+  "circa": true,
+  "label": "Tang-dynasty notice of tattooed Pyu dancers; thinning after 1900, still done"
+ },
+ "practice": {
+  "method": "poke",
+  "tool": "hnitkwasok",
+  "ink": "lampblack",
+  "placement": [
+   "waist-to-knee",
+   "legs",
+   "knees",
+   "thighs"
+  ],
+  "marked": "men",
+  "marks": "specialist",
+  "status": "thinning",
+  "countries": [
+   "MM"
+  ],
+  "first_record": 1882,
+  "first_record_note": "the fullest description this site can name is Shway Yoe's, 1882; the custom is far older",
+  "suppressed_by": "no ban — colonial rule and town life, in Shway Yoe's own account and the Wikipedia summary of it",
+  "sessions": "three to six days for the whole; three or four figures at a sitting",
+  "note": "Boys of eight to fourteen, waist to just past the kneecap, in framed animals."
+ },
+ "text": {
+  "what": "Every up-country Burmese man wore one: a sheet of dark-blue animals from the navel to below the knee, begun in boyhood.",
+  "story": "Shway Yoe — the pen name of Sir James George Scott, who lived in Burma and wrote the fullest account of it in English — opens the chapter flatly: a Burmese youth counts his thigh tattooing as important as his entry into a monastery, and until it is done \"there may be doubts as to his thorough manhood.\"\n\nThe finished work runs from a line level with the navel to just past the kneecap, and he reaches for a garment to describe it: not a marking of the skin so much as **\"a skin-tight pair of caleçons, fitting better than the best glove ever made.\"** The figures are tigers, cats, monkeys, elephants, *nats* and *bilus* — each one framed in an oval of letters, each frame its own setting, the gaps filled with the same tracery.\n\nThe frame is the tell. The animals are not a scene; they are a repeating field of self-contained units, which is why the whole reads at a distance as cloth rather than as a picture.\n\n*Attested —* a good *saya* carried a sample book of drawings so the boy could pick his patterns and their places before the opium went in. A tattoo studio's flash sheet, in Burma, in 1882.",
+  "today": "Lethwei fighters — Burmese bareknuckle boxers — carry the leg work as the sport's own mark, and the Wikipedia article on tattooing in Myanmar records fighters describing the sitting, up to 24 hours across both legs, as the thing to be endured without showing it. Outside the ring it is a thinning tradition rather than a general one.",
+  "notes": "Shway Yoe reports and then refuses a claim: that the custom began for a \"shameful reason assigned by foreign writers.\" He does not repeat the reason and says no Burman believes it. This site does the same."
+ },
+ "text_th": {
+  "what": "ชายพม่าหัวเมืองเกือบทุกคนมีลายนี้ สัตว์สีน้ำเงินเข้มเต็มผืนตั้งแต่ระดับสะดือลงไปใต้เข่า เริ่มตั้งแต่ยังเป็นเด็ก",
+  "story": "เชวโย นามปากกาของเซอร์เจมส์ จอร์จ สก็อตต์ ผู้ใช้ชีวิตในพม่าและเขียนบันทึกภาษาอังกฤษที่ละเอียดที่สุดไว้ เปิดบทด้วยประโยคตรงๆ ว่า ชายหนุ่มพม่าถือว่าการสักต้นขาสำคัญเท่ากับการบวช และก่อนจะสักเสร็จ ความเป็นชายเต็มตัวของเขายังน่าสงสัย\n\nงานที่เสร็จแล้วกินตั้งแต่แนวสะดือถึงใต้ลูกสะบ้า และเขาเลือกใช้คำเรียกเสื้อผ้าอธิบายมัน ไม่ใช่รอยบนผิวหนังเท่ากับ **\"กางเกงรัดรูปที่เข้ารูปยิ่งกว่าถุงมือ\"** ลายเป็นเสือ แมว ลิง ช้าง นัต และบีลู แต่ละตัวมีกรอบตัวอักษรล้อมเป็นวงรี ช่องว่างถมด้วยลายเดียวกัน\n\nกรอบคือจุดสังเกต สัตว์เหล่านี้ไม่ได้ประกอบเป็นภาพเดียว แต่เป็นหน่วยซ้ำๆ เต็มผืน จึงมองไกลๆ แล้วอ่านเป็นผ้า ไม่ใช่ภาพ",
+  "today": "นักมวยเลธเวยถือลายขาเป็นเครื่องหมายของกีฬา และบทความวิกิพีเดียบันทึกคำของนักมวยว่าการสักทั้งสองขาใช้เวลาถึง 24 ชั่วโมง และต้องทนโดยไม่แสดงออก นอกสังเวียน ธรรมเนียมนี้เหลือน้อยลงมาก"
+ },
+ "kin": [
+  {
+   "to": "sak-kha-lai",
+   "as": "The same garment of skin, one border east, and far less written down.",
+   "rel": "tradition"
+  },
+  {
+   "to": "hnitkwasok",
+   "as": "The two-foot brass pricker that made it.",
+   "rel": "tool"
+  },
+  {
+   "to": "shan-tattooing",
+   "as": "Who Shway Yoe says did the charm work, and did more of it.",
+   "rel": "tradition"
+  },
+  {
+   "to": "shway-yoe",
+   "as": "Who wrote it down, and what that costs the record.",
+   "rel": "person"
+  },
+  {
+   "to": "clothing",
+   "as": "\"A skin-tight pair of caleçons\" — one of the three.",
+   "rel": "finding"
+  },
+  {
+   "to": "vermilion",
+   "as": "The other colour: charms, in red, which fade.",
+   "rel": "ink"
+  }
+ ],
+ "links": [
+  {
+   "label": "Tattooing in Myanmar",
+   "url": "https://en.wikipedia.org/wiki/Tattooing_in_Myanmar"
+  }
+ ],
+ "sources": [
+  "s:shway-yoe",
+  "s:wp-tattooing-in-myanmar",
+  "s:gazetteer-2",
+  "s:milne-shans"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:shway-yoe"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "cited",
+    "source": "s:wp-tattooing-in-myanmar"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:shway-yoe"
+   },
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "lanna",
+  "start-here",
+  "initiation",
+  "colonial-record"
+ ],
+ "images": [
+  {
+   "file": "htoe-kwin/htoe-kwin-burmese-tattooing.jpg",
+   "source": "commons",
+   "title": "File:Burmese tattooing.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Burmese_tattooing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ABurmese_tattooing.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Philip Adolphe Klier",
+   "credit": "Customs of the World",
+   "alt": "Burmese tattooingEvery Burman who has any self-respect is tattooed in blue from the waist, about the top of the cloth to the knee. The figures of tigers, ogres and so forth are encircled with scroll l",
+   "date": "1912",
+   "primary": true,
+   "sha256": "5af5015e2508c7af07339eef921160e53eed69fa922eb70cfc8be02591f425c0"
+  }
+ ],
+ "x_clothing": {
+  "quote": "not so much of a marking of the cuticle as of a skin-tight pair of caleçons, fitting better than the best glove ever made",
+  "lang": "English, of Burmese work",
+  "source": "s:shway-yoe",
+  "year": 1882,
+  "garment": "trousers"
+ },
+ "geo": {
+  "lat": 21.96,
+  "lon": 96.09,
+  "precision": "region",
+  "source": "s:commons"
+ },
+ "updated": "2026-09-19"
+}

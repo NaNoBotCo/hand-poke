@@ -1,0 +1,640 @@
+{
+ "type": "person",
+ "count": 9,
+ "nodes": [
+  {
+   "schema": 1,
+   "id": "ajarn-dang-sak",
+   "type": "person",
+   "names": {
+    "name": "Ajarn Dang and Ajarn Sak",
+    "th": "อาจารย์แดง และ อาจารย์เสก",
+    "said": "Two working masters in Chiang Mai"
+   },
+   "region": [
+    "lanna"
+   ],
+   "facets": {
+    "role": "practitioner"
+   },
+   "text": {
+    "what": "Two of the Chiang Mai masters whose published profiles give a teacher, a temple, and a count of years in and out of the robe.",
+    "story": "Ajarn Dang: thirty-three years of practice, ten of them as a monk, a fifth-generation family line, trained under Sukhawaphuthargo. Ajarn Sak: eighteen years, twelve as a monk, a line through his father and grandfather, Burmese magic and the northern Tai Yai forest tradition.\n\nThat second line matters for this site's argument. A working Chiang Mai master describes his own training as Burmese and Tai Yai — which is the same border-crossing Shway Yoe described from the other side in 1882, when he wrote that the men who tattooed charms were mostly Shans.",
+    "notes": "Both tattooed this site's publisher. The pictures here that come from those sessions are used with permission and credited as such."
+   },
+   "text_th": {
+    "what": "สองในบรรดาครูของเชียงใหม่ ที่มีประวัติเผยแพร่ไว้ ทั้งครูผู้สอน วัด และจำนวนปีทั้งในและนอกผ้าเหลือง",
+    "story": "อาจารย์แดง สามสิบสามปี สิบปีในผ้าเหลือง สายตระกูลรุ่นที่ห้า เรียนกับสุขวโพธาโร อาจารย์เสก สิบแปดปี สิบสองปีในผ้าเหลือง สายพ่อและปู่ วิชาพม่าและสายป่าไทใหญ่ทางเหนือ\n\nประโยคหลังสำคัญต่อข้อเสนอของเว็บนี้ ครูที่ทำงานอยู่ในเชียงใหม่วันนี้อธิบายสายวิชาของตัวเองว่าเป็นพม่าและไทใหญ่ ซึ่งเป็นการข้ามพรมแดนแบบเดียวกับที่เชวโยบันทึกไว้จากอีกฝั่งในปี 1882"
+   },
+   "kin": [
+    {
+     "to": "sak-yant",
+     "as": "The practice.",
+     "rel": "tradition"
+    },
+    {
+     "to": "shan-tattooing",
+     "as": "The line they name.",
+     "rel": "tradition"
+    },
+    {
+     "to": "sak-yant-chiang-mai",
+     "as": "Where the profiles are published.",
+     "rel": "org"
+    }
+   ],
+   "sources": [
+    "s:sycm",
+    "s:field-sycm"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:sycm"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "lanna",
+    "start-here"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "sak-yant-chiang-mai",
+     "type": "org",
+     "name": "Sak Yant Chiang Mai",
+     "as": "Two of the masters."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "hovak-johnston",
+   "type": "person",
+   "names": {
+    "name": "Hovak Johnston",
+    "said": "Put traditional marks back on Inuit women from 2016"
+   },
+   "region": [
+    "arctic"
+   ],
+   "facets": {
+    "role": "reviver"
+   },
+   "when": {
+    "from": 2016,
+    "to": 2026,
+    "label": "The Inuit Tattoo Revitalization Project"
+   },
+   "text": {
+    "what": "The Inuvialuk woman whose project took the kakiniit off the archive shelf and back onto skin, learning the stitch from elders.",
+    "story": "The revival has a method as well as a date: find the women who remember, learn the stitch from them, and put the marks on people who want them — starting with the women whose grandmothers had been told to stop."
+   },
+   "text_th": {
+    "what": "หญิงชาวอินูเวียลูอิตผู้นำรอยสักดั้งเดิมออกจากชั้นเอกสารกลับมาอยู่บนผิวหนัง โดยเรียนวิธีเย็บจากผู้เฒ่า"
+   },
+   "kin": [
+    {
+     "to": "kakiniit",
+     "as": "The practice.",
+     "rel": "tradition"
+    },
+    {
+     "to": "revival",
+     "as": "The pattern.",
+     "rel": "story"
+    }
+   ],
+   "sources": [
+    "s:wp-kakiniit"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "women",
+    "revival"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "milne-shans",
+   "type": "person",
+   "names": {
+    "name": "Leslie Milne",
+    "said": "Shans at Home, 1910 — and she quotes the boys' friends"
+   },
+   "region": [
+    "lanna",
+    "mainland-southeast-asia"
+   ],
+   "facets": {
+    "role": "recorder"
+   },
+   "when": {
+    "from": 1860,
+    "to": 1932,
+    "circa": true,
+    "label": "Shans at Home, London, 1910"
+   },
+   "text": {
+    "what": "The ethnographer who lived among the northern Shan and published the leg-tattoo account this site leans on.",
+    "story": "Milne's book is of its period, but she stayed and she listened. The passage on tattooing carries the only direct speech this site has from inside a session: the friends sitting round the boy afterwards, telling him not to scratch, that he wriggles too much, that no girl will admire a spoiled pattern.\n\n*Inference —* that is three sentences of what people actually said, which is more than the entire administrative record of the same decade contains."
+   },
+   "text_th": {
+    "what": "นักชาติพันธุ์วิทยาที่อยู่กับชาวไทใหญ่ทางเหนือ และเขียนเรื่องลายขาที่เว็บนี้อ้างอิง"
+   },
+   "kin": [
+    {
+     "to": "shan-tattooing",
+     "as": "What she described.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:milne-shans"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:milne-shans"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "colonial-record",
+    "women"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "shan-tattooing",
+     "type": "tradition",
+     "name": "Shan leg tattooing",
+     "as": "Who wrote it down, and stayed long enough to quote the boys' friends."
+    },
+    {
+     "from": "legs",
+     "type": "story",
+     "name": "The leg-tattoo zone",
+     "as": "Whose sentence this turns on."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "rabali",
+   "type": "person",
+   "names": {
+    "name": "Rabali",
+    "local": "Rabali",
+    "local_lang": "Fijian",
+    "said": "The last recorded dauveiqia, tattooing 1908–1910"
+   },
+   "region": [
+    "oceania"
+   ],
+   "facets": {
+    "role": "practitioner"
+   },
+   "when": {
+    "from": 1908,
+    "to": 1910,
+    "label": "The last recorded working years"
+   },
+   "text": {
+    "what": "The Fijian tattooist recorded as still working between 1908 and 1910, when she was the only one left.",
+    "story": "A tradition that ends usually ends without a date. This one has two years and a name, and that is why it sits on this site as a record rather than as a lament."
+   },
+   "text_th": {
+    "what": "ช่างสักหญิงชาวฟิจิที่มีบันทึกว่ายังทำงานระหว่างปี 1908–1910 ตอนที่เหลือเธอคนเดียว"
+   },
+   "kin": [
+    {
+     "to": "veiqia",
+     "as": "The practice.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:wp-veiqia"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-veiqia"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "women"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "saya-chein",
+   "type": "person",
+   "names": {
+    "name": "Saya Chein",
+    "said": "Fifteen figures in a little over half an hour"
+   },
+   "region": [
+    "mainland-southeast-asia"
+   ],
+   "facets": {
+    "role": "practitioner"
+   },
+   "when": {
+    "from": 1870,
+    "to": 1890,
+    "circa": true,
+    "label": "Working when Shway Yoe was writing"
+   },
+   "text": {
+    "what": "A Burmese tattooist named in passing in 1882 — the only working *saya* of the period this site can put a name to.",
+    "story": "Shway Yoe: \"I have had fifteen figures done in little over half an hour. But then Saya Chein is a celebrated man.\"\n\nThat is the whole of the record. A rate, a reputation, a name, and nothing else — no dates, no village, no line of teachers. *Inference —* set that beside the Chiang Mai operation that publishes seventeen masters with their teachers, their temples and their years in the robe, and the difference is not that one tradition kept records. It is that one of them is still alive to keep them."
+   },
+   "text_th": {
+    "what": "ช่างสักพม่าที่ถูกเอ่ยชื่อผ่านๆ ในปี 1882 และเป็นช่างในยุคนั้นคนเดียวที่เว็บนี้เรียกชื่อได้"
+   },
+   "kin": [
+    {
+     "to": "htoe-kwin",
+     "as": "His work.",
+     "rel": "tradition"
+    },
+    {
+     "to": "sak-yant-chiang-mai",
+     "as": "What a recorded lineage looks like when the tradition is still running.",
+     "rel": "org"
+    }
+   ],
+   "sources": [
+    "s:shway-yoe"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:shway-yoe"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "colonial-record"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "shway-yoe",
+   "type": "person",
+   "names": {
+    "name": "Shway Yoe",
+    "aliases": [
+     "Sir James George Scott"
+    ],
+    "said": "A colonial officer writing under a Burmese pen name"
+   },
+   "region": [
+    "mainland-southeast-asia"
+   ],
+   "facets": {
+    "role": "recorder"
+   },
+   "when": {
+    "from": 1851,
+    "to": 1935,
+    "label": "The Burman: His Life and Notions, 1882"
+   },
+   "text": {
+    "what": "The Scottish administrator who wrote the fullest English description of Burmese tattooing, under a Burmese pen name, in 1882.",
+    "story": "James George Scott went to Burma as a journalist, stayed as an administrator, and published *The Burman: His Life and Notions* as \"Shway Yoe\" — a Burmese name, on a book about Burmese life, by a man who then spent decades extending British rule over the Shan States and compiling the *Gazetteer of Upper Burma* that this site also quotes.\n\nThe chapter on tattooing is the best single source on the *htoe kwin* in English. It is also written by the administration. Both of those are true at once, and this site cites the detail while naming the hand.\n\n*Inference —* the pen name is the thing to keep in view. A book that speaks as a Burman, written by the officer annexing the Shan States, is the whole problem of the colonial record in one byline."
+   },
+   "text_th": {
+    "what": "ข้าราชการชาวสก็อตผู้เขียนคำบรรยายการสักของพม่าที่ละเอียดที่สุดในภาษาอังกฤษ ภายใต้นามปากกาพม่า เมื่อปี 1882"
+   },
+   "kin": [
+    {
+     "to": "htoe-kwin",
+     "as": "What he described.",
+     "rel": "tradition"
+    },
+    {
+     "to": "who-wrote-it-down",
+     "as": "And the problem with it.",
+     "rel": "issue"
+    }
+   ],
+   "sources": [
+    "s:shway-yoe",
+    "s:gazetteer-1"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:shway-yoe"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "colonial-record",
+    "start-here"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "htoe-kwin",
+     "type": "tradition",
+     "name": "Htoe kwin",
+     "as": "Who wrote it down, and what that costs the record."
+    },
+    {
+     "from": "mandalay",
+     "type": "place",
+     "name": "Mandalay",
+     "as": "The observer."
+    },
+    {
+     "from": "who-wrote-it-down",
+     "type": "issue",
+     "name": "Who wrote it down",
+     "as": "The clearest case."
+    }
+   ]
+  },
+  {
+   "schema": 1,
+   "id": "sulu-ape",
+   "type": "person",
+   "names": {
+    "name": "The Sulu'ape line",
+    "local": "Su'a Sulu'ape",
+    "local_lang": "Samoan",
+    "said": "A hereditary title, still held"
+   },
+   "region": [
+    "oceania"
+   ],
+   "facets": {
+    "role": "practitioner"
+   },
+   "text": {
+    "what": "The Samoan master-tattooist titles, held in two families, and carried into the present by name.",
+    "story": "Su'a Sulu'ape Paulo II's work and life were photographed by Mark Adams; his brother Su'a Sulu'ape Petelo works at Faleasi'u on Upolu. The titles are hereditary and the *tufuga* who hold them have tattooed Tongan and Fijian chiefly families as well as Samoan ones."
+   },
+   "text_th": {
+    "what": "ตำแหน่งช่างสักชั้นครูของซามัว สืบทอดในสองตระกูล และยังมีผู้ถือตำแหน่งอยู่"
+   },
+   "kin": [
+    {
+     "to": "tatau",
+     "as": "The practice.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:wp-pe-a"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-pe-a"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "truhelka-gluck",
+   "type": "person",
+   "names": {
+    "name": "Truhelka and Glück",
+    "said": "An archaeologist who drew it and a doctor who published it, 1894"
+   },
+   "region": [
+    "europe"
+   ],
+   "facets": {
+    "role": "recorder"
+   },
+   "when": {
+    "from": 1894,
+    "to": 1900,
+    "label": "Vienna, 1894"
+   },
+   "text": {
+    "what": "The two men who recorded Bosnian sicanje in the 1890s: Ćiro Truhelka, who illustrated the designs, and Leopold Glück, who published the paper.",
+    "story": "Glück's title says exactly what it is: *Die Tätowirung der Haut bei den Katholiken Bosniens und der Herzegowina*, Vienna, 1894. A doctor and an archaeologist, writing for an Austro-Hungarian readership about the people their empire had just occupied.\n\n*Inference —* that pairing recurs across this whole site. The professions that produced the record are medicine, administration and archaeology, which is why so much of it reads as measurement of a body rather than description of a practice."
+   },
+   "kin": [
+    {
+     "to": "sicanje",
+     "as": "What they recorded.",
+     "rel": "tradition"
+    },
+    {
+     "to": "who-wrote-it-down",
+     "as": "The pattern.",
+     "rel": "issue"
+    }
+   ],
+   "sources": [
+    "s:wp-sicanje"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-sicanje"
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "colonial-record"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "whang-od",
+   "type": "person",
+   "names": {
+    "name": "Whang-od Oggay",
+    "local": "Whang-od",
+    "local_lang": "Butbut Kalinga",
+    "said": "Mambabatok, Buscalan"
+   },
+   "region": [
+    "island-southeast-asia"
+   ],
+   "facets": {
+    "role": "practitioner"
+   },
+   "when": {
+    "from": 1917,
+    "to": 2026,
+    "circa": true,
+    "label": "Tattooing since about fifteen"
+   },
+   "text": {
+    "what": "The Kalinga *mambabatok* everyone has heard of, tapping in Buscalan since she was about fifteen.",
+    "story": "She learned from her father, and that was already an exception: only men with tattooing ancestry were supposed to learn. Her own apprentices are women, which is a second exception, and her community accepted it.\n\nShe tattooed headhunters who had earned the marks. She never married and has no children, and under the inheritance rule that would end the line — which is why the apprentices matter and why she chose them the way she did.",
+    "notes": "Buscalan now receives a stream of visitors who come to be tattooed by her. Whether that is a living tradition or a queue is argued about by people who live there, and this site does not adjudicate it."
+   },
+   "text_th": {
+    "what": "ช่างสักกาลิงกาที่ทุกคนรู้จัก ตอกลายอยู่ที่หมู่บ้านบุสกาลันตั้งแต่อายุราวสิบห้า"
+   },
+   "kin": [
+    {
+     "to": "batok",
+     "as": "The tradition.",
+     "rel": "tradition"
+    },
+    {
+     "to": "buscalan",
+     "as": "The village.",
+     "rel": "place"
+    }
+   ],
+   "links": [
+    {
+     "label": "Whang-od",
+     "url": "https://en.wikipedia.org/wiki/Whang-od"
+    }
+   ],
+   "sources": [
+    "s:wp-whang-od",
+    "s:wp-whang-od-academy"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-whang-od"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "women",
+    "start-here"
+   ],
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "whang-od/whang-od-fang-od.jpg",
+     "source": "commons",
+     "title": "File:Fang-od.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Fang-od.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AFang-od.jpg",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/",
+     "author": "daryl duhay",
+     "credit": "https://www.flickr.com/photos/dudsduhay/8596564261/",
+     "alt": "the last baok (tattoo) artist of kalinga",
+     "date": "2013-03-24 12:35:30",
+     "primary": true,
+     "sha256": "60889605a6e767a9ff3e4b4ba2f268996383db986bf4d14837b802c3116295d1"
+    },
+    {
+     "file": "whang-od/whang-od-whang-od-tattooing.jpg",
+     "source": "commons",
+     "title": "File:Whang-od tattooing.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Whang-od_tattooing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AWhang-od_tattooing.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Mawg64",
+     "credit": "Own work",
+     "alt": "Whang-od tattooing.",
+     "date": "2016-07-28",
+     "primary": false,
+     "sha256": "dde3939dc10cfe1c4686181cc328460f3907c27a220ea750ca27f669ca1c8de2"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "batok",
+     "type": "tradition",
+     "name": "Batok",
+     "as": "Who is still doing it."
+    },
+    {
+     "from": "kalinga-cordillera",
+     "type": "tradition",
+     "name": "Cordilleran whatok",
+     "as": "The practitioner everyone has heard of."
+    },
+    {
+     "from": "buscalan",
+     "type": "place",
+     "name": "Buscalan",
+     "as": "Who works there."
+    },
+    {
+     "from": "whose-designs",
+     "type": "issue",
+     "name": "Whose designs",
+     "as": "And where it was changed, from inside."
+    }
+   ]
+  }
+ ]
+}

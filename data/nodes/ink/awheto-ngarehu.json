@@ -1,0 +1,39 @@
+{
+ "schema": 1,
+ "id": "awheto-ngarehu",
+ "type": "ink",
+ "names": {
+  "name": "Awheto and ngarehu",
+  "local": "awheto",
+  "local_lang": "Māori",
+  "said": "Caterpillar fungus for the body, burnt timber for the face"
+ },
+ "region": [
+  "oceania"
+ ],
+ "facets": {
+  "colour": "black"
+ },
+ "text": {
+  "what": "Two pigments for two jobs: *awheto*, a caterpillar fungus, for the body; *ngarehu*, burnt timber, for the darker face colour.",
+  "story": "Soot from burnt kauri gum, mixed with fat, was used as well. The pigment was kept in carved *oko* vessels, buried between uses and handed on."
+ },
+ "kin": [
+  {
+   "to": "ta-moko",
+   "as": "Where it goes.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:wp-t-moko"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-t-moko"
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-19"
+}

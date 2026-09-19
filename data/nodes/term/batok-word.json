@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "id": "batok-word",
+ "type": "term",
+ "names": {
+  "name": "batok",
+  "local": "batok",
+  "local_lang": "Visayan / Kalinga",
+  "said": "batok"
+ },
+ "etymology": {
+  "root": "From Proto-Austronesian *beCik, tattoo, with relatives *patik, mottled, and *burik, speckled — the word for a pattern, applied to skin, cloth and pot alike.",
+  "tier": "cited",
+  "source": "s:wp-batok"
+ },
+ "region": [
+  "island-southeast-asia"
+ ],
+ "facets": {
+  "means": "pattern"
+ },
+ "text": {
+  "what": "From Proto-Austronesian *beCik, tattoo, with relatives *patik, mottled, and *burik, speckled — the word for a pattern, applied to skin, cloth and pot alike."
+ },
+ "text_th": {
+  "what": "จากรากออสโตรนีเซียนดั้งเดิม แปลว่าลาย ใช้กับผิวหนัง ผ้า และหม้อเหมือนกัน"
+ },
+ "sources": [
+  "s:wp-batok"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-batok"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [],
+ "updated": "2026-09-19"
+}

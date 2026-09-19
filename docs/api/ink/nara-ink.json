@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "id": "nara-ink",
+ "type": "ink",
+ "names": {
+  "name": "Nara ink",
+  "local": "墨",
+  "local_lang": "Japanese",
+  "said": "The ink that goes grey-blue under skin"
+ },
+ "region": [
+  "east-asia"
+ ],
+ "facets": {
+  "colour": "blue-black"
+ },
+ "text": {
+  "what": "The ink used in Japanese hand tattooing, which reads blue-grey under the skin rather than flat black.",
+  "story": "It is the pigment the whole look depends on: the graded washes of a full back piece are a property of this ink worked at this angle."
+ },
+ "kin": [
+  {
+   "to": "irezumi",
+   "as": "Where it goes.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:wp-irezumi"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-irezumi"
+  }
+ },
+ "confidence": "medium",
+ "updated": "2026-09-19",
+ "kin_in": []
+}

@@ -1,0 +1,75 @@
+{
+ "schema": 1,
+ "id": "cook-1769",
+ "type": "story",
+ "names": {
+  "name": "How the word got in",
+  "said": "Tahiti, 1769 — tatau becomes tattoo"
+ },
+ "region": [
+  "oceania"
+ ],
+ "facets": {
+  "era": "colonial"
+ },
+ "when": {
+  "from": 1769,
+  "to": 1774,
+  "label": "Cook's first voyage, and Mai in London"
+ },
+ "text": {
+  "what": "English had no single word for the practice until Cook's crew brought one back from Polynesia.",
+  "story": "*Tatau* went into English as *tattoo* and swallowed everything else. Every tradition on this site is now described in English with a Samoan word, including the ones that had their own perfectly good nouns: *irezumi*, *godna*, *deq*, *kakiniq*, *sak*.\n\n*Inference —* that is not only a linguistic accident. It is why the English-language record treats Pacific tattooing as the default case and everything else as a variation on it, and it is visible in the coverage count on this site: the traditions with the most language editions written about them are mostly the ones the eighteenth-century voyages reached first."
+ },
+ "text_th": {
+  "what": "ภาษาอังกฤษไม่มีคำเดียวสำหรับสิ่งนี้ จนลูกเรือของคุกนำคำกลับมาจากโพลินีเซีย"
+ },
+ "kin": [
+  {
+   "to": "tatau",
+   "as": "The word.",
+   "rel": "tradition"
+  },
+  {
+   "to": "coverage",
+   "as": "And what it did to the record.",
+   "rel": "story"
+  }
+ ],
+ "sources": [
+  "s:wp-james-cook",
+  "s:wp-pe-a",
+  "s:wp-joseph-banks"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-pe-a"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "colonial-record"
+ ],
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "tatau",
+   "type": "tradition",
+   "name": "Tatau",
+   "as": "How the word got into English."
+  },
+  {
+   "from": "coverage",
+   "type": "story",
+   "name": "Who gets written about",
+   "as": "Why the English-language record is shaped this way."
+  }
+ ]
+}

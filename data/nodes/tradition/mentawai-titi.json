@@ -1,0 +1,115 @@
+{
+ "schema": 1,
+ "id": "mentawai-titi",
+ "type": "tradition",
+ "names": {
+  "name": "Mentawai titi",
+  "local": "titi",
+  "local_lang": "Mentawai",
+  "said": "Lines following the body, put on across a life"
+ },
+ "region": [
+  "island-southeast-asia"
+ ],
+ "facets": {
+  "family": "tap",
+  "status": "thinning"
+ },
+ "when": {
+  "from": 1850,
+  "to": 2026,
+  "circa": true,
+  "label": "Still carried by elders on Siberut"
+ },
+ "practice": {
+  "method": "tap",
+  "ink": "soot-water",
+  "placement": [
+   "arms",
+   "chest",
+   "back",
+   "legs",
+   "hands"
+  ],
+  "marked": "both",
+  "marks": "specialist",
+  "status": "thinning",
+  "countries": [
+   "ID"
+  ],
+  "first_record": 1900,
+  "note": "Put on in stages through a life rather than in one commitment."
+ },
+ "text": {
+  "what": "The Mentawai islands, west of Sumatra: long lines laid along arms, chest and legs, added to at each stage of a life.",
+  "story": "*Inference —* the Mentawai case is the clearest example of a pattern this site keeps meeting: a tradition is called dying for a century and is still there, thinner, with the elders carrying it and the state having spent decades discouraging it."
+ },
+ "text_th": {
+  "what": "หมู่เกาะเมินตาไว ตะวันตกของสุมาตรา เส้นยาวตามแขน อก และขา เพิ่มทีละช่วงของชีวิต"
+ },
+ "links": [
+  {
+   "label": "Mentawai people",
+   "url": "https://en.wikipedia.org/wiki/Mentawai_people"
+  }
+ ],
+ "sources": [
+  "s:wp-mentawai-people"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-mentawai-people"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "tags": [
+  "initiation"
+ ],
+ "images": [
+  {
+   "file": "mentawai-titi/mentawai-titi-sikerei-full-body-portrait-traditional-tattoos-waterfall.jpg",
+   "source": "commons",
+   "title": "File:Sikerei-full-body-portrait-traditional-tattoos-waterfall.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Sikerei-full-body-portrait-traditional-tattoos-waterfall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ASikerei-full-body-portrait-traditional-tattoos-waterfall.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Andrian salis",
+   "credit": "Own work",
+   "alt": "Portrait of a Sikerei (Mentawai shaman) displaying traditional full-body tattoos, Siberut Island.",
+   "date": "2026-08-22",
+   "primary": true,
+   "sha256": "5dd17071a6ff5cb65af75022cad19772bb44b096d06c0d7e1647682baae560cc"
+  },
+  {
+   "file": "mentawai-titi/mentawai-titi-tato-mentawai.jpg",
+   "source": "commons",
+   "title": "File:Tato mentawai.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Tato_mentawai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ATato_mentawai.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Adhmi",
+   "credit": "Own work",
+   "alt": "Sikerei sedang membuat tato mentawai",
+   "date": "2021-12-20 19:59:11",
+   "primary": false,
+   "sha256": "1d68622c04c6defe4d4709d89bcdd528c8878e7e2282250190a5ad712a159f76"
+  }
+ ],
+ "geo": {
+  "lat": -1.4,
+  "lon": 99.0,
+  "precision": "region",
+  "source": "s:commons"
+ },
+ "updated": "2026-09-19"
+}

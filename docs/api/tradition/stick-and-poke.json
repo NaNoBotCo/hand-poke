@@ -1,0 +1,129 @@
+{
+ "schema": 1,
+ "id": "stick-and-poke",
+ "type": "tradition",
+ "names": {
+  "name": "Stick and poke",
+  "aliases": [
+   "hand-poke",
+   "handpoke",
+   "prison tattoo"
+  ],
+  "said": "A needle, a thread of pigment, and no machine"
+ },
+ "region": [
+  "worldwide"
+ ],
+ "facets": {
+  "family": "poke",
+  "status": "living"
+ },
+ "when": {
+  "from": 1970,
+  "to": 2026,
+  "label": "The contemporary hand-poke scene, and its prison ancestor"
+ },
+ "practice": {
+  "method": "poke",
+  "ink": "pen-ink",
+  "placement": [
+   "arms",
+   "hands",
+   "legs",
+   "chest"
+  ],
+  "marked": "both",
+  "marks": "either",
+  "status": "living",
+  "countries": [
+   "US",
+   "GB",
+   "DE",
+   "FR",
+   "JP",
+   "TH",
+   "AU",
+   "CA"
+  ],
+  "first_record": 1970,
+  "note": "A sewing needle with thread wound round it, or a professional cartridge held in a stabiliser pen."
+ },
+ "text": {
+  "what": "The one everybody has seen: a needle, ink, no machine — punk kitchens, prisons, and now studios that do nothing else.",
+  "story": "Two lineages meet here and they are not the same thing. One is improvised: a sewing needle or a safety pin, ballpoint ink, done by a friend, associated with prisons and with people too young to be tattooed legally. The other is professional hand-poke, done with medical needles in a studio, which is now a standing style with its own practitioners.\n\n*Inference —* this site lists it as a tradition because it is one, and because the same word covers both ends of it. The difference between the two is not the method; it is whether the needle is sterile and whether the person holding it has been taught."
+ },
+ "text_th": {
+  "what": "แบบที่ทุกคนเคยเห็น เข็ม หมึก ไม่มีเครื่อง ทั้งในครัวพังก์ ในเรือนจำ และในร้านที่ทำแต่แบบนี้"
+ },
+ "kin": [
+  {
+   "to": "machine",
+   "as": "What it is defined against.",
+   "rel": "method"
+  },
+  {
+   "to": "what-counts",
+   "as": "And the question that gets asked about it.",
+   "rel": "issue"
+  }
+ ],
+ "links": [
+  {
+   "label": "Stick and poke",
+   "url": "https://en.wikipedia.org/wiki/Stick_and_poke"
+  }
+ ],
+ "sources": [
+  "s:wp-stick-and-poke",
+  "s:wp-prison-tattooing",
+  "s:wp-russian-criminal-tattoos"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-stick-and-poke"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "start-here"
+ ],
+ "images": [
+  {
+   "file": "stick-and-poke/stick-and-poke-404-sak-yant-tattoo-16.jpg",
+   "source": "commons",
+   "title": "File:404 Sak Yant Tattoo (16).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/404_Sak_Yant_Tattoo_%2816%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A404_Sak_Yant_Tattoo_%2816%29.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Lychiang",
+   "credit": "Own work",
+   "alt": "404 Sak Yant Tattoo (16)",
+   "date": "2006-04-29 15:50:54",
+   "primary": true,
+   "sha256": "f2da4554196e68afdf20c6aa8d5691b4b81d6a924fcbce6a851da7c2c70255dc"
+  }
+ ],
+ "geo": {
+  "lat": 51.5,
+  "lon": -0.12,
+  "precision": "region",
+  "source": "s:commons"
+ },
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "pen-ink",
+   "type": "ink",
+   "name": "Pen ink",
+   "as": "Where it goes."
+  }
+ ]
+}

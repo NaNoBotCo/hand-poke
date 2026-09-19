@@ -1,0 +1,97 @@
+{
+ "schema": 1,
+ "id": "murals",
+ "type": "art",
+ "names": {
+  "name": "The murals",
+  "th": "จิตรกรรมฝาผนัง",
+  "said": "What a painting of a tattoo is evidence of"
+ },
+ "region": [
+  "lanna"
+ ],
+ "facets": {
+  "kind": "mural"
+ },
+ "when": {
+  "from": 1800,
+  "to": 1900,
+  "circa": true,
+  "label": "Nineteenth-century Lanna temple painting"
+ },
+ "text": {
+  "what": "Northern temple walls carry men with marked legs and torsos, painted by people who saw them daily.",
+  "story": "The Lanna volume rests its case on exactly this: the evidence for the custom is the murals in important temples, which show men tattooed until they look dressed.\n\n*Inference —* a mural is good evidence for three things — that the custom existed, roughly what area of the body it covered, and that it was ordinary enough to paint without comment. It is weak evidence for the designs themselves: painters simplify, and a wall painted with a hundred figures is not a pattern book. This site reads the murals for extent and does not read them for detail."
+ },
+ "text_th": {
+  "what": "ผนังวัดทางเหนือมีภาพชายที่มีลายบนขาและลำตัว วาดโดยคนที่เห็นของจริงทุกวัน",
+  "story": "*อนุมาน —* จิตรกรรมเป็นหลักฐานที่ดีสำหรับสามเรื่อง คือธรรมเนียมนี้มีจริง คลุมร่างกายราวไหน และเป็นเรื่องธรรมดาพอที่จะวาดโดยไม่ต้องอธิบาย แต่อ่อนสำหรับตัวลายเอง"
+ },
+ "kin": [
+  {
+   "to": "wat-phumin",
+   "as": "The best-known wall.",
+   "rel": "place"
+  },
+  {
+   "to": "sak-kha-lai",
+   "as": "What it shows.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:ms6968",
+  "s:thwp-จ-ตรกรรมฝาผน-ง",
+  "s:wp-wat-phumin"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:ms6968"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "lanna",
+  "start-here"
+ ],
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "murals/murals-peinture-murale-wat-phumin-nan.jpg",
+   "source": "commons",
+   "title": "File:Peinture murale Wat Phumin, Nan.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Peinture_murale_Wat_Phumin%2C_Nan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APeinture_murale_Wat_Phumin%2C_Nan.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Ellnik",
+   "credit": "Own work",
+   "alt": "Peinture_murale_Wat_Phumin,_Nan.JPG",
+   "date": "2007-05-11",
+   "primary": true,
+   "sha256": "24c30908650db2d1e6d137e8d8f6c8549fc73e6e806d58304a09b31dea42d34f"
+  },
+  {
+   "file": "murals/murals-wat-phumin-2018-07-30-20.jpg",
+   "source": "commons",
+   "title": "File:Wat Phumin 2018-07-30 (20).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Wat_Phumin_2018-07-30_%2820%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AWat_Phumin_2018-07-30_%2820%29.jpg",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "author": "Index Librorum Permissorum",
+   "credit": "Own work",
+   "alt": "Mural painting of Thai women working and smoking at Wat Phumin, a Buddhist temple in Nan province, Thailand.",
+   "date": "2018-07-30 09:47:54",
+   "primary": false,
+   "sha256": "88347edec998a6b19ba31b4e56f88b263675bb7e59e1349befc78957a219d1ca"
+  }
+ ]
+}

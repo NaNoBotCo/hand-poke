@@ -1,0 +1,56 @@
+{
+ "schema": 1,
+ "id": "kho-ham",
+ "type": "rite",
+ "names": {
+  "name": "The rules",
+  "th": "ข้อห้าม",
+  "rtgs": "kho ham",
+  "said": "What the bearer keeps afterwards, or the mark stops working"
+ },
+ "region": [
+  "mainland-southeast-asia"
+ ],
+ "facets": {
+  "family": "poke"
+ },
+ "text": {
+  "what": "A yant works while its bearer keeps the rules that came with it — most often a list of foods not eaten and things not done.",
+  "story": "The condition is the structure. A tattoo that has to be maintained by conduct is a contract with a term, and it explains why these traditions can be strict about who receives what: the mark is the easy part and the keeping is the rest of it.\n\nThe same logic runs through the Burmese charms, which are renewed when they fade, and through the Fijian and Samoan fee, which is paid before the work rather than after."
+ },
+ "text_th": {
+  "what": "ยันต์ทำงานตราบที่ผู้รับถือข้อห้ามที่มากับมัน ส่วนใหญ่คือของแสลงและสิ่งที่ห้ามทำ"
+ },
+ "kin": [
+  {
+   "to": "sak-yant",
+   "as": "Where the rules attach.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:wp-yantra-tattooing"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-yantra-tattooing"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "sak-yant",
+   "type": "tradition",
+   "name": "Sak yant",
+   "as": "The rules that come with it, and what happens if they are broken."
+  }
+ ]
+}

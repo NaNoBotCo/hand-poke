@@ -1,0 +1,577 @@
+{
+ "type": "motif",
+ "count": 10,
+ "nodes": [
+  {
+   "schema": 1,
+   "id": "bungai-terung",
+   "type": "motif",
+   "names": {
+    "name": "The aubergine flower"
+   },
+   "region": [
+    "island-southeast-asia"
+   ],
+   "facets": {
+    "does": "passage"
+   },
+   "mark": {
+    "does": "*Bungai terung*, worn on each shoulder when a young Iban man leaves home on his journey.",
+    "where": [
+     "chest",
+     "arms"
+    ],
+    "earned": false
+   },
+   "text": {
+    "what": "*Bungai terung*, worn on each shoulder when a young Iban man leaves home on his journey.",
+    "story": "A spiral at the centre stands for the tendril of a pumpkin plant; the mark is put on before the journey, not after it. A tattoo that anticipates rather than records."
+   },
+   "text_th": {
+    "what": "ดอกมะเขือ สวมที่ไหล่ทั้งสองข้างเมื่อชายหนุ่มอิบันออกเดินทางจากบ้าน"
+   },
+   "kin": [
+    {
+     "to": "iban-borneo",
+     "as": "The tradition it belongs to.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:wp-iban-people"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-iban-people"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [],
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "cat-monkey",
+   "type": "motif",
+   "names": {
+    "name": "Cats and monkeys"
+   },
+   "region": [
+    "mainland-southeast-asia"
+   ],
+   "facets": {
+    "does": "protect"
+   },
+   "mark": {
+    "does": "The two commonest figures on a Burmese thigh, named in the same breath as tigers and elephants.",
+    "where": [
+     "thighs"
+    ],
+    "earned": false
+   },
+   "text": {
+    "what": "The two commonest figures on a Burmese thigh, named in the same breath as tigers and elephants.",
+    "story": "The name of the animal is often written inside the figure as well, which Shway Yoe compares, drily, to a child labelling a drawing."
+   },
+   "text_th": {
+    "what": "สองรูปที่พบบ่อยที่สุดบนต้นขาชายพม่า ถูกเอ่ยพร้อมเสือและช้าง"
+   },
+   "kin": [
+    {
+     "to": "htoe-kwin",
+     "as": "The tradition it belongs to.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:shway-yoe",
+    "s:wp-tattooing-in-myanmar"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:shway-yoe"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [],
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "chin-grid",
+   "type": "motif",
+   "names": {
+    "name": "The face grids"
+   },
+   "region": [
+    "mainland-southeast-asia"
+   ],
+   "facets": {
+    "does": "belonging"
+   },
+   "mark": {
+    "does": "Lines, dots, and combinations of both, arranged differently by each Chin group.",
+    "where": [
+     "face"
+    ],
+    "earned": false
+   },
+   "text": {
+    "what": "Lines, dots, and combinations of both, arranged differently by each Chin group.",
+    "story": "Full face, part face, all dots, vertical lines with dots, stars on cheek and forehead. Sixty sub-groups, and the design is the group's name written where nobody can mistake it."
+   },
+   "text_th": {
+    "what": "เส้น จุด และการผสมกัน จัดวางต่างกันไปตามกลุ่มชาวชิน"
+   },
+   "kin": [
+    {
+     "to": "chin-ming",
+     "as": "The tradition it belongs to.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:wp-chin-people"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-chin-people"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [],
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "framed-animal",
+   "type": "motif",
+   "names": {
+    "name": "The framed animal"
+   },
+   "region": [
+    "mainland-southeast-asia"
+   ],
+   "facets": {
+    "does": "protect"
+   },
+   "mark": {
+    "does": "A tiger, a cat, a monkey, an elephant, a *nat* or a *bilu*, each sitting inside an oval frame of letters.",
+    "where": [
+     "thighs",
+     "legs"
+    ],
+    "earned": false
+   },
+   "text": {
+    "what": "A tiger, a cat, a monkey, an elephant, a *nat* or a *bilu*, each sitting inside an oval frame of letters.",
+    "story": "Shway Yoe: each representation is surrounded by a roughly oval tracery of letters, which forms a curious and remarkably effective frame, so each animal has a setting of its own — and vacant spaces are filled the same way, the top and bottom finished with a scalloped line.\n\nSometimes the letters are said to carry a cabalistic meaning; ordinarily, he says, no more is claimed for them than beauty. The serious charms go elsewhere on the body, usually in vermilion.\n\n*Inference —* the frame is what makes the leg read as cloth. A repeating field of bounded units is a textile pattern; a scene is a picture. These traditions chose the textile."
+   },
+   "text_th": {
+    "what": "เสือ แมว ลิง ช้าง นัต หรือบีลู แต่ละตัวอยู่ในกรอบวงรีที่ทำด้วยตัวอักษร"
+   },
+   "kin": [
+    {
+     "to": "htoe-kwin",
+     "as": "The tradition it belongs to.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:shway-yoe"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:shway-yoe"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [],
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "gayaman",
+   "type": "motif",
+   "names": {
+    "name": "The centipede"
+   },
+   "region": [
+    "island-southeast-asia"
+   ],
+   "facets": {
+    "does": "protect"
+   },
+   "mark": {
+    "does": "The centipede, one of the standing Cordilleran figures, alongside snakes, eagles, ferns, rice grains and mountains.",
+    "where": [
+     "arms",
+     "chest"
+    ],
+    "earned": true
+   },
+   "text": {
+    "what": "The centipede, one of the standing Cordilleran figures, alongside snakes, eagles, ferns, rice grains and mountains.",
+    "story": "The motifs are the motifs of the weaving and the pottery. A tattoo tradition in the Philippines is not a separate art with its own vocabulary; it is the same vocabulary applied to a person."
+   },
+   "text_th": {
+    "what": "ตะขาบ หนึ่งในรูปประจำของคอร์ดิลเยรา ควบคู่กับงู นกอินทรี เฟิร์น เมล็ดข้าว และภูเขา"
+   },
+   "kin": [
+    {
+     "to": "batok",
+     "as": "The tradition it belongs to.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:wp-batok"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-batok"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [],
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "hanuman",
+   "type": "motif",
+   "names": {
+    "name": "Hanuman"
+   },
+   "region": [
+    "mainland-southeast-asia"
+   ],
+   "facets": {
+    "does": "protect"
+   },
+   "mark": {
+    "does": "The monkey general of the Ramakien, and one of the standing figures of Thai yant work.",
+    "where": [
+     "back",
+     "chest",
+     "arms"
+    ],
+    "earned": false
+   },
+   "text": {
+    "what": "The monkey general of the Ramakien, and one of the standing figures of Thai yant work.",
+    "story": "A figure from the epic used as a protective device, in the same family as the Burmese *bilu* and the Shan animal syllables. The figures travel; the grammar around them does not."
+   },
+   "text_th": {
+    "what": "หนุมาน แม่ทัพลิงในรามเกียรติ์ หนึ่งในรูปประจำของงานยันต์ไทย"
+   },
+   "kin": [
+    {
+     "to": "sak-yant",
+     "as": "The tradition it belongs to.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:wp-yantra-tattooing"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-yantra-tattooing"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [],
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "moko-kauae",
+   "type": "motif",
+   "names": {
+    "name": "Moko kauae"
+   },
+   "region": [
+    "oceania"
+   ],
+   "facets": {
+    "does": "belonging"
+   },
+   "mark": {
+    "does": "The Māori chin marking worn by women.",
+    "where": [
+     "chin",
+     "face"
+    ],
+    "earned": true
+   },
+   "text": {
+    "what": "The Māori chin marking worn by women.",
+    "story": "Michael King interviewed more than seventy women in the 1970s who had received it before 1907. Since the 1990s it has been worn by a foreign minister and a prime-time news anchor, which is a change in where the mark is allowed to be seen rather than in the mark."
+   },
+   "text_th": {
+    "what": "รอยที่คางของหญิงชาวเมารี"
+   },
+   "kin": [
+    {
+     "to": "ta-moko",
+     "as": "The tradition it belongs to.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:wp-t-moko"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-t-moko"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [],
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "moko-kauae/moko-kauae-femme-maori-1998-3160-173.jpg",
+     "source": "commons",
+     "title": "File:Femme Maori 1998-3160-173.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Femme_Maori_1998-3160-173.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AFemme_Maori_1998-3160-173.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Non identifié/Unknown",
+     "credit": "Photothèque du Musée de l'Homme via French National Library  URL [1]\nReference No. Cote: 1998-3160-173\nPublication: (Paris): (Photothèque du Musée de l'Homme), (1860-1879)\nDescription matérielle: 30 p",
+     "alt": "Femme Maori (Maori Woman) with tattoo on chin",
+     "date": "between 1860 and 1879date QS:P,+1850-00-",
+     "primary": true,
+     "sha256": "e77e90acdd8c056c0e7ad8baa0b11865e3a925a181d77baf0325e23e80dd59a9"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "mystic-square",
+   "type": "motif",
+   "names": {
+    "name": "The lettered square"
+   },
+   "region": [
+    "lanna"
+   ],
+   "facets": {
+    "does": "protect"
+   },
+   "mark": {
+    "does": "A grid of letters or numerals, read as a formula rather than as a picture.",
+    "where": [
+     "back",
+     "chest",
+     "arms",
+     "legs"
+    ],
+    "earned": false
+   },
+   "text": {
+    "what": "A grid of letters or numerals, read as a formula rather than as a picture.",
+    "story": "The Lanna volume notes which numerals go in: **Burmese numerals**, which the Lanna call *hora* numerals and hold to be the right ones for saiyasat rites, while the Lanna numerals — *lek nai tham* — are kept for inscribing the dhamma. Two number systems, two jobs, on one page and on one body.\n\n*Attested —* the same book says early Lanna took these beliefs from Pagan and then developed its own forms."
+   },
+   "text_th": {
+    "what": "ตารางตัวอักษรหรือตัวเลข อ่านเป็นสูตร ไม่ใช่เป็นภาพ หนังสือล้านนาระบุว่าเลขในตารางยันต์ใช้เลขพม่า ที่ล้านนาเรียกว่าเลขโหรา ส่วนเลขในธรรมใช้กับการจารพระธรรม"
+   },
+   "kin": [
+    {
+     "to": "sak-yant",
+     "as": "The tradition it belongs to.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:ms6968"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:ms6968"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "lanna"
+   ],
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "pilgrim-cross",
+   "type": "motif",
+   "names": {
+    "name": "The pilgrim's cross"
+   },
+   "region": [
+    "west-asia"
+   ],
+   "facets": {
+    "does": "belonging"
+   },
+   "mark": {
+    "does": "A small cross on the inside of the wrist, printed from a carved block and then marked in.",
+    "where": [
+     "hands",
+     "arms"
+    ],
+    "earned": false
+   },
+   "text": {
+    "what": "A small cross on the inside of the wrist, printed from a carved block and then marked in.",
+    "story": "Some of the Razzouk family's blocks are three centuries old, which makes the design older than most of the tattoo machines that now apply it."
+   },
+   "text_th": {
+    "what": "ไม้กางเขนเล็กๆ บนข้อมือด้านใน ประทับจากแม่พิมพ์แกะไม้แล้วจึงลงเข็ม"
+   },
+   "kin": [
+    {
+     "to": "coptic-pilgrim",
+     "as": "The tradition it belongs to.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:wp-razzouk-tattoo"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-razzouk-tattoo"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [],
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "schema": 1,
+   "id": "sedna-hands",
+   "type": "motif",
+   "names": {
+    "name": "Sedna's hands"
+   },
+   "region": [
+    "arctic"
+   ],
+   "facets": {
+    "does": "protect"
+   },
+   "mark": {
+    "does": "Hand and arm marks referring to where the sea goddess's fingers were cut off.",
+    "where": [
+     "hands",
+     "arms"
+    ],
+    "earned": false
+   },
+   "text": {
+    "what": "Hand and arm marks referring to where the sea goddess's fingers were cut off.",
+    "story": "Sedna's severed fingers became the sea animals. A woman without hand marks was refused the good afterlife; one without face marks went to the land of the crestfallen. The marks are a passport as much as an ornament."
+   },
+   "text_th": {
+    "what": "ลายที่มือและแขน อ้างถึงตำแหน่งที่นิ้วของเทพีแห่งทะเลถูกตัด"
+   },
+   "kin": [
+    {
+     "to": "kakiniit",
+     "as": "The tradition it belongs to.",
+     "rel": "tradition"
+    }
+   ],
+   "sources": [
+    "s:wp-kakiniit"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-kakiniit"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [],
+   "updated": "2026-09-19",
+   "kin_in": []
+  }
+ ]
+}

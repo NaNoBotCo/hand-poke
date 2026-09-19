@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Hand Poke: traditions of marking skin by hand"
+message: "If you use this data, cite it as below."
+type: dataset
+authors:
+  - name: "NaN"
+    website: "https://wichaa.net"
+repository-code: "https://github.com/NaNoBotCo/hand-poke"
+url: "https://nanobotco.github.io/hand-poke/"
+license: CC-BY-4.0
+date-released: "2026-09-19"
+keywords:
+  - tattooing
+  - hand-poked tattoo
+  - sak yant
+  - Lanna
+  - Shan
+  - Myanmar
+  - batok
+  - kakiniit

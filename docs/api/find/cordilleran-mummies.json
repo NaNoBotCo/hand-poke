@@ -1,0 +1,56 @@
+{
+ "schema": 1,
+ "id": "cordilleran-mummies",
+ "type": "find",
+ "names": {
+  "name": "The Cordilleran mummies",
+  "said": "Apo Anno and the hanging coffins, from the 13th century"
+ },
+ "region": [
+  "island-southeast-asia"
+ ],
+ "facets": {
+  "era": "ancient"
+ },
+ "when": {
+  "from": 1200,
+  "to": 1500,
+  "circa": true,
+  "label": "Oldest surviving examples from the 13th century"
+ },
+ "text": {
+  "what": "Mummified Cordilleran people in cave and hanging-coffin burials, tattooed, with the designs also carved on the coffins.",
+  "story": "A Kankanaey mummy known as Apo Anno, 700 to 900 years old, is marked even on the soles of the feet and the fingertips. The tattoos are individualised: a woman's arms, a man's whole body.\n\n*Inference —* when the coffin carries the same patterns as the body, the design set is doing more than decorating a person. It identifies them, to whoever opens the coffin."
+ },
+ "text_th": {
+  "what": "ร่างมัมมี่ชาวคอร์ดิลเยราในถ้ำและโลงแขวน มีรอยสัก และลายเดียวกันถูกแกะไว้บนโลง"
+ },
+ "kin": [
+  {
+   "to": "kalinga-cordillera",
+   "as": "The tradition.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:wp-batok"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-batok"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "archaeology"
+ ],
+ "updated": "2026-09-19",
+ "kin_in": []
+}

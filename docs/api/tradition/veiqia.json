@@ -1,0 +1,134 @@
+{
+ "schema": 1,
+ "id": "veiqia",
+ "type": "tradition",
+ "names": {
+  "name": "Veiqia",
+  "local": "veiqia",
+  "local_lang": "Fijian",
+  "aliases": [
+   "weniqia"
+  ],
+  "said": "A woman's marks, by a woman called the dauveiqia"
+ },
+ "region": [
+  "oceania"
+ ],
+ "facets": {
+  "family": "tap",
+  "status": "revived"
+ },
+ "when": {
+  "from": 1700,
+  "to": 2026,
+  "circa": true,
+  "label": "One tattooist left by 1908; revived by an artists' collective in the 2010s"
+ },
+ "practice": {
+  "method": "tap",
+  "ink": "soot-water",
+  "placement": [
+   "thighs",
+   "waist-to-knee"
+  ],
+  "marked": "women",
+  "marks": "women",
+  "status": "revived",
+  "countries": [
+   "FJ"
+  ],
+  "first_record": 1830,
+  "break": [
+   1910,
+   2015
+  ],
+  "revived": 2015,
+  "suppressed_by": "Christian missionaries from the 1830s",
+  "note": "Older women held the expertise; the fee was tapa cloth, whale teeth or a liku skirt."
+ },
+ "text": {
+  "what": "Fiji: girls marked at puberty by older women called *dauveiqia*, paid in tapa cloth and whale teeth.",
+  "story": "By 1908 there was one recorded practitioner left — a woman called Rabali, tattooing until about 1910. That is as close as this site gets to a date for the end of a tradition, and it comes with a name.\n\nThe revival is as precisely dated. The Veiqia Project, a collective of Fijian women artists, took the practice up from the archives and the objects in the 2010s. Samoa's own origin story sends the tatau across from Fiji, which makes the revived practice older than the one that borrowed it."
+ },
+ "text_th": {
+  "what": "ฟิจิ หญิงสาวถูกสักเมื่อเข้าวัยสาวโดยหญิงอาวุโสที่เรียกว่า dauveiqia ค่าจ้างเป็นผ้าตาปาและฟันวาฬ"
+ },
+ "kin": [
+  {
+   "to": "tatau",
+   "as": "Where Samoa says the tools came from.",
+   "rel": "tradition"
+  },
+  {
+   "to": "revival",
+   "as": "The best-dated stop and restart on the site.",
+   "rel": "finding"
+  }
+ ],
+ "links": [
+  {
+   "label": "Veiqia",
+   "url": "https://en.wikipedia.org/wiki/Veiqia"
+  }
+ ],
+ "sources": [
+  "s:wp-veiqia",
+  "s:wp-fiji"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-veiqia"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "women",
+  "revival"
+ ],
+ "geo": {
+  "lat": -17.8,
+  "lon": 178.0,
+  "precision": "region",
+  "source": "s:commons"
+ },
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "tatau",
+   "type": "tradition",
+   "name": "Tatau",
+   "as": "Fiji, where Samoa says it came from — and where only women were marked."
+  },
+  {
+   "from": "who-holds-you",
+   "type": "rite",
+   "name": "Who holds you still",
+   "as": "And where the holders are the other women."
+  },
+  {
+   "from": "rabali",
+   "type": "person",
+   "name": "Rabali",
+   "as": "The practice."
+  },
+  {
+   "from": "revival",
+   "type": "story",
+   "name": "Stopped, and started again",
+   "as": "The clearest one."
+  },
+  {
+   "from": "veiqia-project",
+   "type": "org",
+   "name": "The Veiqia Project",
+   "as": "The practice."
+  }
+ ]
+}

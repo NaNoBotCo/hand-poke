@@ -1,0 +1,59 @@
+{
+ "schema": 1,
+ "id": "khan-tang",
+ "type": "rite",
+ "names": {
+  "name": "Khan tang",
+  "th": "ขันตั้ง",
+  "rtgs": "khan tang",
+  "said": "The teacher's bowl — the Lanna word, where the centre says khan khru"
+ },
+ "region": [
+  "lanna"
+ ],
+ "facets": {
+  "family": "poke"
+ },
+ "text": {
+  "what": "The fee, set by the master, presented in a bowl: flowers, candles, incense, cloth, coins, and whatever else that master's line asks for.",
+  "story": "The Lanna volume gives the word and the mechanism in one line: the man goes to a community master expert in yant tattooing, and there is a teacher's fee, *khan tang*, as the master sets it.\n\n*Khan* is the pedestalled bowl. *Tang* is to set up. The same word covers the offering that opens a course of study in any Lanna craft — which is the tell: **the transaction is not a purchase, it is an enrolment.** Central Thai calls the same thing *khan khru*.\n\nA price list is a different object and it exists too; a Chiang Mai operation publishes one. This site keeps the two apart rather than translating one into the other."
+ },
+ "text_th": {
+  "what": "ค่าครู ครูเป็นผู้กำหนด จัดใส่ขัน ดอกไม้ เทียน ธูป ผ้า เงิน และของอื่นตามสายครูนั้น",
+  "story": "หนังสือล้านนาให้ทั้งคำและกลไกไว้ในบรรทัดเดียว ผู้ชายไปหาครูบาอาจารย์ผู้เชี่ยวชาญการสักยันต์ในชุมชน และมีค่าบูชาครูเรียกว่า *ขันตั้ง* ตามที่ครูกำหนด\n\n*ขัน* คือภาชนะมีเชิง *ตั้ง* คือจัดขึ้น คำเดียวกันนี้ใช้กับการขึ้นครูของงานช่างล้านนาทุกแขนง ซึ่งเป็นจุดสังเกต **นี่ไม่ใช่การซื้อ แต่เป็นการขึ้นครู** ภาคกลางเรียกสิ่งเดียวกันว่าขันครู"
+ },
+ "kin": [
+  {
+   "to": "sak-kha-lai",
+   "as": "The tradition that names it this way.",
+   "rel": "tradition"
+  },
+  {
+   "to": "sak-yant",
+   "as": "And the living one that still collects it.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:ms6968",
+  "s:sycm"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:ms6968"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "lanna",
+  "start-here"
+ ],
+ "updated": "2026-09-19"
+}

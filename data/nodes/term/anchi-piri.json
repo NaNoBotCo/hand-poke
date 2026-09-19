@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "id": "anchi-piri",
+ "type": "term",
+ "names": {
+  "name": "anchi-piri",
+  "local": "アンチピリ",
+  "local_lang": "Ainu",
+  "said": "anchi-piri"
+ },
+ "etymology": {
+  "root": "Obsidian and a cut: the word carries the tool and the wound, and no word for ink.",
+  "tier": "cited",
+  "source": "s:wp-ainu-people"
+ },
+ "region": [
+  "east-asia"
+ ],
+ "facets": {
+  "means": "other"
+ },
+ "text": {
+  "what": "Obsidian and a cut: the word carries the tool and the wound, and no word for ink."
+ },
+ "text_th": {
+  "what": "หินออบซิเดียนกับรอยกรีด คำนี้พาเครื่องมือและบาดแผลมาด้วย แต่ไม่มีคำว่าหมึก"
+ },
+ "sources": [
+  "s:wp-ainu-people"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-ainu-people"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [],
+ "updated": "2026-09-19"
+}

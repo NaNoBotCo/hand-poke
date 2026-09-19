@@ -1,0 +1,67 @@
+{
+ "schema": 1,
+ "id": "stitch",
+ "type": "method",
+ "names": {
+  "name": "Stitch",
+  "th": "ร้อยด้าย",
+  "said": "A threaded needle drawn under the skin, leaving the pigment behind"
+ },
+ "region": [
+  "worldwide"
+ ],
+ "facets": {
+  "family": "stitch"
+ },
+ "text": {
+  "what": "A needle carrying a thread blackened with soot, drawn through the skin so the line of pigment stays where the thread passed.",
+  "story": "Skin stitching is the Arctic method, and it belongs to the same set of hands and the same needle case as the sewing that made the clothing people survived in. Nothing is punctured repeatedly; the line goes in once.\n\nIt is the rarest method on this site — two traditions out of the whole map — and the one that most clearly cannot be done by machine."
+ },
+ "text_th": {
+  "what": "เข็มร้อยด้ายชุบเขม่าลอดใต้ผิวหนัง ทิ้งเส้นสีไว้ตามทางที่ด้ายผ่าน"
+ },
+ "kin": [
+  {
+   "to": "kakiniit",
+   "as": "The tradition that carries it.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:wp-kakiniit"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-kakiniit"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "kakiniit",
+   "type": "tradition",
+   "name": "Kakiniit",
+   "as": "The method, and the only one on this site that uses thread."
+  },
+  {
+   "from": "needle-and-sinew",
+   "type": "tool",
+   "name": "Needle and sinew",
+   "as": "The method."
+  },
+  {
+   "from": "what-counts",
+   "type": "issue",
+   "name": "What counts as hand-poked",
+   "as": "Three."
+  }
+ ]
+}

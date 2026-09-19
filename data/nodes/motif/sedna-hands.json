@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "id": "sedna-hands",
+ "type": "motif",
+ "names": {
+  "name": "Sedna's hands"
+ },
+ "region": [
+  "arctic"
+ ],
+ "facets": {
+  "does": "protect"
+ },
+ "mark": {
+  "does": "Hand and arm marks referring to where the sea goddess's fingers were cut off.",
+  "where": [
+   "hands",
+   "arms"
+  ],
+  "earned": false
+ },
+ "text": {
+  "what": "Hand and arm marks referring to where the sea goddess's fingers were cut off.",
+  "story": "Sedna's severed fingers became the sea animals. A woman without hand marks was refused the good afterlife; one without face marks went to the land of the crestfallen. The marks are a passport as much as an ornament."
+ },
+ "text_th": {
+  "what": "ลายที่มือและแขน อ้างถึงตำแหน่งที่นิ้วของเทพีแห่งทะเลถูกตัด"
+ },
+ "kin": [
+  {
+   "to": "kakiniit",
+   "as": "The tradition it belongs to.",
+   "rel": "tradition"
+  }
+ ],
+ "sources": [
+  "s:wp-kakiniit"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-kakiniit"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [],
+ "updated": "2026-09-19"
+}
