@@ -1,313 +1,314 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-<url><loc>https://nanobotco.github.io/hand-poke/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/about/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/about/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/about/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/about/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/about/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/about/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/all/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/all/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/all/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/all/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/all/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/all/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/art/murals/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/art/murals/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/art/murals/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/art/murals/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/art/murals/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/art/murals/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/art/sample-book/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/art/sample-book/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/art/sample-book/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/art/sample-book/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/art/sample-book/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/art/sample-book/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/art/stencils/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/art/stencils/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/art/stencils/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/art/stencils/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/art/stencils/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/art/stencils/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/body/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/body/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/body/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/body/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/body/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/body/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/clothing/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/clothing/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/clothing/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/clothing/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/clothing/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/clothing/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/counted/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/counted/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/counted/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/counted/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/counted/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/counted/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/coverage/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/coverage/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/coverage/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/coverage/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/coverage/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/coverage/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/depictions/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/depictions/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/depictions/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/depictions/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/depictions/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/depictions/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/designs/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/designs/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/designs/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/designs/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/designs/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/designs/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/evidence/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/evidence/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/evidence/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/evidence/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/evidence/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/evidence/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/find/arku-cave/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/find/arku-cave/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/find/arku-cave/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/find/arku-cave/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/find/arku-cave/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/find/arku-cave/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/find/chinchorro-man/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/find/chinchorro-man/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/find/chinchorro-man/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/find/chinchorro-man/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/find/chinchorro-man/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/find/chinchorro-man/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/find/cordilleran-mummies/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/find/cordilleran-mummies/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/find/cordilleran-mummies/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/find/cordilleran-mummies/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/find/cordilleran-mummies/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/find/cordilleran-mummies/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/find/gebelein/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/find/gebelein/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/find/gebelein/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/find/gebelein/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/find/gebelein/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/find/gebelein/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/find/ice-maiden/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/find/ice-maiden/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/find/ice-maiden/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/find/ice-maiden/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/find/ice-maiden/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/find/ice-maiden/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/find/otzi/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/find/otzi/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/find/otzi/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/find/otzi/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/find/otzi/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/find/otzi/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/find/qilakitsoq/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/find/qilakitsoq/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/find/qilakitsoq/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/find/qilakitsoq/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/find/qilakitsoq/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/find/qilakitsoq/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/ink/awheto-ngarehu/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/ink/awheto-ngarehu/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/ink/awheto-ngarehu/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/ink/awheto-ngarehu/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/ink/awheto-ngarehu/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/ink/awheto-ngarehu/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/ink/indigo/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/ink/indigo/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/ink/indigo/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/ink/indigo/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/ink/indigo/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/ink/indigo/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/ink/lampblack/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/ink/lampblack/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/ink/lampblack/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/ink/lampblack/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/ink/lampblack/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/ink/lampblack/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/ink/nara-ink/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/ink/nara-ink/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/ink/nara-ink/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/ink/nara-ink/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/ink/nara-ink/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/ink/nara-ink/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/ink/pen-ink/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/ink/pen-ink/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/ink/pen-ink/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/ink/pen-ink/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/ink/pen-ink/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/ink/pen-ink/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/ink/soot-honey/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/ink/soot-honey/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/ink/soot-honey/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/ink/soot-honey/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/ink/soot-honey/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/ink/soot-honey/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/ink/soot-milk/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/ink/soot-milk/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/ink/soot-milk/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/ink/soot-milk/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/ink/soot-milk/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/ink/soot-milk/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/ink/soot-water/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/ink/soot-water/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/ink/soot-water/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/ink/soot-water/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/ink/soot-water/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/ink/soot-water/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/ink/vermilion/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/ink/vermilion/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/ink/vermilion/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/ink/vermilion/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/ink/vermilion/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/ink/vermilion/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/inks/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/inks/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/inks/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/inks/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/inks/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/inks/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/issue/the-needle-now/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/issue/the-needle-now/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/issue/the-needle-now/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/issue/the-needle-now/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/issue/the-needle-now/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/issue/the-needle-now/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/issue/the-photographs/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/issue/the-photographs/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/issue/the-photographs/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/issue/the-photographs/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/issue/the-photographs/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/issue/the-photographs/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/issue/what-counts/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/issue/what-counts/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/issue/what-counts/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/issue/what-counts/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/issue/what-counts/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/issue/what-counts/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/issue/who-wrote-it-down/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/issue/who-wrote-it-down/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/issue/who-wrote-it-down/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/issue/who-wrote-it-down/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/issue/who-wrote-it-down/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/issue/who-wrote-it-down/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/issue/whose-designs/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/issue/whose-designs/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/issue/whose-designs/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/issue/whose-designs/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/issue/whose-designs/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/issue/whose-designs/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/keepers/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/keepers/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/keepers/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/keepers/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/keepers/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/keepers/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/legs/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/legs/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/legs/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/legs/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/legs/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/legs/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/map/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/map/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/map/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/map/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/map/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/map/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/method/cut/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/method/cut/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/method/cut/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/method/cut/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/method/cut/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/method/cut/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/method/machine/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/method/machine/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/method/machine/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/method/machine/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/method/machine/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/method/machine/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/method/poke/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/method/poke/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/method/poke/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/method/poke/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/method/poke/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/method/poke/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/method/stitch/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/method/stitch/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/method/stitch/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/method/stitch/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/method/stitch/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/method/stitch/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/method/tap/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/method/tap/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/method/tap/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/method/tap/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/method/tap/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/method/tap/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/methods/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/methods/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/methods/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/methods/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/methods/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/methods/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/motif/bungai-terung/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/motif/bungai-terung/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/motif/bungai-terung/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/motif/bungai-terung/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/motif/bungai-terung/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/motif/bungai-terung/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/motif/cat-monkey/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/motif/cat-monkey/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/motif/cat-monkey/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/motif/cat-monkey/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/motif/cat-monkey/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/motif/cat-monkey/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/motif/chin-grid/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/motif/chin-grid/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/motif/chin-grid/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/motif/chin-grid/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/motif/chin-grid/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/motif/chin-grid/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/motif/framed-animal/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/motif/framed-animal/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/motif/framed-animal/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/motif/framed-animal/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/motif/framed-animal/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/motif/framed-animal/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/motif/gayaman/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/motif/gayaman/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/motif/gayaman/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/motif/gayaman/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/motif/gayaman/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/motif/gayaman/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/motif/hanuman/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/motif/hanuman/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/motif/hanuman/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/motif/hanuman/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/motif/hanuman/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/motif/hanuman/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/motif/moko-kauae/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/motif/moko-kauae/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/motif/moko-kauae/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/motif/moko-kauae/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/motif/moko-kauae/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/motif/moko-kauae/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/motif/mystic-square/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/motif/mystic-square/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/motif/mystic-square/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/motif/mystic-square/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/motif/mystic-square/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/motif/mystic-square/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/motif/pilgrim-cross/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/motif/pilgrim-cross/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/motif/pilgrim-cross/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/motif/pilgrim-cross/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/motif/pilgrim-cross/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/motif/pilgrim-cross/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/motif/sedna-hands/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/motif/sedna-hands/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/motif/sedna-hands/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/motif/sedna-hands/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/motif/sedna-hands/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/motif/sedna-hands/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/org/sak-yant-chiang-mai/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/org/sak-yant-chiang-mai/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/org/sak-yant-chiang-mai/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/org/sak-yant-chiang-mai/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/org/sak-yant-chiang-mai/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/org/sak-yant-chiang-mai/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/org/veiqia-project/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/org/veiqia-project/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/org/veiqia-project/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/org/veiqia-project/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/org/veiqia-project/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/org/veiqia-project/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/org/wichaa/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/org/wichaa/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/org/wichaa/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/org/wichaa/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/org/wichaa/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/org/wichaa/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/people/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/people/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/people/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/people/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/people/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/people/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/person/ajarn-dang-sak/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/person/ajarn-dang-sak/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/person/ajarn-dang-sak/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/person/ajarn-dang-sak/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/person/ajarn-dang-sak/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/person/ajarn-dang-sak/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/person/hovak-johnston/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/person/hovak-johnston/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/person/hovak-johnston/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/person/hovak-johnston/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/person/hovak-johnston/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/person/hovak-johnston/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/person/milne-shans/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/person/milne-shans/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/person/milne-shans/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/person/milne-shans/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/person/milne-shans/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/person/milne-shans/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/person/rabali/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/person/rabali/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/person/rabali/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/person/rabali/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/person/rabali/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/person/rabali/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/person/saya-chein/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/person/saya-chein/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/person/saya-chein/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/person/saya-chein/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/person/saya-chein/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/person/saya-chein/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/person/shway-yoe/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/person/shway-yoe/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/person/shway-yoe/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/person/shway-yoe/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/person/shway-yoe/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/person/shway-yoe/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/person/sulu-ape/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/person/sulu-ape/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/person/sulu-ape/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/person/sulu-ape/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/person/sulu-ape/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/person/sulu-ape/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/person/truhelka-gluck/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/person/truhelka-gluck/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/person/truhelka-gluck/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/person/truhelka-gluck/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/person/truhelka-gluck/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/person/truhelka-gluck/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/person/whang-od/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/person/whang-od/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/person/whang-od/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/person/whang-od/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/person/whang-od/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/person/whang-od/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/place/buscalan/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/place/buscalan/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/place/buscalan/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/place/buscalan/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/place/buscalan/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/place/buscalan/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/place/chiang-mai/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/place/chiang-mai/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/place/chiang-mai/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/place/chiang-mai/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/place/chiang-mai/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/place/chiang-mai/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/place/kengtung/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/place/kengtung/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/place/kengtung/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/place/kengtung/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/place/kengtung/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/place/kengtung/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/place/mandalay/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/place/mandalay/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/place/mandalay/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/place/mandalay/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/place/mandalay/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/place/mandalay/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/place/ukok/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/place/ukok/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/place/ukok/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/place/ukok/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/place/ukok/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/place/ukok/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/place/wat-phumin/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/place/wat-phumin/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/place/wat-phumin/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/place/wat-phumin/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/place/wat-phumin/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/place/wat-phumin/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/places/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/places/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/places/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/places/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/places/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/places/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/questions/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/questions/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/questions/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/questions/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/questions/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/questions/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/rite/khan-tang/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/rite/khan-tang/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/rite/khan-tang/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/rite/khan-tang/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/rite/khan-tang/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/rite/khan-tang/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/rite/kho-ham/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/rite/kho-ham/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/rite/kho-ham/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/rite/kho-ham/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/rite/kho-ham/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/rite/kho-ham/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/rite/the-pain/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/rite/the-pain/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/rite/the-pain/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/rite/the-pain/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/rite/the-pain/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/rite/the-pain/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/rite/the-timing/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/rite/the-timing/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/rite/the-timing/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/rite/the-timing/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/rite/the-timing/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/rite/the-timing/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/rite/who-holds-you/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/rite/who-holds-you/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/rite/who-holds-you/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/rite/who-holds-you/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/rite/who-holds-you/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/rite/who-holds-you/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/rites/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/rites/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/rites/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/rites/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/rites/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/rites/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/stories/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/stories/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/stories/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/stories/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/stories/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/stories/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/story/body/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/body/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/body/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/story/body/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/body/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/body/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/story/chin-ban/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/chin-ban/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/chin-ban/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/story/chin-ban/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/chin-ban/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/chin-ban/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/story/clothing/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/clothing/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/clothing/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/story/clothing/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/clothing/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/clothing/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/story/cook-1769/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/cook-1769/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/cook-1769/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/story/cook-1769/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/cook-1769/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/cook-1769/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/story/coverage/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/coverage/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/coverage/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/story/coverage/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/coverage/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/coverage/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/story/exhibited/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/exhibited/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/exhibited/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/story/exhibited/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/exhibited/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/exhibited/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/story/legs/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/legs/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/legs/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/story/legs/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/legs/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/legs/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/story/meiji-ban/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/meiji-ban/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/meiji-ban/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/story/meiji-ban/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/meiji-ban/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/meiji-ban/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/story/pintados/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/pintados/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/pintados/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/story/pintados/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/pintados/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/pintados/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/story/revival/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/revival/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/revival/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/story/revival/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/revival/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/revival/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/story/timeline/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/timeline/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/timeline/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/story/timeline/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/timeline/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/timeline/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/story/tohunga-act/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/tohunga-act/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/tohunga-act/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/story/tohunga-act/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/tohunga-act/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/tohunga-act/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/story/words/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/words/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/words/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/story/words/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/story/words/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/story/words/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/term/anchi-piri/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/anchi-piri/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/anchi-piri/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/term/anchi-piri/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/anchi-piri/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/anchi-piri/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/term/batok-word/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/batok-word/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/batok-word/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/term/batok-word/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/batok-word/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/batok-word/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/term/deq-word/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/deq-word/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/deq-word/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/term/deq-word/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/deq-word/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/deq-word/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/term/godna-word/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/godna-word/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/godna-word/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/term/godna-word/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/godna-word/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/godna-word/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/term/hajichi-word/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/hajichi-word/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/hajichi-word/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/term/hajichi-word/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/hajichi-word/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/hajichi-word/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/term/htoe-kwin-word/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/htoe-kwin-word/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/htoe-kwin-word/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/term/htoe-kwin-word/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/htoe-kwin-word/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/htoe-kwin-word/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/term/irezumi-word/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/irezumi-word/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/irezumi-word/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/term/irezumi-word/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/irezumi-word/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/irezumi-word/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/term/kakiniq/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/kakiniq/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/kakiniq/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/term/kakiniq/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/kakiniq/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/kakiniq/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/term/lao-phung-dam/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/lao-phung-dam/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/lao-phung-dam/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/term/lao-phung-dam/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/lao-phung-dam/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/lao-phung-dam/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/term/ming/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/ming/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/ming/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/term/ming/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/ming/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/ming/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/term/moko/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/moko/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/moko/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/term/moko/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/moko/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/moko/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/term/ptasan/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/ptasan/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/ptasan/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/term/ptasan/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/ptasan/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/ptasan/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/term/sak-kha-lai-word/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/sak-kha-lai-word/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/sak-kha-lai-word/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/term/sak-kha-lai-word/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/sak-kha-lai-word/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/sak-kha-lai-word/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/term/sak/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/sak/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/sak/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/term/sak/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/sak/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/sak/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/term/sicanje-word/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/sicanje-word/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/sicanje-word/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/term/sicanje-word/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/sicanje-word/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/sicanje-word/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/term/tatau-word/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/tatau-word/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/tatau-word/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/term/tatau-word/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/tatau-word/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/tatau-word/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/term/tua-mueang/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/tua-mueang/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/tua-mueang/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/term/tua-mueang/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/tua-mueang/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/tua-mueang/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/term/veiqia-word/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/veiqia-word/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/veiqia-word/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/term/veiqia-word/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/term/veiqia-word/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/term/veiqia-word/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/terms/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/terms/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/terms/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/terms/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/terms/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/terms/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/timeline/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/timeline/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/timeline/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/timeline/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/timeline/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/timeline/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tool/au/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tool/au/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tool/au/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tool/au/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tool/au/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tool/au/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tool/design-block/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tool/design-block/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tool/design-block/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tool/design-block/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tool/design-block/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tool/design-block/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tool/gisi-pat-ik/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tool/gisi-pat-ik/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tool/gisi-pat-ik/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tool/gisi-pat-ik/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tool/gisi-pat-ik/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tool/gisi-pat-ik/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tool/hnitkwasok/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tool/hnitkwasok/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tool/hnitkwasok/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tool/hnitkwasok/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tool/hnitkwasok/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tool/hnitkwasok/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tool/khem-sak/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tool/khem-sak/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tool/khem-sak/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tool/khem-sak/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tool/khem-sak/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tool/khem-sak/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tool/lek-char/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tool/lek-char/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tool/lek-char/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tool/lek-char/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tool/lek-char/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tool/lek-char/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tool/needle-and-sinew/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tool/needle-and-sinew/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tool/needle-and-sinew/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tool/needle-and-sinew/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tool/needle-and-sinew/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tool/needle-and-sinew/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tool/nomi/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tool/nomi/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tool/nomi/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tool/nomi/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tool/nomi/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tool/nomi/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tool/uhi/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tool/uhi/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tool/uhi/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tool/uhi/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tool/uhi/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tool/uhi/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tools/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tools/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tools/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tools/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tools/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tools/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/ainu-anchi-piri/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/ainu-anchi-piri/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/ainu-anchi-piri/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/ainu-anchi-piri/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/ainu-anchi-piri/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/ainu-anchi-piri/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/amazigh-marks/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/amazigh-marks/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/amazigh-marks/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/amazigh-marks/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/amazigh-marks/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/amazigh-marks/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/atayal-ptasan/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/atayal-ptasan/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/atayal-ptasan/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/atayal-ptasan/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/atayal-ptasan/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/atayal-ptasan/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/batok/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/batok/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/batok/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/batok/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/batok/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/batok/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/chin-ming/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/chin-ming/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/chin-ming/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/chin-ming/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/chin-ming/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/chin-ming/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/coptic-pilgrim/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/coptic-pilgrim/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/coptic-pilgrim/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/coptic-pilgrim/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/coptic-pilgrim/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/coptic-pilgrim/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/deq/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/deq/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/deq/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/deq/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/deq/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/deq/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/derung-face/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/derung-face/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/derung-face/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/derung-face/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/derung-face/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/derung-face/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/godna/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/godna/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/godna/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/godna/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/godna/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/godna/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/hajichi/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/hajichi/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/hajichi/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/hajichi/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/hajichi/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/hajichi/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/hlai-marks/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/hlai-marks/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/hlai-marks/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/hlai-marks/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/hlai-marks/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/hlai-marks/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/htoe-kwin/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/htoe-kwin/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/htoe-kwin/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/htoe-kwin/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/htoe-kwin/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/htoe-kwin/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/iban-borneo/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/iban-borneo/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/iban-borneo/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/iban-borneo/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/iban-borneo/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/iban-borneo/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/irezumi/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/irezumi/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/irezumi/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/irezumi/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/irezumi/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/irezumi/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/kakiniit/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/kakiniit/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/kakiniit/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/kakiniit/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/kakiniit/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/kakiniit/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/kalinga-cordillera/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/kalinga-cordillera/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/kalinga-cordillera/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/kalinga-cordillera/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/kalinga-cordillera/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/kalinga-cordillera/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/kayan-borneo/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/kayan-borneo/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/kayan-borneo/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/kayan-borneo/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/kayan-borneo/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/kayan-borneo/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/konyak-naga/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/konyak-naga/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/konyak-naga/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/konyak-naga/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/konyak-naga/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/konyak-naga/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/marquesan-patutiki/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/marquesan-patutiki/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/marquesan-patutiki/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/marquesan-patutiki/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/marquesan-patutiki/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/marquesan-patutiki/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/mentawai-titi/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/mentawai-titi/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/mentawai-titi/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/mentawai-titi/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/mentawai-titi/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/mentawai-titi/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/sak-kha-lai/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/sak-kha-lai/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/sak-kha-lai/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/sak-kha-lai/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/sak-kha-lai/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/sak-kha-lai/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/sak-yant/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/sak-yant/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/sak-yant/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/sak-yant/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/sak-yant/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/sak-yant/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/shan-tattooing/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/shan-tattooing/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/shan-tattooing/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/shan-tattooing/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/shan-tattooing/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/shan-tattooing/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/sicanje/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/sicanje/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/sicanje/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/sicanje/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/sicanje/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/sicanje/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/stick-and-poke/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/stick-and-poke/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/stick-and-poke/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/stick-and-poke/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/stick-and-poke/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/stick-and-poke/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/ta-moko/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/ta-moko/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/ta-moko/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/ta-moko/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/ta-moko/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/ta-moko/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/tatau/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/tatau/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/tatau/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/tatau/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/tatau/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/tatau/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/tradition/veiqia/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/veiqia/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/veiqia/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/tradition/veiqia/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/tradition/veiqia/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/tradition/veiqia/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/traditions/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/traditions/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/traditions/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/traditions/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/traditions/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/traditions/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/words/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/words/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/words/"/><lastmod>2026-09-19</lastmod></url>
-<url><loc>https://nanobotco.github.io/hand-poke/th/words/</loc><xhtml:link rel="alternate" hreflang="en" href="https://nanobotco.github.io/hand-poke/words/"/><xhtml:link rel="alternate" hreflang="th" href="https://nanobotco.github.io/hand-poke/th/words/"/><lastmod>2026-09-19</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://nanobotco.github.io/hand-poke/about/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/all/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/api/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/art/murals/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/art/sample-book/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/art/stencils/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/body/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/clothing/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/counted/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/coverage/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/depictions/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/designs/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/evidence/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/find/arku-cave/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/find/chinchorro-man/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/find/cordilleran-mummies/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/find/gebelein/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/find/ice-maiden/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/find/otzi/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/find/qilakitsoq/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/ink/awheto-ngarehu/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/ink/indigo/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/ink/lampblack/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/ink/nara-ink/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/ink/pen-ink/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/ink/soot-honey/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/ink/soot-milk/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/ink/soot-water/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/ink/vermilion/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/inks/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/issue/the-needle-now/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/issue/the-photographs/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/issue/what-counts/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/issue/who-wrote-it-down/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/issue/whose-designs/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/keepers/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/legs/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/map/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/method/cut/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/method/machine/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/method/poke/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/method/stitch/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/method/tap/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/methods/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/motif/bungai-terung/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/motif/cat-monkey/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/motif/chin-grid/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/motif/framed-animal/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/motif/gayaman/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/motif/hanuman/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/motif/moko-kauae/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/motif/mystic-square/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/motif/pilgrim-cross/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/motif/sedna-hands/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/org/sak-yant-chiang-mai/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/org/veiqia-project/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/org/wichaa/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/people/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/person/ajarn-dang-sak/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/person/hovak-johnston/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/person/milne-shans/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/person/rabali/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/person/saya-chein/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/person/shway-yoe/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/person/sulu-ape/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/person/truhelka-gluck/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/person/whang-od/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/place/buscalan/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/place/chiang-mai/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/place/kengtung/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/place/mandalay/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/place/ukok/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/place/wat-phumin/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/places/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/questions/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/rite/khan-tang/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/rite/kho-ham/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/rite/the-pain/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/rite/the-timing/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/rite/who-holds-you/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/rites/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/stories/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/story/body/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/story/chin-ban/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/story/clothing/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/story/cook-1769/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/story/coverage/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/story/exhibited/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/story/legs/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/story/meiji-ban/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/story/pintados/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/story/revival/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/story/timeline/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/story/tohunga-act/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/story/words/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/term/anchi-piri/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/term/batok-word/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/term/deq-word/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/term/godna-word/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/term/hajichi-word/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/term/htoe-kwin-word/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/term/irezumi-word/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/term/kakiniq/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/term/lao-phung-dam/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/term/ming/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/term/moko/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/term/ptasan/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/term/sak/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/term/sak-kha-lai-word/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/term/sicanje-word/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/term/tatau-word/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/term/tua-mueang/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/term/veiqia-word/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/terms/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/about/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/all/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/art/murals/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/art/sample-book/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/art/stencils/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/body/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/clothing/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/counted/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/coverage/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/depictions/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/designs/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/evidence/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/find/arku-cave/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/find/chinchorro-man/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/find/cordilleran-mummies/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/find/gebelein/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/find/ice-maiden/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/find/otzi/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/find/qilakitsoq/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/ink/awheto-ngarehu/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/ink/indigo/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/ink/lampblack/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/ink/nara-ink/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/ink/pen-ink/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/ink/soot-honey/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/ink/soot-milk/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/ink/soot-water/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/ink/vermilion/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/inks/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/issue/the-needle-now/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/issue/the-photographs/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/issue/what-counts/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/issue/who-wrote-it-down/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/issue/whose-designs/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/keepers/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/legs/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/map/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/method/cut/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/method/machine/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/method/poke/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/method/stitch/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/method/tap/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/methods/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/motif/bungai-terung/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/motif/cat-monkey/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/motif/chin-grid/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/motif/framed-animal/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/motif/gayaman/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/motif/hanuman/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/motif/moko-kauae/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/motif/mystic-square/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/motif/pilgrim-cross/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/motif/sedna-hands/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/org/sak-yant-chiang-mai/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/org/veiqia-project/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/org/wichaa/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/people/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/person/ajarn-dang-sak/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/person/hovak-johnston/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/person/milne-shans/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/person/rabali/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/person/saya-chein/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/person/shway-yoe/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/person/sulu-ape/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/person/truhelka-gluck/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/person/whang-od/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/place/buscalan/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/place/chiang-mai/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/place/kengtung/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/place/mandalay/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/place/ukok/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/place/wat-phumin/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/places/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/questions/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/rite/khan-tang/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/rite/kho-ham/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/rite/the-pain/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/rite/the-timing/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/rite/who-holds-you/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/rites/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/stories/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/story/body/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/story/chin-ban/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/story/clothing/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/story/cook-1769/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/story/coverage/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/story/exhibited/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/story/legs/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/story/meiji-ban/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/story/pintados/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/story/revival/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/story/timeline/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/story/tohunga-act/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/story/words/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/term/anchi-piri/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/term/batok-word/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/term/deq-word/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/term/godna-word/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/term/hajichi-word/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/term/htoe-kwin-word/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/term/irezumi-word/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/term/kakiniq/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/term/lao-phung-dam/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/term/ming/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/term/moko/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/term/ptasan/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/term/sak/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/term/sak-kha-lai-word/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/term/sicanje-word/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/term/tatau-word/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/term/tua-mueang/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/term/veiqia-word/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/terms/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/timeline/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tool/au/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tool/design-block/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tool/gisi-pat-ik/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tool/hnitkwasok/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tool/khem-sak/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tool/lek-char/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tool/needle-and-sinew/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tool/nomi/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tool/uhi/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tools/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/ainu-anchi-piri/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/amazigh-marks/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/atayal-ptasan/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/batok/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/chin-ming/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/coptic-pilgrim/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/deq/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/derung-face/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/godna/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/hajichi/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/hlai-marks/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/htoe-kwin/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/iban-borneo/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/irezumi/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/kakiniit/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/kalinga-cordillera/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/kayan-borneo/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/konyak-naga/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/marquesan-patutiki/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/mentawai-titi/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/sak-kha-lai/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/sak-yant/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/shan-tattooing/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/sicanje/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/stick-and-poke/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/ta-moko/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/tatau/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/tradition/veiqia/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/traditions/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/th/words/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/timeline/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tool/au/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tool/design-block/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tool/gisi-pat-ik/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tool/hnitkwasok/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tool/khem-sak/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tool/lek-char/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tool/needle-and-sinew/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tool/nomi/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tool/uhi/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tools/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/ainu-anchi-piri/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/amazigh-marks/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/atayal-ptasan/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/batok/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/chin-ming/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/coptic-pilgrim/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/deq/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/derung-face/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/godna/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/hajichi/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/hlai-marks/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/htoe-kwin/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/iban-borneo/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/irezumi/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/kakiniit/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/kalinga-cordillera/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/kayan-borneo/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/konyak-naga/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/marquesan-patutiki/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/mentawai-titi/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/sak-kha-lai/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/sak-yant/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/shan-tattooing/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/sicanje/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/stick-and-poke/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/ta-moko/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/tatau/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/tradition/veiqia/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/traditions/</loc></url>
+  <url><loc>https://nanobotco.github.io/hand-poke/words/</loc></url>
 </urlset>

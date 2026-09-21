@@ -1,16 +1,24 @@
 #!/bin/bash
-# Build the public site into docs/ — the directory GitHub Pages serves.
+# Build the site, and leave docs/ as redirects to wichaa.net/handpoke.
 #
-# The canonical host comes from docs/CNAME when a domain is attached, and falls back to
-# the GitHub Pages address. To attach a domain later:  CNAME=example.com ./publish.sh
-# To make this copy the canonical one rather than motdang.net:
-#   CANONICAL_URL=https://nanobotco.github.io/hand-poke ./publish.sh
+# THE SITE LIVES ON WICHAA — Nan's call, 2026-09-21
+# ------------------------------------------------
+# It was served from nanobotco.github.io/hand-poke, with a one-page corpus count at
+# wichaa.net/handpoke linking to it. Two hosts, and neither could carry the canonical
+# honestly: the companion held 1 page against 311, and a canonical pointing at
+# different content is either ignored or obeyed, and obeyed loses the site.
+#
+# So wichaa is the home. tools/export_wichaa.py builds the site and puts it in the
+# wiki's docs/ (manuscript-wiki/publishing/publish_site.sh runs it on every publish),
+# and this script leaves the GitHub copy as one redirect stub per address, which is
+# the most a static host can say. Nothing here is the canonical any more.
+#
+# To put the site back on this host, build with SITE_URL set and copy build/site into
+# docs/ as it used to — and change the canonical on wichaa in the same hour, not later.
 set -euo pipefail
 cd "$(dirname "$0")"
 
-DOMAIN="${CNAME:-$(head -1 docs/CNAME 2>/dev/null || true)}"
-if [ -n "$DOMAIN" ]; then SITE_URL="https://$DOMAIN"
-else SITE_URL="https://nanobotco.github.io/hand-poke"; fi
+SITE_URL="https://wichaa.net/handpoke"
 
 export PYTHONUTF8=1
 
@@ -32,14 +40,10 @@ python3 tools/cards.py
 # may answer with a 200 instead of a redirect
 python3 tools/links.py
 
-rm -rf docs
-mkdir -p docs
-cp -R build/site/ docs/
-touch docs/.nojekyll                      # so /api/ and dot-files are served as-is
-[ -n "$DOMAIN" ] && echo "$DOMAIN" > docs/CNAME
+python3 tools/redirect_stubs.py --to "$SITE_URL"
 
 # nothing that names this machine may be published
 if grep -rl "/Users/" docs >/dev/null 2>&1; then
   echo "REFUSED: host paths found in docs/"; exit 2
 fi
-echo "docs/ built for $SITE_URL — $(find docs -name '*.html' | wc -l | tr -d ' ') pages, $(du -sh docs | cut -f1)"
+echo "docs/ redirects to $SITE_URL/ — $(find docs -name '*.html' | wc -l | tr -d ' ') stubs, $(du -sh docs | cut -f1)"

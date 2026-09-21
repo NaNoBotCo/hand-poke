@@ -4,8 +4,11 @@
 marked, who does the marking, where on the body, and whether anyone is still doing it.
 Bilingual English and Thai, every claim tiered and sourced.
 
-**Live:** https://nanobotco.github.io/hand-poke/ · a companion page sits on
-[wichaa.net](https://wichaa.net/handpoke/).
+**Live:** https://wichaa.net/handpoke/ — the home since 2026-09-21. The
+GitHub Pages copy at `nanobotco.github.io/hand-poke/` is redirect stubs now; a
+static host cannot answer 301, so each address carries a canonical, a meta
+refresh and a link. The corpus count that used to be the whole of the wichaa
+page kept its own door at [/handpoke/corpus/](https://wichaa.net/handpoke/corpus/).
 
 ## What is in it
 

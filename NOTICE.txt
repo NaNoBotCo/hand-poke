@@ -4,7 +4,7 @@ CODE — tools/, schema/, publish.sh
     MIT, see LICENSE.
 
 RECORDS AND TEXT — data/nodes/, data/vocab/, data/sources/, README.md
-    CC BY 4.0. Attribute to https://nanobotco.github.io/hand-poke/ .
+    CC BY 4.0. Attribute to https://wichaa.net/handpoke/ .
 
 HARVESTED AND QUOTED MATERIAL
     Wikipedia, English and Thai — CC BY-SA 4.0. Used as a drafting corpus; the corpus
