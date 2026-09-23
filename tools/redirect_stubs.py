@@ -27,13 +27,16 @@ DOCS = ROOT / "docs"
 OLD = "https://nanobotco.github.io/hand-poke"
 
 PAGE = """<!doctype html>
-<html lang="{lang}">
+<html lang="{lang}" translate="no" class="notranslate">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Moved to wichaa.net</title>
 <link rel="canonical" href="{new}">
 <meta http-equiv="refresh" content="0; url={new}">
 <meta name="referrer" content="no-referrer-when-downgrade">
+<meta name="google" content="notranslate">
+<meta name="robots" content="notranslate">
+<script>if(/[.]translate[.]goog$/.test(location.hostname))location.replace("https://"+location.hostname.slice(0,-15).replace(/--/g,"~").replace(/-/g,".").replace(/~/g,"-")+location.pathname+location.search.replace(/([?&])_x_tr_[^&]*/g,"$1").replace(/[?&]+$/,"").replace(/[?]&+/,"?")+location.hash)</script>
 <style>
   body{{font:16px/1.6 system-ui,-apple-system,"Segoe UI",sans-serif;
        margin:0;display:grid;place-items:center;min-height:100vh;
