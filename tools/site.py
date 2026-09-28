@@ -245,7 +245,7 @@ def page(title, body, depth, lang, desc="", jsonld=None, head="", cur="", path="
 <link rel="alternate" type="application/atom+xml" href="{r}feed.xml">
 <style>{CSS}</style>{head}
 <script type="application/ld+json">{ld}</script>
-<script defer src="{r}copy.js"></script>
+<script defer src="{r}copy.js?v=20260928n"></script>
 <meta name="google" content="notranslate">
 <meta name="robots" content="notranslate">
 <script>if(/[.]translate[.]goog$/.test(location.hostname))location.replace("https://"+location.hostname.slice(0,-15).replace(/--/g,"~").replace(/-/g,".").replace(/~/g,"-")+location.pathname+location.search.replace(/([?&])_x_tr_[^&]*/g,"$1").replace(/[?&]+$/,"").replace(/[?]&+/,"?")+location.hash)</script>
@@ -1682,15 +1682,15 @@ var b=e.target.closest("[data-copy]");if(!b)return;
 navigator.clipboard.writeText(b.dataset.copy).then(function(){
 var s=b.querySelector("span");if(!s)return;var t=s.textContent;s.textContent="Copied";
 setTimeout(function(){s.textContent=t},1600)})});
-(function(){var h=document.querySelector("header.top");if(!h)return;
-var b=document.body,last=window.pageYOffset,hh=h.offsetHeight;
-addEventListener("resize",function(){hh=h.offsetHeight},{passive:true});
-addEventListener("scroll",function(){var y=window.pageYOffset,d=y-last;
-if(y<=hh||d<-4){b.classList.remove("nav-away")}
-else if(d>4){b.classList.add("nav-away")}
-if(Math.abs(d)>1)last=y},{passive:true});
-addEventListener("focusin",function(e){if(h.contains(e.target))
-b.classList.remove("nav-away")});})();"""
+/* the top bar folds to the brand past the fold, leaves on scroll-down and
+   returns on 90 px of deliberate scroll-up (motdang's rule, 2026-09-28).
+   The fold keeps the page's height: the rows it drops become margin under
+   the bar, so nothing below moves and the browser does not re-anchor the
+   scroll, which read as an upward scroll and brought the bar straight back.
+   Scroll anchoring is off for the instant of the fold: the height is read
+   between the two steps, and Chrome anchored on that half-folded layout and
+   threw the page back to the top. */
+(function(){var h=document.querySelector("header.top");if(!h)return;var b=document.body,y=window.pageYOffset,up=0,dn=0,t=false;function tight(on){if(on===b.classList.contains("nav-tight"))return;var r=document.documentElement.style;r.overflowAnchor="none";h.style.marginBottom="";var a=h.offsetHeight;b.classList.toggle("nav-tight",on);if(on)h.style.marginBottom=Math.max(0,a-h.offsetHeight)+"px";h.offsetHeight;r.overflowAnchor=""}function f(){t=false;var n=window.pageYOffset,d=n-y;y=n;if(n<60){up=dn=0;b.classList.remove("nav-away");tight(false);return}tight(true);if(d>0){dn+=d;up=0;if(dn>14)b.classList.add("nav-away")}else if(d<0){up-=d;dn=0;if(up>90)b.classList.remove("nav-away")}}addEventListener("scroll",function(){if(!t){t=true;requestAnimationFrame(f)}},{passive:true});addEventListener("resize",function(){if(b.classList.contains("nav-tight")){b.classList.remove("nav-tight");tight(true)}},{passive:true});addEventListener("focusin",function(e){if(h.contains(e.target)){b.classList.remove("nav-away");tight(false)}});f()})();"""
 
 
 # ---------------------------------------------------------------- main
