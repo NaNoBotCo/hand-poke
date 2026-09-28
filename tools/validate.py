@@ -51,12 +51,14 @@ DRAFT = bool(os.environ.get("BUILD_DRAFT"))
 # quotation marks and attributed. Outside a quotation, name the people.
 # `ladyboy` is in the list for the same reason and with the same exception: the English
 # Wikipedia article on Parinya Charoenphol uses it as a gloss on kathoey, quoted.
+# stylecheck: allow-start
 BANNED = re.compile(
     r"\b(authentic(ity|ally)?|inauthentic|primitive|savage|exotic|unspoil\w+|untouched"
     r"|backward|hidden gems?|off the beaten (track|path)|must[- ]see|must[- ]do"
     r"|bucket[- ]list|the real thing|real tattoos?|true tradition|honest(ly|y)?"
     r"|purist|ancient secrets?|mystical secrets?|lost art|dying breed"
     r"|breathtaking|stunning|noble savage|hidden treasures?|best[- ]kept secret)\b", re.I)
+# stylecheck: allow-end
 
 
 def _get(rec: dict, dotted: str):
