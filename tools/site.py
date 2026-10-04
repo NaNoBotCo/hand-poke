@@ -1211,8 +1211,6 @@ def counted_page(lang: str) -> str:
                "publishes one, and the estimates that circulate have no method attached.\n"
                "- No designs to copy. Several traditions here hold that certain marks may "
                "not be worn by people who have not earned them.\n"
-               "- No medical advice, no aftercare, no opinion about where anyone should be "
-               "tattooed.\n"
                "- No photographs of a tattoo in progress that read as blood.\n"
                "- No Thai translation of every record: the English is shown where the Thai "
                "is missing, and the page says so."
@@ -1220,7 +1218,6 @@ def counted_page(lang: str) -> str:
                "- ไม่มีราคาของการสักที่ไหนทั้งสิ้น และไม่มีการจอง\n"
                "- ไม่มีตัวเลขว่าคนที่มีชีวิตอยู่ตอนนี้มีรอยเหล่านี้กี่คน ไม่มีใครเผยแพร่ และตัวเลขที่วนอยู่ไม่มีวิธีนับกำกับ\n"
                "- ไม่มีลายให้ลอก หลายธรรมเนียมถือว่าลายบางลายสวมไม่ได้ถ้าไม่ได้มาด้วยการกระทำ\n"
-               "- ไม่มีคำแนะนำทางการแพทย์ ไม่มีวิธีดูแลแผล ไม่มีความเห็นว่าใครควรไปสักที่ไหน\n"
                "- ไม่มีภาพการสักระหว่างทำที่อ่านออกมาเป็นเลือด\n"
                "- ไม่ได้แปลทุกบันทึกเป็นภาษาไทย ตรงที่ไม่มีภาษาไทยจะแสดงภาษาอังกฤษและบอกไว้")
     b.append(prose(missing))
