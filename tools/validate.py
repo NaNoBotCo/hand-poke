@@ -209,10 +209,10 @@ def validate_all(strict=False, quiet=False) -> int:
     errors += check_images(recs)
     if not quiet:
         for w in warns:
-            print("warn ", w)
+            print("warn ", w)  # stylecheck: allow — build log, not reader copy
         for e in errors:
             print("ERROR", e)
-        print(f"{len(recs)} records · {len(errors)} errors · {len(warns)} warnings")
+        print(f"{len(recs)} records · {len(errors)} errors · {len(warns)} warnings")  # stylecheck: allow — build log, not reader copy
     if errors or (strict and warns):
         return 1
     return 0
