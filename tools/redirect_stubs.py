@@ -18,6 +18,7 @@ from __future__ import annotations
 
 import argparse
 import html
+import re
 import shutil
 from pathlib import Path
 
@@ -34,7 +35,7 @@ PAGE = """<!doctype html>
 <link rel="canonical" href="{new}">
 <meta http-equiv="refresh" content="0; url={new}">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<meta name="google" content="notranslate">
+{cardmeta}<meta name="google" content="notranslate">
 <meta name="robots" content="notranslate">
 <script>if(/[.]translate[.]goog$/.test(location.hostname))location.replace("https://"+location.hostname.slice(0,-15).replace(/--/g,"~").replace(/-/g,".").replace(/~/g,"-")+location.pathname+location.search.replace(/([?&])_x_tr_[^&]*/g,"$1").replace(/[?&]+$/,"").replace(/[?]&+/,"?")+location.hash)</script>
 <style>
@@ -50,6 +51,31 @@ PAGE = """<!doctype html>
 </main>
 </html>
 """
+
+
+CARD_KEYS = ("og:title", "og:description", "og:type", "og:site_name", "og:locale",
+             "og:image", "og:image:secure_url", "og:image:type", "og:image:width",
+             "og:image:height", "og:image:alt", "twitter:card", "twitter:image")
+META = re.compile(r'<meta (?:property|name)="([^"]+)" content="([^"]*)">')
+
+
+def card_meta(built: Path, new: str) -> str:
+    """The link-card tags of the built page, with the address pointing at its new home,
+    so a feed that reads the stub shows the same card as the page it moved to."""
+    found = {}
+    for k, v in META.findall(built.read_text(encoding="utf-8")):
+        if k in CARD_KEYS and k not in found:
+            found[k] = v
+    if "og:image" not in found:
+        return ""
+    found["og:url"] = html.escape(new, quote=True)
+    order = ("og:title", "og:description", "og:type", "og:url", "og:site_name",
+             "og:locale", "twitter:card", "og:image", "og:image:secure_url",
+             "og:image:type", "og:image:width", "og:image:height", "og:image:alt",
+             "twitter:image")
+    return "".join(f'<meta property="{k}" content="{found[k]}">\n' if k.startswith("og:")
+                   else f'<meta name="{k}" content="{found[k]}">\n'
+                   for k in order if k in found)
 
 
 def main() -> int:
@@ -80,6 +106,7 @@ def main() -> int:
         new = f"{new_base}/{path}"
         out.write_text(PAGE.format(new=html.escape(new, quote=True),
                                    shown=html.escape(new.replace("https://", "")),
+                                   cardmeta=card_meta(p, new),
                                    lang="th" if rel.as_posix().startswith("th/") else "en"),
                        encoding="utf-8")
         locs.append(f"{OLD}/{path}")
