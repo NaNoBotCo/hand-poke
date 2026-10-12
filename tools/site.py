@@ -190,6 +190,15 @@ def url_of(r: dict, lang="en") -> str:
     return f"{PATH_OF[r['type']]}/{r['id']}/"
 
 
+def card_of(n):
+    """cards.py draws a record's own card only when the record has a photograph, so a
+    record without one takes its section's card, then the site's."""
+    if n.get("images"):
+        return f'{n["type"]}-{n["id"]}'
+    section = DIR_OF.get(n["type"], "")
+    return section if section and (SITE / "cards" / f"{section}.jpg").exists() else "index"
+
+
 def page(title, body, depth, lang, desc="", jsonld=None, head="", cur="", path="", card=""):
     """`depth` is the page's depth below its LANGUAGE root, which is what the body's own
     links are built against. A Thai page sits one level deeper than that below the site
@@ -1699,7 +1708,7 @@ def write(path: Path, text: str):
 def main() -> int:
     if SITE.exists():
         for child in SITE.iterdir():
-            if child.name in ("world.svg", "legs.svg"):
+            if child.name in ("world.svg", "legs.svg", "cards"):
                 continue
             shutil.rmtree(child) if child.is_dir() else child.unlink()
     SITE.mkdir(parents=True, exist_ok=True)
@@ -1763,7 +1772,7 @@ def main() -> int:
             write(base / url_of(n) / "index.html",
                   page(f"{name} — {NAME[lang]}", node_page(n, lang), 2, lang, desc=desc,
                        jsonld=nld, cur="", path=url_of(n),
-                       card=f'{n["type"]}-{n["id"]}'))
+                       card=card_of(n)))
             pages += 1
 
     # machine files, once
